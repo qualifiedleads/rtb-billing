@@ -1,0 +1,15 @@
+{
+    "report": {
+        "format": "csv",
+        "report_interval": "month_to_date",
+        "filters": [
+            {
+                "member_id": {{member_id}}
+            }
+        ],
+        "columns": [
+            "total_audit_fee"
+        ],
+        "report_type": "completed_creative_audits"
+    }
+}
