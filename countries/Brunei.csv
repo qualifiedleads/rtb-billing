@@ -1,0 +1,174 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+BN,Brunei Darussalam,181,Google AdExchange,"all",any_status,external,appnexus,false,5548700,170900,28233867400,959451500,--,Unknown,--
+BN,Brunei Darussalam,357,OpenX,"all",any_status,external,appnexus,false,1494900,26300,5480947400,127566900,--,Unknown,--
+BN,Brunei Darussalam,459,Rubicon,"all",any_status,external,appnexus,false,782800,32400,5398288100,219468400,--,Unknown,--
+BN,Brunei Darussalam,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,774200,9700,2174215700,44278600,--,Unknown,--
+BN,Brunei Darussalam,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,446800,10000,341724700,17293700,--,Unknown,--
+BN,Brunei Darussalam,2850,MobFox,"all",any_status,platform,appnexus,false,299000,14400,617754000,33916100,--,Unknown,--
+BN,Brunei Darussalam,74,PubMatic,"all",any_status,external,appnexus,false,197800,12800,1408932400,73943500,--,Unknown,--
+BN,Brunei Darussalam,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,95800,4100,1206552000,52265100,--,Unknown,--
+BN,Brunei Darussalam,1356,bRealTime (select),"all",any_status,platform,appnexus,false,81700,7800,327708200,26451300,--,Unknown,--
+BN,Brunei Darussalam,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,71900,7500,35500900,5026100,--,Unknown,--
+BN,Brunei Darussalam,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,67300,8500,1866171500,134504500,--,Unknown,--
+BN,Brunei Darussalam,1360,Sovrn,"all",any_status,platform,appnexus,false,53900,5900,400642400,23323000,--,Unknown,--
+BN,Brunei Darussalam,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,38100,4900,8000000,1228100,--,Unknown,--
+BN,Brunei Darussalam,1475,Lifestreet,"all",any_status,platform,appnexus,false,37100,700,242585900,5057200,--,Unknown,--
+BN,Brunei Darussalam,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,37000,400,76563700,1162600,--,Unknown,--
+BN,Brunei Darussalam,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,33500,400,67112200,3425500,--,Unknown,--
+BN,Brunei Darussalam,2721,Kiosked,"all",any_status,platform,appnexus,false,31500,5400,84569700,10245200,--,Unknown,--
+BN,Brunei Darussalam,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,25600,400,37441400,3708500,--,Unknown,--
+BN,Brunei Darussalam,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,24500,900,93859100,18219400,--,Unknown,--
+BN,Brunei Darussalam,1942,Floor6,"all",any_status,platform,appnexus,false,21400,1600,41027600,5864100,--,Unknown,--
+BN,Brunei Darussalam,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,20200,3800,60998700,8550900,--,Unknown,--
+BN,Brunei Darussalam,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,19800,1400,190575900,16112500,--,Unknown,--
+BN,Brunei Darussalam,541,CPXInteractive,"all",any_status,platform,appnexus,false,15600,3000,38468600,5292100,--,Unknown,--
+BN,Brunei Darussalam,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,14800,3000,50860000,7782600,--,Unknown,--
+BN,Brunei Darussalam,310,Technorati Media,"all",any_status,platform,appnexus,false,14100,1900,64536800,6342900,--,Unknown,--
+BN,Brunei Darussalam,86,Photobucket,"all",any_status,external,appnexus,false,13400,300,10687900,596400,--,Unknown,--
+BN,Brunei Darussalam,3192,RTB Media,"all",any_status,platform,appnexus,false,13200,1900,9047300,2346100,--,Unknown,--
+BN,Brunei Darussalam,3204,Purch,"all",any_status,platform,appnexus,false,12700,1800,33563400,4355800,--,Unknown,--
+BN,Brunei Darussalam,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,12000,1600,166429900,7648600,--,Unknown,--
+BN,Brunei Darussalam,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,11900,8600,2121409200,520131400,--,Unknown,--
+BN,Brunei Darussalam,882,AN Talent,"all",any_status,platform,appnexus,false,11800,2600,50438600,13544900,--,Unknown,--
+BN,Brunei Darussalam,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,11700,2700,8096600,1668000,--,Unknown,--
+BN,Brunei Darussalam,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,11200,200,22300800,414400,--,Unknown,--
+BN,Brunei Darussalam,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,10700,700,27850600,5122800,--,Unknown,--
+BN,Brunei Darussalam,928,Suite66,"all",any_status,platform,appnexus,false,10200,1600,4874500,704400,--,Unknown,--
+BN,Brunei Darussalam,1619,ReklamStore,"all",any_status,platform,appnexus,false,10100,200,32005800,4616300,--,Unknown,--
+BN,Brunei Darussalam,1756,Adversal.com,"all",any_status,platform,appnexus,false,8200,900,14173900,1426500,--,Unknown,--
+BN,Brunei Darussalam,1357,bRealTime,"all",any_status,platform,appnexus,false,7300,700,12048300,1469800,--,Unknown,--
+BN,Brunei Darussalam,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,7000,100,286290200,3534600,--,Unknown,--
+BN,Brunei Darussalam,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,6700,1000,103106400,11015600,--,Unknown,--
+BN,Brunei Darussalam,1081,Sonobi,"all",any_status,platform,appnexus,false,5700,1200,41318500,4009000,--,Unknown,--
+BN,Brunei Darussalam,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,5600,700,19737800,1365600,--,Unknown,--
+BN,Brunei Darussalam,2804,Adshoard,"all",any_status,platform,appnexus,false,5300,200,15208300,1517700,--,Unknown,--
+BN,Brunei Darussalam,1908,District M,"all",any_status,platform,appnexus,false,5300,1700,85430500,9861500,--,Unknown,--
+BN,Brunei Darussalam,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,5000,200,16758500,1276400,--,Unknown,--
+BN,Brunei Darussalam,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,4700,300,3984400,147800,--,Unknown,--
+BN,Brunei Darussalam,1882,TapTica LTD,"all",any_status,platform,appnexus,false,4500,600,87218100,23348500,--,Unknown,--
+BN,Brunei Darussalam,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,4200,600,8224700,1803300,--,Unknown,--
+BN,Brunei Darussalam,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,3900,200,6143900,144300,--,Unknown,--
+BN,Brunei Darussalam,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,3800,1000,7319800,1991600,--,Unknown,--
+BN,Brunei Darussalam,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,3500,200,18055600,4241400,--,Unknown,--
+BN,Brunei Darussalam,2688,Metric Science,"all",any_status,platform,appnexus,false,3500,500,9565700,2018900,--,Unknown,--
+BN,Brunei Darussalam,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,3300,300,6341900,228700,--,Unknown,--
+BN,Brunei Darussalam,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,3100,100,120590500,5347900,--,Unknown,--
+BN,Brunei Darussalam,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,3100,200,2805200,221700,--,Unknown,--
+BN,Brunei Darussalam,2660,DMG Mobile,"all",any_status,platform,appnexus,false,3000,100,2127700,100,--,Unknown,--
+BN,Brunei Darussalam,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,3000,100,430811700,17143500,--,Unknown,--
+BN,Brunei Darussalam,2251,Waypoint Media,"all",any_status,platform,appnexus,false,2900,300,3297000,184900,--,Unknown,--
+BN,Brunei Darussalam,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,2800,1500,11679100,3946900,--,Unknown,--
+BN,Brunei Darussalam,3208,Lyfe Media,"all",any_status,platform,appnexus,false,2700,400,3124700,202300,--,Unknown,--
+BN,Brunei Darussalam,3450,Northern & Shell,"all",any_status,platform,appnexus,false,2600,400,2119900,290900,--,Unknown,--
+BN,Brunei Darussalam,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,2400,100,24284900,766700,--,Unknown,--
+BN,Brunei Darussalam,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,2300,1000,18452300,6512900,--,Unknown,--
+BN,Brunei Darussalam,2854,The Blogger Network,"all",any_status,platform,appnexus,false,2200,300,8885000,1294800,--,Unknown,--
+BN,Brunei Darussalam,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,2200,300,1875200,314600,--,Unknown,--
+BN,Brunei Darussalam,2654,Profound,"all",any_status,platform,appnexus,false,1700,100,278400,54700,--,Unknown,--
+BN,Brunei Darussalam,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,1700,500,3909100,819600,--,Unknown,--
+BN,Brunei Darussalam,1611,Headway Digital,"all",any_status,platform,appnexus,false,1600,300,14236300,1268000,--,Unknown,--
+BN,Brunei Darussalam,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,1600,200,4430900,730200,--,Unknown,--
+BN,Brunei Darussalam,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,1600,200,1057900,230700,--,Unknown,--
+BN,Brunei Darussalam,1939,152 Media LLC,"all",any_status,platform,appnexus,false,1500,500,10516600,1985700,--,Unknown,--
+BN,Brunei Darussalam,1613,Defy Media,"all",any_status,platform,appnexus,false,1500,500,73239200,4465300,--,Unknown,--
+BN,Brunei Darussalam,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,1400,400,2787500,599200,--,Unknown,--
+BN,Brunei Darussalam,406,CPM Only,"all",any_status,platform,appnexus,false,1300,200,22587800,1241100,--,Unknown,--
+BN,Brunei Darussalam,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,1300,400,23964200,1700200,--,Unknown,--
+BN,Brunei Darussalam,927,Adgorithms,"all",any_status,platform,appnexus,false,1300,200,6947600,360600,--,Unknown,--
+BN,Brunei Darussalam,3006,CodeFuel,"all",any_status,platform,appnexus,false,1300,600,754300,274900,--,Unknown,--
+BN,Brunei Darussalam,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,1300,500,21596300,4597200,--,Unknown,--
+BN,Brunei Darussalam,3416,Core2Digital Premium,"all",any_status,platform,appnexus,false,1300,100,1194100,449100,--,Unknown,--
+BN,Brunei Darussalam,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,1200,300,5545300,875700,--,Unknown,--
+BN,Brunei Darussalam,855,Adadyn Premium,"all",any_status,platform,appnexus,false,1200,100,4408100,1285700,--,Unknown,--
+BN,Brunei Darussalam,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,1100,100,3114300,586100,--,Unknown,--
+BN,Brunei Darussalam,3135,33Across Real Display,"all",any_status,platform,appnexus,false,1100,300,4519500,1104400,--,Unknown,--
+BN,Brunei Darussalam,3020,Mojiva II,"all",any_status,platform,appnexus,false,1100,300,130720700,11697300,--,Unknown,--
+BN,Brunei Darussalam,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,1000,300,19222500,1853100,--,Unknown,--
+BN,Brunei Darussalam,1755,Digital Throttle,"all",any_status,platform,appnexus,false,1000,200,3712700,358400,--,Unknown,--
+BN,Brunei Darussalam,1608,Audience Square,"all",any_status,platform,appnexus,false,900,100,105327200,8530300,--,Unknown,--
+BN,Brunei Darussalam,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,900,200,3647300,408900,--,Unknown,--
+BN,Brunei Darussalam,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,900,300,2499600,401500,--,Unknown,--
+BN,Brunei Darussalam,568,Httpool,"all",any_status,platform,appnexus,false,800,200,4528700,487200,--,Unknown,--
+BN,Brunei Darussalam,1449,Adtegrity,"all",any_status,platform,appnexus,false,800,400,30828900,3626800,--,Unknown,--
+BN,Brunei Darussalam,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,800,100,7192100,699100,--,Unknown,--
+BN,Brunei Darussalam,2669,Brightcom Media,"all",any_status,platform,appnexus,false,700,500,6016600,1760400,--,Unknown,--
+BN,Brunei Darussalam,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,700,100,750100,62900,--,Unknown,--
+BN,Brunei Darussalam,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,700,300,6251600,665800,--,Unknown,--
+BN,Brunei Darussalam,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,600,200,3489700,554200,--,Unknown,--
+BN,Brunei Darussalam,3329,AdRaiden,"all",any_status,platform,appnexus,false,600,100,59013500,8240600,--,Unknown,--
+BN,Brunei Darussalam,1643,Fidelity Media,"all",any_status,platform,appnexus,false,600,200,2190000,227800,--,Unknown,--
+BN,Brunei Darussalam,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,600,300,9531000,2986500,--,Unknown,--
+BN,Brunei Darussalam,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,600,200,405800,85600,--,Unknown,--
+BN,Brunei Darussalam,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,600,200,1058100,325200,--,Unknown,--
+BN,Brunei Darussalam,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,600,300,16374000,2597100,--,Unknown,--
+BN,Brunei Darussalam,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,600,400,969700,491000,--,Unknown,--
+BN,Brunei Darussalam,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,600,200,6022900,193200,--,Unknown,--
+BN,Brunei Darussalam,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,500,100,2652700,523300,--,Unknown,--
+BN,Brunei Darussalam,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,500,100,578500,93600,--,Unknown,--
+BN,Brunei Darussalam,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,500,200,2649700,627500,--,Unknown,--
+BN,Brunei Darussalam,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,500,200,3915900,451600,--,Unknown,--
+BN,Brunei Darussalam,884,Hi-Media,"all",any_status,platform,appnexus,false,500,200,78818800,7489400,--,Unknown,--
+BN,Brunei Darussalam,1413,DTCN,"all",any_status,platform,appnexus,false,500,200,3607300,146200,--,Unknown,--
+BN,Brunei Darussalam,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,400,200,1489800,468100,--,Unknown,--
+BN,Brunei Darussalam,1393,ReactX,"all",any_status,platform,appnexus,false,400,300,4958500,1271600,--,Unknown,--
+BN,Brunei Darussalam,620,Mediafem LLC,"all",any_status,platform,appnexus,false,400,200,4461200,553100,--,Unknown,--
+BN,Brunei Darussalam,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,400,100,1126400,108700,--,Unknown,--
+BN,Brunei Darussalam,3097,Digital Space,"all",any_status,platform,appnexus,false,400,100,1268300,217200,--,Unknown,--
+BN,Brunei Darussalam,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,400,100,4293200,550100,--,Unknown,--
+BN,Brunei Darussalam,3500,ASQ Brand,"all",any_status,platform,appnexus,false,400,100,30855200,1884800,--,Unknown,--
+BN,Brunei Darussalam,2562,N&S Plus,"all",any_status,platform,appnexus,false,400,200,764400,200900,--,Unknown,--
+BN,Brunei Darussalam,2568,Engage:BDR,"all",any_status,platform,appnexus,false,400,100,13185900,896900,--,Unknown,--
+BN,Brunei Darussalam,1906,Velis Media,"all",any_status,platform,appnexus,false,400,200,1743200,404400,--,Unknown,--
+BN,Brunei Darussalam,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,400,100,2358300,245600,--,Unknown,--
+BN,Brunei Darussalam,1749,W M Web Media,"all",any_status,platform,appnexus,false,300,200,16480000,3492000,--,Unknown,--
+BN,Brunei Darussalam,1548,Criteo,"all",any_status,external,appnexus,false,300,100,342165000,40879100,--,Unknown,--
+BN,Brunei Darussalam,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,300,300,551600,295300,--,Unknown,--
+BN,Brunei Darussalam,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,300,200,15959100,5178000,--,Unknown,--
+BN,Brunei Darussalam,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,300,100,619100,145100,--,Unknown,--
+BN,Brunei Darussalam,3456,A Plus,"all",any_status,platform,appnexus,false,300,200,1593200,492300,--,Unknown,--
+BN,Brunei Darussalam,806,Venatus Media,"all",any_status,platform,appnexus,false,300,100,5557600,602200,--,Unknown,--
+BN,Brunei Darussalam,3098,WEBEDIA,"all",any_status,platform,appnexus,false,200,100,23991600,2742200,--,Unknown,--
+BN,Brunei Darussalam,3366,AerServ LLC,"all",any_status,platform,appnexus,false,200,100,96664800,5504300,--,Unknown,--
+BN,Brunei Darussalam,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,200,100,7914300,319800,--,Unknown,--
+BN,Brunei Darussalam,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,200,100,987200,136500,--,Unknown,--
+BN,Brunei Darussalam,2365,SouthernX,"all",any_status,platform,appnexus,false,200,100,9032200,796600,--,Unknown,--
+BN,Brunei Darussalam,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,200,100,30389900,1033700,--,Unknown,--
+BN,Brunei Darussalam,2935,Suite66 Select,"all",any_status,platform,appnexus,false,200,100,2782400,514400,--,Unknown,--
+BN,Brunei Darussalam,2732,Matchflow Media,"all",any_status,platform,appnexus,false,200,100,7335600,1014400,--,Unknown,--
+BN,Brunei Darussalam,2007,Affinity.com,"all",any_status,platform,appnexus,false,200,200,2962400,795400,--,Unknown,--
+BN,Brunei Darussalam,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,200,100,2171600,343900,--,Unknown,--
+BN,Brunei Darussalam,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,200,100,3379300,1153500,--,Unknown,--
+BN,Brunei Darussalam,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,200,200,4063700,606100,--,Unknown,--
+BN,Brunei Darussalam,818,MediaShakers,"all",any_status,platform,appnexus,false,200,200,9935200,1579700,--,Unknown,--
+BN,Brunei Darussalam,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,200,100,3003300,282300,--,Unknown,--
+BN,Brunei Darussalam,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,200,100,54100,26800,--,Unknown,--
+BN,Brunei Darussalam,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,200,100,1747100,91500,--,Unknown,--
+BN,Brunei Darussalam,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,200,100,383400,84200,--,Unknown,--
+BN,Brunei Darussalam,1583,Admeta AB,"all",any_status,platform,appnexus,false,100,100,14256000,1033900,--,Unknown,--
+BN,Brunei Darussalam,3058,Innity Corporation Berhad,"all",any_status,platform,appnexus,false,100,100,3433900,1945100,--,Unknown,--
+BN,Brunei Darussalam,2564,24/7 Media France,"all",any_status,platform,appnexus,false,100,100,10662500,1376600,--,Unknown,--
+BN,Brunei Darussalam,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,100,100,467900,96400,--,Unknown,--
+BN,Brunei Darussalam,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,100,100,626600,300300,--,Unknown,--
+BN,Brunei Darussalam,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,100,100,5027900,2395500,--,Unknown,--
+BN,Brunei Darussalam,3120,Capslock Digital Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,100,100,6000,800,--,Unknown,--
+BN,Brunei Darussalam,1405,Adscale GmbH,"all",any_status,external,appnexus,false,100,100,24769000,2453000,--,Unknown,--
+BN,Brunei Darussalam,848,AdExtent,"all",any_status,platform,appnexus,false,100,200,9700,4000,--,Unknown,--
+BN,Brunei Darussalam,956,Zodiak Active,"all",any_status,platform,appnexus,false,100,100,42149500,4493100,--,Unknown,--
+BN,Brunei Darussalam,1226,AOL Marketplace,"all",any_status,external,appnexus,false,100,100,239525900,16680800,--,Unknown,--
+BN,Brunei Darussalam,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,100,100,3496400,1744800,--,Unknown,--
+BN,Brunei Darussalam,3153,152 Media Select,"all",any_status,platform,appnexus,false,100,100,2747300,124000,--,Unknown,--
+BN,Brunei Darussalam,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,100,100,172400,72600,--,Unknown,--
+BN,Brunei Darussalam,2011,Apex,"all",any_status,platform,appnexus,false,100,100,923200,342300,--,Unknown,--
+BN,Brunei Darussalam,2420,TailWind 3,"all",any_status,platform,appnexus,false,100,100,10261300,2274800,--,Unknown,--
+BN,Brunei Darussalam,2579,Quantum,"all",any_status,platform,appnexus,false,100,100,13214100,4152100,--,Unknown,--
+BN,Brunei Darussalam,740,NetSeer Inc,"all",any_status,platform,appnexus,false,100,100,7306400,1136500,--,Unknown,--
+BN,Brunei Darussalam,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,100,100,102300,68100,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 16:00:42
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

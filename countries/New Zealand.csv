@@ -1,0 +1,295 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+NZ,New Zealand,181,Google AdExchange,"all",any_status,external,appnexus,false,59809100,2104500,28233867400,959451500,--,Unknown,--
+NZ,New Zealand,357,OpenX,"all",any_status,external,appnexus,false,33392800,384100,5480947400,127566900,--,Unknown,--
+NZ,New Zealand,459,Rubicon,"all",any_status,external,appnexus,false,17839900,800500,5398288100,219468400,--,Unknown,--
+NZ,New Zealand,74,PubMatic,"all",any_status,external,appnexus,false,16054800,565100,1408932400,73943500,--,Unknown,--
+NZ,New Zealand,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,7203000,522700,1866171500,134504500,--,Unknown,--
+NZ,New Zealand,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,3663300,103000,2174215700,44278600,--,Unknown,--
+NZ,New Zealand,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,2640200,36800,286290200,3534600,--,Unknown,--
+NZ,New Zealand,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,2136400,74600,1206552000,52265100,--,Unknown,--
+NZ,New Zealand,1360,Sovrn,"all",any_status,platform,appnexus,false,1828300,93000,400642400,23323000,--,Unknown,--
+NZ,New Zealand,1356,bRealTime (select),"all",any_status,platform,appnexus,false,1812100,98300,327708200,26451300,--,Unknown,--
+NZ,New Zealand,1081,Sonobi,"all",any_status,platform,appnexus,false,1508900,8800,41318500,4009000,--,Unknown,--
+NZ,New Zealand,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,1169500,44800,271311100,17933900,--,Unknown,--
+NZ,New Zealand,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,982600,66900,430811700,17143500,--,Unknown,--
+NZ,New Zealand,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,977700,42700,190575900,16112500,--,Unknown,--
+NZ,New Zealand,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,959700,19700,166429900,7648600,--,Unknown,--
+NZ,New Zealand,2850,MobFox,"all",any_status,platform,appnexus,false,762600,51900,617754000,33916100,--,Unknown,--
+NZ,New Zealand,1475,Lifestreet,"all",any_status,platform,appnexus,false,588900,11000,242585900,5057200,--,Unknown,--
+NZ,New Zealand,1908,District M,"all",any_status,platform,appnexus,false,567200,35500,85430500,9861500,--,Unknown,--
+NZ,New Zealand,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,523800,8200,67112200,3425500,--,Unknown,--
+NZ,New Zealand,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,484800,17100,103106400,11015600,--,Unknown,--
+NZ,New Zealand,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,470400,234700,2121409200,520131400,--,Unknown,--
+NZ,New Zealand,2721,Kiosked,"all",any_status,platform,appnexus,false,416400,55500,84569700,10245200,--,Unknown,--
+NZ,New Zealand,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,397200,14400,51953900,4345700,--,Unknown,--
+NZ,New Zealand,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,396600,25700,341724700,17293700,--,Unknown,--
+NZ,New Zealand,310,Technorati Media,"all",any_status,platform,appnexus,false,372500,43000,64536800,6342900,--,Unknown,--
+NZ,New Zealand,1613,Defy Media,"all",any_status,platform,appnexus,false,341200,16900,73239200,4465300,--,Unknown,--
+NZ,New Zealand,541,CPXInteractive,"all",any_status,platform,appnexus,false,260500,29100,38468600,5292100,--,Unknown,--
+NZ,New Zealand,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,244700,4100,76563700,1162600,--,Unknown,--
+NZ,New Zealand,1942,Floor6,"all",any_status,platform,appnexus,false,211500,25000,41027600,5864100,--,Unknown,--
+NZ,New Zealand,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,197400,45500,60998700,8550900,--,Unknown,--
+NZ,New Zealand,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,189800,30900,23964200,1700200,--,Unknown,--
+NZ,New Zealand,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,156400,19400,16758500,1276400,--,Unknown,--
+NZ,New Zealand,3204,Purch,"all",any_status,platform,appnexus,false,120900,17600,33563400,4355800,--,Unknown,--
+NZ,New Zealand,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,118900,8800,35500900,5026100,--,Unknown,--
+NZ,New Zealand,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,118300,19900,50860000,7782600,--,Unknown,--
+NZ,New Zealand,2732,Matchflow Media,"all",any_status,platform,appnexus,false,118300,2200,7335600,1014400,--,Unknown,--
+NZ,New Zealand,406,CPM Only,"all",any_status,platform,appnexus,false,101000,2300,22587800,1241100,--,Unknown,--
+NZ,New Zealand,1357,bRealTime,"all",any_status,platform,appnexus,false,100100,7900,12048300,1469800,--,Unknown,--
+NZ,New Zealand,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,99600,23400,4430900,730200,--,Unknown,--
+NZ,New Zealand,882,AN Talent,"all",any_status,platform,appnexus,false,96700,24800,50438600,13544900,--,Unknown,--
+NZ,New Zealand,3366,AerServ LLC,"all",any_status,platform,appnexus,false,94200,2100,96664800,5504300,--,Unknown,--
+NZ,New Zealand,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,82200,7900,19737800,1365600,--,Unknown,--
+NZ,New Zealand,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,77800,15200,8096600,1668000,--,Unknown,--
+NZ,New Zealand,2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,70200,26400,450000,159700,--,Unknown,--
+NZ,New Zealand,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,69800,10700,93859100,18219400,--,Unknown,--
+NZ,New Zealand,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,67000,24400,18452300,6512900,--,Unknown,--
+NZ,New Zealand,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,64900,21400,11679100,3946900,--,Unknown,--
+NZ,New Zealand,2735,Adhub Limited,"all",any_status,platform,appnexus,false,62900,9800,68500,11100,--,Unknown,--
+NZ,New Zealand,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,61000,11500,8224700,1803300,--,Unknown,--
+NZ,New Zealand,3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,58800,3600,10120900,466800,--,Unknown,--
+NZ,New Zealand,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,57200,1300,6143900,144300,--,Unknown,--
+NZ,New Zealand,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,54300,6000,37441400,3708500,--,Unknown,--
+NZ,New Zealand,1882,TapTica LTD,"all",any_status,platform,appnexus,false,53400,10800,87218100,23348500,--,Unknown,--
+NZ,New Zealand,2688,Metric Science,"all",any_status,platform,appnexus,false,45400,11600,9565700,2018900,--,Unknown,--
+NZ,New Zealand,3020,Mojiva II,"all",any_status,platform,appnexus,false,45000,2300,130720700,11697300,--,Unknown,--
+NZ,New Zealand,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,43100,4000,6251600,665800,--,Unknown,--
+NZ,New Zealand,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,40500,3700,18055600,4241400,--,Unknown,--
+NZ,New Zealand,1611,Headway Digital,"all",any_status,platform,appnexus,false,39600,3300,14236300,1268000,--,Unknown,--
+NZ,New Zealand,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,38800,6400,27850600,5122800,--,Unknown,--
+NZ,New Zealand,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,37000,4700,12509900,1152200,--,Unknown,--
+NZ,New Zealand,1226,AOL Marketplace,"all",any_status,external,appnexus,false,37000,3100,239525900,16680800,--,Unknown,--
+NZ,New Zealand,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,36100,4000,8000000,1228100,--,Unknown,--
+NZ,New Zealand,2251,Waypoint Media,"all",any_status,platform,appnexus,false,35300,1700,3297000,184900,--,Unknown,--
+NZ,New Zealand,3208,Lyfe Media,"all",any_status,platform,appnexus,false,35000,1800,3124700,202300,--,Unknown,--
+NZ,New Zealand,1608,Audience Square,"all",any_status,platform,appnexus,false,34700,2000,105327200,8530300,--,Unknown,--
+NZ,New Zealand,3295,Adrizer LLC,"all",any_status,platform,appnexus,false,33500,600,12150400,229100,--,Unknown,--
+NZ,New Zealand,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,33100,7900,2649700,627500,--,Unknown,--
+NZ,New Zealand,2854,The Blogger Network,"all",any_status,platform,appnexus,false,32600,5200,8885000,1294800,--,Unknown,--
+NZ,New Zealand,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,32200,2200,19222500,1853100,--,Unknown,--
+NZ,New Zealand,3450,Northern & Shell,"all",any_status,platform,appnexus,false,30600,2400,2119900,290900,--,Unknown,--
+NZ,New Zealand,740,NetSeer Inc,"all",any_status,platform,appnexus,false,26500,2300,7306400,1136500,--,Unknown,--
+NZ,New Zealand,3500,ASQ Brand,"all",any_status,platform,appnexus,false,26200,700,30855200,1884800,--,Unknown,--
+NZ,New Zealand,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,25900,2000,5545300,875700,--,Unknown,--
+NZ,New Zealand,1548,Criteo,"all",any_status,external,appnexus,false,24000,3200,342165000,40879100,--,Unknown,--
+NZ,New Zealand,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,23100,2900,16374000,2597100,--,Unknown,--
+NZ,New Zealand,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,21800,3400,21596300,4597200,--,Unknown,--
+NZ,New Zealand,86,Photobucket,"all",any_status,external,appnexus,false,20800,2200,10687900,596400,--,Unknown,--
+NZ,New Zealand,806,Venatus Media,"all",any_status,platform,appnexus,false,20000,1600,5557600,602200,--,Unknown,--
+NZ,New Zealand,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,19400,400,22300800,414400,--,Unknown,--
+NZ,New Zealand,1756,Adversal.com,"all",any_status,platform,appnexus,false,19300,2400,14173900,1426500,--,Unknown,--
+NZ,New Zealand,1755,Digital Throttle,"all",any_status,platform,appnexus,false,19200,1500,3712700,358400,--,Unknown,--
+NZ,New Zealand,818,MediaShakers,"all",any_status,platform,appnexus,false,19200,4400,9935200,1579700,--,Unknown,--
+NZ,New Zealand,3277,AdsWizz Inc.,"all",any_status,platform,appnexus,false,18500,1400,1088400,90900,--,Unknown,--
+NZ,New Zealand,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,17700,900,24284900,766700,--,Unknown,--
+NZ,New Zealand,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,16900,1600,3647300,408900,--,Unknown,--
+NZ,New Zealand,1449,Adtegrity,"all",any_status,platform,appnexus,false,16700,2900,30828900,3626800,--,Unknown,--
+NZ,New Zealand,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,16100,500,8293600,244900,--,Unknown,--
+NZ,New Zealand,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,15200,600,6022900,193200,--,Unknown,--
+NZ,New Zealand,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,13300,700,6341900,228700,--,Unknown,--
+NZ,New Zealand,2011,Apex,"all",any_status,platform,appnexus,false,12900,5900,923200,342300,--,Unknown,--
+NZ,New Zealand,3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,12600,800,449400,40700,--,Unknown,--
+NZ,New Zealand,2365,SouthernX,"all",any_status,platform,appnexus,false,12400,1600,9032200,796600,--,Unknown,--
+NZ,New Zealand,3456,A Plus,"all",any_status,platform,appnexus,false,11700,3900,1593200,492300,--,Unknown,--
+NZ,New Zealand,2320,Adadyn (Ozone),"all",any_status,platform,appnexus,false,11500,4600,3123300,806200,--,Unknown,--
+NZ,New Zealand,2669,Brightcom Media,"all",any_status,platform,appnexus,false,11200,4300,6016600,1760400,--,Unknown,--
+NZ,New Zealand,2804,Adshoard,"all",any_status,platform,appnexus,false,11200,900,15208300,1517700,--,Unknown,--
+NZ,New Zealand,1749,W M Web Media,"all",any_status,platform,appnexus,false,10200,1500,16480000,3492000,--,Unknown,--
+NZ,New Zealand,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,9600,900,3489700,554200,--,Unknown,--
+NZ,New Zealand,1413,DTCN,"all",any_status,platform,appnexus,false,9500,500,3607300,146200,--,Unknown,--
+NZ,New Zealand,2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,9100,2800,1454200,468300,--,Unknown,--
+NZ,New Zealand,855,Adadyn Premium,"all",any_status,platform,appnexus,false,8900,3900,4408100,1285700,--,Unknown,--
+NZ,New Zealand,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,8600,3200,551600,295300,--,Unknown,--
+NZ,New Zealand,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,8600,2100,7319800,1991600,--,Unknown,--
+NZ,New Zealand,3416,Core2Digital Premium,"all",any_status,platform,appnexus,false,8600,3200,1194100,449100,--,Unknown,--
+NZ,New Zealand,1530,AdPrudence,"all",any_status,platform,appnexus,false,8000,4300,7290300,3996400,--,Unknown,--
+NZ,New Zealand,1939,152 Media LLC,"all",any_status,platform,appnexus,false,7900,1500,10516600,1985700,--,Unknown,--
+NZ,New Zealand,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,7900,2900,15959100,5178000,--,Unknown,--
+NZ,New Zealand,2252,One Advertising AG,"all",any_status,platform,appnexus,false,7800,800,7386500,732100,--,Unknown,--
+NZ,New Zealand,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,7800,800,3984400,147800,--,Unknown,--
+NZ,New Zealand,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,7400,300,7914300,319800,--,Unknown,--
+NZ,New Zealand,3135,33Across Real Display,"all",any_status,platform,appnexus,false,7400,2700,4519500,1104400,--,Unknown,--
+NZ,New Zealand,1393,ReactX,"all",any_status,platform,appnexus,false,7200,4800,4958500,1271600,--,Unknown,--
+NZ,New Zealand,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,7100,400,4293200,550100,--,Unknown,--
+NZ,New Zealand,542,Up-value GmbH,"all",any_status,platform,appnexus,false,7000,100,1613200,434700,--,Unknown,--
+NZ,New Zealand,3192,RTB Media,"all",any_status,platform,appnexus,false,6500,2200,9047300,2346100,--,Unknown,--
+NZ,New Zealand,568,Httpool,"all",any_status,platform,appnexus,false,6500,600,4528700,487200,--,Unknown,--
+NZ,New Zealand,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,6000,1900,3909100,819600,--,Unknown,--
+NZ,New Zealand,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,5800,300,2358300,245600,--,Unknown,--
+NZ,New Zealand,2007,Affinity.com,"all",any_status,platform,appnexus,false,5700,1800,2962400,795400,--,Unknown,--
+NZ,New Zealand,2790,"Digimosaic, Inc.","all",any_status,platform,appnexus,false,5600,2200,1584600,472900,--,Unknown,--
+NZ,New Zealand,620,Mediafem LLC,"all",any_status,platform,appnexus,false,5400,400,4461200,553100,--,Unknown,--
+NZ,New Zealand,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,5300,400,26716100,1171300,--,Unknown,--
+NZ,New Zealand,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,5200,1100,405800,85600,--,Unknown,--
+NZ,New Zealand,1583,Admeta AB,"all",any_status,platform,appnexus,false,5100,500,14256000,1033900,--,Unknown,--
+NZ,New Zealand,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,5000,200,1747100,91500,--,Unknown,--
+NZ,New Zealand,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,4900,2000,619100,145100,--,Unknown,--
+NZ,New Zealand,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,4900,3100,969700,491000,--,Unknown,--
+NZ,New Zealand,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,4900,700,1264700,197500,--,Unknown,--
+NZ,New Zealand,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,4800,1700,1058100,325200,--,Unknown,--
+NZ,New Zealand,2568,Engage:BDR,"all",any_status,platform,appnexus,false,4700,300,13185900,896900,--,Unknown,--
+NZ,New Zealand,884,Hi-Media,"all",any_status,platform,appnexus,false,4500,1100,78818800,7489400,--,Unknown,--
+NZ,New Zealand,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,4500,800,68302300,5161300,--,Unknown,--
+NZ,New Zealand,1610,UnderDog Media,"all",any_status,platform,appnexus,false,4400,2000,1641000,436900,--,Unknown,--
+NZ,New Zealand,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,4300,2000,9531000,2986500,--,Unknown,--
+NZ,New Zealand,928,Suite66,"all",any_status,platform,appnexus,false,4200,900,4874500,704400,--,Unknown,--
+NZ,New Zealand,1643,Fidelity Media,"all",any_status,platform,appnexus,false,4100,1000,2190000,227800,--,Unknown,--
+NZ,New Zealand,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,4100,800,3915900,451600,--,Unknown,--
+NZ,New Zealand,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,3600,300,3860700,298100,--,Unknown,--
+NZ,New Zealand,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,3300,700,987200,136500,--,Unknown,--
+NZ,New Zealand,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,3100,400,7192100,699100,--,Unknown,--
+NZ,New Zealand,2810,ClearPier,"all",any_status,platform,appnexus,false,3000,400,354300,72500,--,Unknown,--
+NZ,New Zealand,2660,DMG Mobile,"all",any_status,platform,appnexus,false,2900,100,2127700,100,--,Unknown,--
+NZ,New Zealand,3329,AdRaiden,"all",any_status,platform,appnexus,false,2900,500,59013500,8240600,--,Unknown,--
+NZ,New Zealand,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,2800,900,2652700,523300,--,Unknown,--
+NZ,New Zealand,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,2800,500,1126400,108700,--,Unknown,--
+NZ,New Zealand,1619,ReklamStore,"all",any_status,platform,appnexus,false,2700,600,32005800,4616300,--,Unknown,--
+NZ,New Zealand,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,2600,900,1875200,314600,--,Unknown,--
+NZ,New Zealand,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,2600,1700,3496400,1744800,--,Unknown,--
+NZ,New Zealand,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,2600,600,3869600,726200,--,Unknown,--
+NZ,New Zealand,3264,Accvee Premium,"all",any_status,platform,appnexus,false,2500,600,2386500,486600,--,Unknown,--
+NZ,New Zealand,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,2400,300,730200,148700,--,Unknown,--
+NZ,New Zealand,3273,Figaromedias,"all",any_status,platform,appnexus,false,2400,300,8751600,818700,--,Unknown,--
+NZ,New Zealand,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,2400,500,3379300,1153500,--,Unknown,--
+NZ,New Zealand,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,2300,400,66270000,5213700,--,Unknown,--
+NZ,New Zealand,956,Zodiak Active,"all",any_status,platform,appnexus,false,2200,700,42149500,4493100,--,Unknown,--
+NZ,New Zealand,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,2200,1700,185500,117600,--,Unknown,--
+NZ,New Zealand,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,2100,600,2787500,599200,--,Unknown,--
+NZ,New Zealand,3097,Digital Space,"all",any_status,platform,appnexus,false,2100,900,1268300,217200,--,Unknown,--
+NZ,New Zealand,3359,Topix LLC,"all",any_status,platform,appnexus,false,2100,100,721200,14700,--,Unknown,--
+NZ,New Zealand,3098,WEBEDIA,"all",any_status,platform,appnexus,false,2100,500,23991600,2742200,--,Unknown,--
+NZ,New Zealand,1906,Velis Media,"all",any_status,platform,appnexus,false,2100,700,1743200,404400,--,Unknown,--
+NZ,New Zealand,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,2000,400,50498400,3809900,--,Unknown,--
+NZ,New Zealand,2564,24/7 Media France,"all",any_status,platform,appnexus,false,2000,200,10662500,1376600,--,Unknown,--
+NZ,New Zealand,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,1900,300,3114300,586100,--,Unknown,--
+NZ,New Zealand,994,WebAds NL,"all",any_status,platform,appnexus,false,1900,300,4383900,537800,--,Unknown,--
+NZ,New Zealand,1405,Adscale GmbH,"all",any_status,external,appnexus,false,1900,400,24769000,2453000,--,Unknown,--
+NZ,New Zealand,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,1800,1100,1458900,286800,--,Unknown,--
+NZ,New Zealand,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,1700,800,64800,29000,--,Unknown,--
+NZ,New Zealand,3265,BRATECH SA,"all",any_status,platform,appnexus,false,1700,900,8702600,2447900,--,Unknown,--
+NZ,New Zealand,3153,152 Media Select,"all",any_status,platform,appnexus,false,1600,300,2747300,124000,--,Unknown,--
+NZ,New Zealand,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,1600,400,120590500,5347900,--,Unknown,--
+NZ,New Zealand,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,1600,800,2171600,343900,--,Unknown,--
+NZ,New Zealand,2800,"A1 Platform Co, Ltd","all",any_status,platform,appnexus,false,1500,100,841400,43800,--,Unknown,--
+NZ,New Zealand,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,1400,200,1057900,230700,--,Unknown,--
+NZ,New Zealand,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,1400,200,750100,62900,--,Unknown,--
+NZ,New Zealand,1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,1400,200,11602500,1302100,--,Unknown,--
+NZ,New Zealand,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,1400,200,6463900,834200,--,Unknown,--
+NZ,New Zealand,3375,Switchers LTD,"all",any_status,platform,appnexus,false,1300,100,8300,1900,--,Unknown,--
+NZ,New Zealand,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,1300,900,383400,84200,--,Unknown,--
+NZ,New Zealand,1354,Improve Digital,"all",any_status,platform,appnexus,false,1300,300,617249300,18935700,--,Unknown,--
+NZ,New Zealand,1362,IMS Connect,"all",any_status,platform,appnexus,false,1300,200,678700,80800,--,Unknown,--
+NZ,New Zealand,1364,Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,1200,500,187600,80500,--,Unknown,--
+NZ,New Zealand,3246,DailyMail,"all",any_status,platform,appnexus,false,1200,100,57336600,3466300,--,Unknown,--
+NZ,New Zealand,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,1200,200,873600,129700,--,Unknown,--
+NZ,New Zealand,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,1200,600,2063700,326000,--,Unknown,--
+NZ,New Zealand,311,Collective Exchange,"all",any_status,platform,appnexus,false,1200,700,119214800,7487900,--,Unknown,--
+NZ,New Zealand,3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,1200,100,4446200,410600,--,Unknown,--
+NZ,New Zealand,2935,Suite66 Select,"all",any_status,platform,appnexus,false,1100,200,2782400,514400,--,Unknown,--
+NZ,New Zealand,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,1000,100,46631800,2549100,--,Unknown,--
+NZ,New Zealand,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,1000,600,28000,13100,--,Unknown,--
+NZ,New Zealand,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,1000,500,5027900,2395500,--,Unknown,--
+NZ,New Zealand,2767,Premio,"all",any_status,platform,appnexus,false,900,200,13425800,1568700,--,Unknown,--
+NZ,New Zealand,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,900,700,9379600,2540100,--,Unknown,--
+NZ,New Zealand,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,900,500,79200,37100,--,Unknown,--
+NZ,New Zealand,1656,Media White,"all",any_status,platform,appnexus,false,900,300,865800,70500,--,Unknown,--
+NZ,New Zealand,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,800,200,2805200,221700,--,Unknown,--
+NZ,New Zealand,1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,800,200,647800,93700,--,Unknown,--
+NZ,New Zealand,2579,Quantum,"all",any_status,platform,appnexus,false,800,500,13214100,4152100,--,Unknown,--
+NZ,New Zealand,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,800,200,3517900,639700,--,Unknown,--
+NZ,New Zealand,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,800,200,3003300,282300,--,Unknown,--
+NZ,New Zealand,3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,800,400,358200,177500,--,Unknown,--
+NZ,New Zealand,1956,"Travel Spike, LLC","all",any_status,platform,appnexus,false,800,200,101600,6400,--,Unknown,--
+NZ,New Zealand,3074,VICE Media,"all",any_status,platform,appnexus,false,800,200,976900,165800,--,Unknown,--
+NZ,New Zealand,3066,To Media Group BV,"all",any_status,platform,appnexus,false,700,200,1241400,150900,--,Unknown,--
+NZ,New Zealand,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,700,200,30389900,1033700,--,Unknown,--
+NZ,New Zealand,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,700,300,1489800,468100,--,Unknown,--
+NZ,New Zealand,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,700,300,2294000,382300,--,Unknown,--
+NZ,New Zealand,3287,"RTK.io (Phaedrus Media, LLC)","all",any_status,platform,appnexus,false,600,100,4137900,236900,--,Unknown,--
+NZ,New Zealand,3203,evania GmbH,"all",any_status,platform,appnexus,false,600,100,432900,83400,--,Unknown,--
+NZ,New Zealand,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,600,100,165800,23500,--,Unknown,--
+NZ,New Zealand,1945,Adperium BV - Performance,"all",any_status,platform,appnexus,false,600,200,31300,5700,--,Unknown,--
+NZ,New Zealand,2076,FemmeFab,"all",any_status,platform,appnexus,false,600,100,915800,127700,--,Unknown,--
+NZ,New Zealand,3106,Adrun,"all",any_status,platform,appnexus,false,600,200,689500,290300,--,Unknown,--
+NZ,New Zealand,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,600,500,626600,300300,--,Unknown,--
+NZ,New Zealand,2420,TailWind 3,"all",any_status,platform,appnexus,false,600,200,10261300,2274800,--,Unknown,--
+NZ,New Zealand,3462,iAvatarZ Digital,"all",any_status,platform,appnexus,false,600,100,15600,5700,--,Unknown,--
+NZ,New Zealand,3025,J Carter Marketing Inc,"all",any_status,platform,appnexus,false,600,400,403300,213700,--,Unknown,--
+NZ,New Zealand,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,600,100,1000700,224100,--,Unknown,--
+NZ,New Zealand,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,500,300,2499600,401500,--,Unknown,--
+NZ,New Zealand,946,Advertise.com,"all",any_status,platform,appnexus,false,500,300,1096500,221100,--,Unknown,--
+NZ,New Zealand,329,Bannerconnect,"all",any_status,platform,appnexus,true,500,300,334500,108700,--,Unknown,--
+NZ,New Zealand,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,500,200,947400,114800,--,Unknown,--
+NZ,New Zealand,2026,Tailwind 1,"all",any_status,platform,appnexus,false,500,100,7959300,783700,--,Unknown,--
+NZ,New Zealand,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,500,300,54100,26800,--,Unknown,--
+NZ,New Zealand,2408,Virool Inc,"all",any_status,platform,appnexus,false,500,100,400,200,--,Unknown,--
+NZ,New Zealand,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,500,300,467900,96400,--,Unknown,--
+NZ,New Zealand,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,400,300,41510700,443300,--,Unknown,--
+NZ,New Zealand,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,400,200,1374400,477700,--,Unknown,--
+NZ,New Zealand,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,400,300,172400,72600,--,Unknown,--
+NZ,New Zealand,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,400,100,5798700,760300,--,Unknown,--
+NZ,New Zealand,3289,NRC,"all",any_status,platform,appnexus,false,400,300,228200,67500,--,Unknown,--
+NZ,New Zealand,455,Digitize,"all",any_status,platform,appnexus,true,400,200,554100,78900,--,Unknown,--
+NZ,New Zealand,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,400,200,5286600,1498600,--,Unknown,--
+NZ,New Zealand,2784,Rocoto Media,"all",any_status,platform,appnexus,false,400,200,9851200,164600,--,Unknown,--
+NZ,New Zealand,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,400,300,51037100,391400,--,Unknown,--
+NZ,New Zealand,2945,Adhood,"all",any_status,platform,appnexus,false,400,200,1202300,111400,--,Unknown,--
+NZ,New Zealand,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,300,200,2540800,448900,--,Unknown,--
+NZ,New Zealand,1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,300,100,117625700,8331200,--,Unknown,--
+NZ,New Zealand,3057,Adverline SAS,"all",any_status,platform,appnexus,false,300,100,5049300,558800,--,Unknown,--
+NZ,New Zealand,1672,Hivewyre,"all",any_status,platform,appnexus,false,300,300,414600,149700,--,Unknown,--
+NZ,New Zealand,1768,Ideon Media,"all",any_status,platform,appnexus,false,300,200,132300,17300,--,Unknown,--
+NZ,New Zealand,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,300,200,4756100,537900,--,Unknown,--
+NZ,New Zealand,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,300,100,2564700,153400,--,Unknown,--
+NZ,New Zealand,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,300,200,4063700,606100,--,Unknown,--
+NZ,New Zealand,1585,Horyzon Media,"all",any_status,platform,appnexus,false,300,100,1529400,354500,--,Unknown,--
+NZ,New Zealand,2733,Prodege LLC,"all",any_status,platform,appnexus,false,300,200,838500,350400,--,Unknown,--
+NZ,New Zealand,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,300,200,102300,68100,--,Unknown,--
+NZ,New Zealand,3120,Capslock Digital Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,300,100,6000,800,--,Unknown,--
+NZ,New Zealand,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,200,200,315600,247600,--,Unknown,--
+NZ,New Zealand,3156,Member 3156,"all",any_status,platform,appnexus,false,200,100,492800,95300,--,Unknown,--
+NZ,New Zealand,3232,Builder Homesite Inc,"all",any_status,platform,appnexus,false,200,100,687300,14400,--,Unknown,--
+NZ,New Zealand,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,200,200,1044100,362500,--,Unknown,--
+NZ,New Zealand,927,Adgorithms,"all",any_status,platform,appnexus,false,200,200,6947600,360600,--,Unknown,--
+NZ,New Zealand,3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,200,100,2636000,329400,--,Unknown,--
+NZ,New Zealand,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,200,200,22350500,1529000,--,Unknown,--
+NZ,New Zealand,2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,200,100,5539200,537800,--,Unknown,--
+NZ,New Zealand,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,200,100,1364000,118300,--,Unknown,--
+NZ,New Zealand,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,200,200,3313700,736000,--,Unknown,--
+NZ,New Zealand,3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,200,100,75439200,1675200,--,Unknown,--
+NZ,New Zealand,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,200,200,64300,24700,--,Unknown,--
+NZ,New Zealand,3075,Admaru Network LLC,"all",any_status,platform,appnexus,false,200,100,198100,56300,--,Unknown,--
+NZ,New Zealand,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,200,100,111900,100,--,Unknown,--
+NZ,New Zealand,1783,Bandsintown Amplified,"all",any_status,platform,appnexus,false,200,100,1178600,523000,--,Unknown,--
+NZ,New Zealand,3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,200,100,233600,89500,--,Unknown,--
+NZ,New Zealand,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,200,100,4710700,1329700,--,Unknown,--
+NZ,New Zealand,3194,Optima Network SL,"all",any_status,platform,appnexus,false,100,100,2356900,625700,--,Unknown,--
+NZ,New Zealand,1862,ACC Ventures LLC,"all",any_status,platform,appnexus,false,100,100,4300,3300,--,Unknown,--
+NZ,New Zealand,859,Adlantic Online Advertising B.V.,"all",any_status,platform,appnexus,false,100,100,36700,10400,--,Unknown,--
+NZ,New Zealand,319,Ybrant Digital,"all",any_status,platform,appnexus,true,100,100,483600,153300,--,Unknown,--
+NZ,New Zealand,2400,Kumma DP LTD,"all",any_status,platform,appnexus,false,100,100,12200,100,--,Unknown,--
+NZ,New Zealand,1130,Orange Advertising Americas,"all",any_status,platform,appnexus,false,100,100,9909700,1441700,--,Unknown,--
+NZ,New Zealand,3224,Playtem,"all",any_status,platform,appnexus,false,100,100,254000,63400,--,Unknown,--
+NZ,New Zealand,1568,iMediaSalesTeam,"all",any_status,platform,appnexus,false,100,200,80900,62300,--,Unknown,--
+NZ,New Zealand,848,AdExtent,"all",any_status,platform,appnexus,false,100,200,9700,4000,--,Unknown,--
+NZ,New Zealand,1021,Advance Internet,"all",any_status,platform,appnexus,false,100,100,470200,115500,--,Unknown,--
+NZ,New Zealand,2219,Intag DW LLC,"all",any_status,platform,appnexus,false,100,100,739500,87800,--,Unknown,--
+NZ,New Zealand,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,100,100,199900,84500,--,Unknown,--
+NZ,New Zealand,2863,Time Inc. (UK) Ltd,"all",any_status,platform,appnexus,false,100,200,129000,17700,--,Unknown,--
+NZ,New Zealand,2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,100,100,259800,190000,--,Unknown,--
+NZ,New Zealand,2914,Solocal Xchange,"all",any_status,platform,appnexus,false,100,100,2109100,469100,--,Unknown,--
+NZ,New Zealand,3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,100,100,3827100,444800,--,Unknown,--
+NZ,New Zealand,3442,Ampliffy,"all",any_status,platform,appnexus,false,100,100,4220500,316000,--,Unknown,--
+NZ,New Zealand,576,Nextperience,"all",any_status,platform,appnexus,false,100,100,9400,100,--,Unknown,--
+NZ,New Zealand,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,100,100,8062800,2204700,--,Unknown,--
+NZ,New Zealand,3553,Elbrit - Premium,"all",any_status,platform,appnexus,false,100,100,17600,11200,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:56:54
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

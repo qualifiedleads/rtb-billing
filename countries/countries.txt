@@ -1,0 +1,25 @@
+US - United States
+JP - Japan
+BR - Brazi
+TR - Turkey
+RU - Russia
+DE - Germany
+GB - United Kingdom
+IN - India
+ID - Indonesia
+CA - Canada
+IT - Italy
+FR - France
+ES - Spain
+MX - Mexico
+TW - Taiwan
+CN - China
+VN - Vietnam
+KR - South Korea
+PL - Poland
+NL - Netherlands
+AU - Australia
+TH - Thailand
+UA - Ukraine
+AR - Argentina
+PH - Philippines

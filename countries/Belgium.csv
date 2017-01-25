@@ -1,0 +1,312 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+BE,Belgium,181,Google AdExchange,"all",any_status,external,appnexus,false,96570900,4115400,28233867400,959451500,--,Unknown,--
+BE,Belgium,459,Rubicon,"all",any_status,external,appnexus,false,56820100,2263400,5398288100,219468400,--,Unknown,--
+BE,Belgium,1354,Improve Digital,"all",any_status,platform,appnexus,false,40611200,743600,617249300,18935700,--,Unknown,--
+BE,Belgium,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,27046200,1668100,1866171500,134504500,--,Unknown,--
+BE,Belgium,884,Hi-Media,"all",any_status,platform,appnexus,false,21128200,669300,78818800,7489400,--,Unknown,--
+BE,Belgium,357,OpenX,"all",any_status,external,appnexus,false,18262200,431700,5480947400,127566900,--,Unknown,--
+BE,Belgium,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,10624100,185200,2174215700,44278600,--,Unknown,--
+BE,Belgium,74,PubMatic,"all",any_status,external,appnexus,false,10167500,345100,1408932400,73943500,--,Unknown,--
+BE,Belgium,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,5185800,663300,5798700,760300,--,Unknown,--
+BE,Belgium,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,4316500,177000,1206552000,52265100,--,Unknown,--
+BE,Belgium,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,4189600,914600,93859100,18219400,--,Unknown,--
+BE,Belgium,1548,Criteo,"all",any_status,external,appnexus,false,3483100,434700,342165000,40879100,--,Unknown,--
+BE,Belgium,1882,TapTica LTD,"all",any_status,platform,appnexus,false,2258900,256000,87218100,23348500,--,Unknown,--
+BE,Belgium,1475,Lifestreet,"all",any_status,platform,appnexus,false,1930500,39700,242585900,5057200,--,Unknown,--
+BE,Belgium,2850,MobFox,"all",any_status,platform,appnexus,false,1901400,144500,617754000,33916100,--,Unknown,--
+BE,Belgium,2704,IP Adex,"all",any_status,platform,appnexus,false,1800500,240200,1817500,242600,--,Unknown,--
+BE,Belgium,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,1687900,21100,286290200,3534600,--,Unknown,--
+BE,Belgium,1847,Xaxis - Belgium,"all",any_status,platform,appnexus,false,1678100,126900,1829200,145700,--,Unknown,--
+BE,Belgium,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,1525100,77700,271311100,17933900,--,Unknown,--
+BE,Belgium,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,1353900,101000,190575900,16112500,--,Unknown,--
+BE,Belgium,1356,bRealTime (select),"all",any_status,platform,appnexus,false,1155000,80300,327708200,26451300,--,Unknown,--
+BE,Belgium,1608,Audience Square,"all",any_status,platform,appnexus,false,1058100,178900,105327200,8530300,--,Unknown,--
+BE,Belgium,2564,24/7 Media France,"all",any_status,platform,appnexus,false,1053300,140200,10662500,1376600,--,Unknown,--
+BE,Belgium,1360,Sovrn,"all",any_status,platform,appnexus,false,984300,54300,400642400,23323000,--,Unknown,--
+BE,Belgium,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,954400,37600,430811700,17143500,--,Unknown,--
+BE,Belgium,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,869500,109000,4293200,550100,--,Unknown,--
+BE,Belgium,3500,ASQ Brand,"all",any_status,platform,appnexus,false,650000,44800,30855200,1884800,--,Unknown,--
+BE,Belgium,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,585300,84400,50860000,7782600,--,Unknown,--
+BE,Belgium,2579,Quantum,"all",any_status,platform,appnexus,false,572400,173500,13214100,4152100,--,Unknown,--
+BE,Belgium,882,AN Talent,"all",any_status,platform,appnexus,false,495200,91100,50438600,13544900,--,Unknown,--
+BE,Belgium,1908,District M,"all",any_status,platform,appnexus,false,427100,55200,85430500,9861500,--,Unknown,--
+BE,Belgium,1081,Sonobi,"all",any_status,platform,appnexus,false,413700,37200,41318500,4009000,--,Unknown,--
+BE,Belgium,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,406800,25000,166429900,7648600,--,Unknown,--
+BE,Belgium,3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,353800,10200,75439200,1675200,--,Unknown,--
+BE,Belgium,3277,AdsWizz Inc.,"all",any_status,platform,appnexus,false,332700,5600,1088400,90900,--,Unknown,--
+BE,Belgium,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,322200,4100,76563700,1162600,--,Unknown,--
+BE,Belgium,541,CPXInteractive,"all",any_status,platform,appnexus,false,284100,29700,38468600,5292100,--,Unknown,--
+BE,Belgium,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,282900,160700,2121409200,520131400,--,Unknown,--
+BE,Belgium,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,281500,42700,4756100,537900,--,Unknown,--
+BE,Belgium,3273,Figaromedias,"all",any_status,platform,appnexus,false,268800,17700,8751600,818700,--,Unknown,--
+BE,Belgium,994,WebAds NL,"all",any_status,platform,appnexus,false,262600,33900,4383900,537800,--,Unknown,--
+BE,Belgium,1226,AOL Marketplace,"all",any_status,external,appnexus,false,259100,12700,239525900,16680800,--,Unknown,--
+BE,Belgium,3204,Purch,"all",any_status,platform,appnexus,false,211300,28900,33563400,4355800,--,Unknown,--
+BE,Belgium,3329,AdRaiden,"all",any_status,platform,appnexus,false,186500,28800,59013500,8240600,--,Unknown,--
+BE,Belgium,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,170600,28600,103106400,11015600,--,Unknown,--
+BE,Belgium,2721,Kiosked,"all",any_status,platform,appnexus,false,154300,22600,84569700,10245200,--,Unknown,--
+BE,Belgium,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,144600,34400,60998700,8550900,--,Unknown,--
+BE,Belgium,3098,WEBEDIA,"all",any_status,platform,appnexus,false,144600,12000,23991600,2742200,--,Unknown,--
+BE,Belgium,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,144200,15200,120590500,5347900,--,Unknown,--
+BE,Belgium,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,139000,13700,27850600,5122800,--,Unknown,--
+BE,Belgium,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,136900,7600,19737800,1365600,--,Unknown,--
+BE,Belgium,310,Technorati Media,"all",any_status,platform,appnexus,false,136500,22900,64536800,6342900,--,Unknown,--
+BE,Belgium,1583,Admeta AB,"all",any_status,platform,appnexus,false,131500,10600,14256000,1033900,--,Unknown,--
+BE,Belgium,740,NetSeer Inc,"all",any_status,platform,appnexus,false,128500,13600,7306400,1136500,--,Unknown,--
+BE,Belgium,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,123500,19600,51953900,4345700,--,Unknown,--
+BE,Belgium,1613,Defy Media,"all",any_status,platform,appnexus,false,123100,11400,73239200,4465300,--,Unknown,--
+BE,Belgium,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,119000,8600,22350500,1529000,--,Unknown,--
+BE,Belgium,2669,Brightcom Media,"all",any_status,platform,appnexus,false,117900,3000,6016600,1760400,--,Unknown,--
+BE,Belgium,3366,AerServ LLC,"all",any_status,platform,appnexus,false,109900,4200,96664800,5504300,--,Unknown,--
+BE,Belgium,1611,Headway Digital,"all",any_status,platform,appnexus,false,107100,7000,14236300,1268000,--,Unknown,--
+BE,Belgium,3066,To Media Group BV,"all",any_status,platform,appnexus,false,104600,15100,1241400,150900,--,Unknown,--
+BE,Belgium,2076,FemmeFab,"all",any_status,platform,appnexus,false,103200,14400,915800,127700,--,Unknown,--
+BE,Belgium,818,MediaShakers,"all",any_status,platform,appnexus,false,101000,14000,9935200,1579700,--,Unknown,--
+BE,Belgium,3020,Mojiva II,"all",any_status,platform,appnexus,false,98200,5900,130720700,11697300,--,Unknown,--
+BE,Belgium,1942,Floor6,"all",any_status,platform,appnexus,false,88200,11500,41027600,5864100,--,Unknown,--
+BE,Belgium,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,84400,4800,35500900,5026100,--,Unknown,--
+BE,Belgium,1749,W M Web Media,"all",any_status,platform,appnexus,false,84300,9600,16480000,3492000,--,Unknown,--
+BE,Belgium,1413,DTCN,"all",any_status,platform,appnexus,false,81800,700,3607300,146200,--,Unknown,--
+BE,Belgium,806,Venatus Media,"all",any_status,platform,appnexus,false,74800,11900,5557600,602200,--,Unknown,--
+BE,Belgium,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,72700,500,51037100,391400,--,Unknown,--
+BE,Belgium,956,Zodiak Active,"all",any_status,platform,appnexus,false,69000,6200,42149500,4493100,--,Unknown,--
+BE,Belgium,2252,One Advertising AG,"all",any_status,platform,appnexus,false,68800,5400,7386500,732100,--,Unknown,--
+BE,Belgium,855,Adadyn Premium,"all",any_status,platform,appnexus,false,67800,25500,4408100,1285700,--,Unknown,--
+BE,Belgium,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,67600,10400,21596300,4597200,--,Unknown,--
+BE,Belgium,2420,TailWind 3,"all",any_status,platform,appnexus,false,66400,5500,10261300,2274800,--,Unknown,--
+BE,Belgium,3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,60800,4000,10120900,466800,--,Unknown,--
+BE,Belgium,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,60400,3000,3003300,282300,--,Unknown,--
+BE,Belgium,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,60100,22500,3496400,1744800,--,Unknown,--
+BE,Belgium,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,59200,6800,67112200,3425500,--,Unknown,--
+BE,Belgium,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,58100,6300,68302300,5161300,--,Unknown,--
+BE,Belgium,1619,ReklamStore,"all",any_status,platform,appnexus,false,56000,7900,32005800,4616300,--,Unknown,--
+BE,Belgium,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,54200,16000,15959100,5178000,--,Unknown,--
+BE,Belgium,3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,50400,7200,2636000,329400,--,Unknown,--
+BE,Belgium,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,49500,1500,6341900,228700,--,Unknown,--
+BE,Belgium,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,49400,7100,37441400,3708500,--,Unknown,--
+BE,Belgium,1405,Adscale GmbH,"all",any_status,external,appnexus,false,44200,4200,24769000,2453000,--,Unknown,--
+BE,Belgium,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,43100,6900,30389900,1033700,--,Unknown,--
+BE,Belgium,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,41500,3300,6251600,665800,--,Unknown,--
+BE,Belgium,86,Photobucket,"all",any_status,external,appnexus,false,40000,3200,10687900,596400,--,Unknown,--
+BE,Belgium,406,CPM Only,"all",any_status,platform,appnexus,false,39700,400,22587800,1241100,--,Unknown,--
+BE,Belgium,1357,bRealTime,"all",any_status,platform,appnexus,false,38100,4500,12048300,1469800,--,Unknown,--
+BE,Belgium,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,35400,2000,8000000,1228100,--,Unknown,--
+BE,Belgium,3057,Adverline SAS,"all",any_status,platform,appnexus,false,33200,5600,5049300,558800,--,Unknown,--
+BE,Belgium,2760,Alveo,"all",any_status,platform,appnexus,false,31300,5800,9973000,477400,--,Unknown,--
+BE,Belgium,2804,Adshoard,"all",any_status,platform,appnexus,false,31200,2800,15208300,1517700,--,Unknown,--
+BE,Belgium,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,30200,14800,18452300,6512900,--,Unknown,--
+BE,Belgium,1530,AdPrudence,"all",any_status,platform,appnexus,false,28900,18100,7290300,3996400,--,Unknown,--
+BE,Belgium,2688,Metric Science,"all",any_status,platform,appnexus,false,28800,5900,9565700,2018900,--,Unknown,--
+BE,Belgium,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,28100,2500,50498400,3809900,--,Unknown,--
+BE,Belgium,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,27500,2000,4430900,730200,--,Unknown,--
+BE,Belgium,996,WebAds IT,"all",any_status,platform,appnexus,false,26100,500,11291200,463000,--,Unknown,--
+BE,Belgium,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,25900,10800,11679100,3946900,--,Unknown,--
+BE,Belgium,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,25900,900,3860700,298100,--,Unknown,--
+BE,Belgium,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,25800,6000,2294000,382300,--,Unknown,--
+BE,Belgium,1939,152 Media LLC,"all",any_status,platform,appnexus,false,24000,4000,10516600,1985700,--,Unknown,--
+BE,Belgium,928,Suite66,"all",any_status,platform,appnexus,false,23500,1300,4874500,704400,--,Unknown,--
+BE,Belgium,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,23100,1900,46631800,2549100,--,Unknown,--
+BE,Belgium,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,22800,3600,16374000,2597100,--,Unknown,--
+BE,Belgium,3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,21100,9600,233600,89500,--,Unknown,--
+BE,Belgium,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,20800,2400,3915900,451600,--,Unknown,--
+BE,Belgium,3192,RTB Media,"all",any_status,platform,appnexus,false,20200,7300,9047300,2346100,--,Unknown,--
+BE,Belgium,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,19900,2100,5545300,875700,--,Unknown,--
+BE,Belgium,2767,Premio,"all",any_status,platform,appnexus,false,19200,2400,13425800,1568700,--,Unknown,--
+BE,Belgium,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,18800,2100,12509900,1152200,--,Unknown,--
+BE,Belgium,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,18800,2300,8096600,1668000,--,Unknown,--
+BE,Belgium,1783,Bandsintown Amplified,"all",any_status,platform,appnexus,false,18800,7200,1178600,523000,--,Unknown,--
+BE,Belgium,3224,Playtem,"all",any_status,platform,appnexus,false,18300,4100,254000,63400,--,Unknown,--
+BE,Belgium,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,17700,1100,19222500,1853100,--,Unknown,--
+BE,Belgium,2320,Adadyn (Ozone),"all",any_status,platform,appnexus,false,17600,6500,3123300,806200,--,Unknown,--
+BE,Belgium,2854,The Blogger Network,"all",any_status,platform,appnexus,false,17400,2200,8885000,1294800,--,Unknown,--
+BE,Belgium,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,17300,5700,7319800,1991600,--,Unknown,--
+BE,Belgium,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,16500,500,6143900,144300,--,Unknown,--
+BE,Belgium,1756,Adversal.com,"all",any_status,platform,appnexus,false,15800,2600,14173900,1426500,--,Unknown,--
+BE,Belgium,1755,Digital Throttle,"all",any_status,platform,appnexus,false,15500,1700,3712700,358400,--,Unknown,--
+BE,Belgium,3208,Lyfe Media,"all",any_status,platform,appnexus,false,15400,200,3124700,202300,--,Unknown,--
+BE,Belgium,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,15400,800,24284900,766700,--,Unknown,--
+BE,Belgium,2660,DMG Mobile,"all",any_status,platform,appnexus,false,15400,100,2127700,100,--,Unknown,--
+BE,Belgium,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,14800,1400,18055600,4241400,--,Unknown,--
+BE,Belgium,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,14300,300,7914300,319800,--,Unknown,--
+BE,Belgium,2064,AdSeven,"all",any_status,platform,appnexus,false,14000,3400,449600,54600,--,Unknown,--
+BE,Belgium,3153,152 Media Select,"all",any_status,platform,appnexus,false,12600,800,2747300,124000,--,Unknown,--
+BE,Belgium,3106,Adrun,"all",any_status,platform,appnexus,false,12500,1100,689500,290300,--,Unknown,--
+BE,Belgium,1585,Horyzon Media,"all",any_status,platform,appnexus,false,12400,2600,1529400,354500,--,Unknown,--
+BE,Belgium,3450,Northern & Shell,"all",any_status,platform,appnexus,false,12400,1200,2119900,290900,--,Unknown,--
+BE,Belgium,3264,Accvee Premium,"all",any_status,platform,appnexus,false,12200,2600,2386500,486600,--,Unknown,--
+BE,Belgium,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,12200,4600,5286600,1498600,--,Unknown,--
+BE,Belgium,2945,Adhood,"all",any_status,platform,appnexus,false,12200,2100,1202300,111400,--,Unknown,--
+BE,Belgium,542,Up-value GmbH,"all",any_status,platform,appnexus,false,12100,1900,1613200,434700,--,Unknown,--
+BE,Belgium,3184,Hot Pink Media,"all",any_status,platform,appnexus,false,11500,3400,150600,47200,--,Unknown,--
+BE,Belgium,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,10900,2400,3869600,726200,--,Unknown,--
+BE,Belgium,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,10700,3000,8224700,1803300,--,Unknown,--
+BE,Belgium,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,10400,2800,4063700,606100,--,Unknown,--
+BE,Belgium,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,10000,500,6022900,193200,--,Unknown,--
+BE,Belgium,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,9500,1500,730200,148700,--,Unknown,--
+BE,Belgium,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,9000,1500,987200,136500,--,Unknown,--
+BE,Belgium,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,8900,2700,3909100,819600,--,Unknown,--
+BE,Belgium,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,8800,800,405800,85600,--,Unknown,--
+BE,Belgium,2837,Mannenmedia,"all",any_status,platform,appnexus,false,8400,3900,180000,59500,--,Unknown,--
+BE,Belgium,3289,NRC,"all",any_status,platform,appnexus,false,8000,3000,228200,67500,--,Unknown,--
+BE,Belgium,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,7700,2500,4710700,1329700,--,Unknown,--
+BE,Belgium,2026,Tailwind 1,"all",any_status,platform,appnexus,false,7600,1700,7959300,783700,--,Unknown,--
+BE,Belgium,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,7500,1000,3647300,408900,--,Unknown,--
+BE,Belgium,1393,ReactX,"all",any_status,platform,appnexus,false,7400,4100,4958500,1271600,--,Unknown,--
+BE,Belgium,3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,7100,600,3827100,444800,--,Unknown,--
+BE,Belgium,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,6800,1300,2358300,245600,--,Unknown,--
+BE,Belgium,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,6800,5500,5027900,2395500,--,Unknown,--
+BE,Belgium,1906,Velis Media,"all",any_status,platform,appnexus,false,6800,1300,1743200,404400,--,Unknown,--
+BE,Belgium,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,6700,900,66270000,5213700,--,Unknown,--
+BE,Belgium,3295,Adrizer LLC,"all",any_status,platform,appnexus,false,6300,200,12150400,229100,--,Unknown,--
+BE,Belgium,2365,SouthernX,"all",any_status,platform,appnexus,false,6300,600,9032200,796600,--,Unknown,--
+BE,Belgium,3194,Optima Network SL,"all",any_status,platform,appnexus,false,6200,700,2356900,625700,--,Unknown,--
+BE,Belgium,620,Mediafem LLC,"all",any_status,platform,appnexus,false,6200,600,4461200,553100,--,Unknown,--
+BE,Belgium,3456,A Plus,"all",any_status,platform,appnexus,false,6000,2200,1593200,492300,--,Unknown,--
+BE,Belgium,2251,Waypoint Media,"all",any_status,platform,appnexus,false,5800,900,3297000,184900,--,Unknown,--
+BE,Belgium,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,5800,500,7192100,699100,--,Unknown,--
+BE,Belgium,1449,Adtegrity,"all",any_status,platform,appnexus,false,5700,1900,30828900,3626800,--,Unknown,--
+BE,Belgium,2075,Gamehouse,"all",any_status,platform,appnexus,false,5400,1700,37900,17200,--,Unknown,--
+BE,Belgium,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,5400,900,1747100,91500,--,Unknown,--
+BE,Belgium,3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,5100,600,449400,40700,--,Unknown,--
+BE,Belgium,329,Bannerconnect,"all",any_status,platform,appnexus,true,4900,1600,334500,108700,--,Unknown,--
+BE,Belgium,927,Adgorithms,"all",any_status,platform,appnexus,false,4600,1200,6947600,360600,--,Unknown,--
+BE,Belgium,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,4400,1800,3379300,1153500,--,Unknown,--
+BE,Belgium,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,4200,2500,969700,491000,--,Unknown,--
+BE,Belgium,3135,33Across Real Display,"all",any_status,platform,appnexus,false,4000,1500,4519500,1104400,--,Unknown,--
+BE,Belgium,2790,"Digimosaic, Inc.","all",any_status,platform,appnexus,false,4000,1500,1584600,472900,--,Unknown,--
+BE,Belgium,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,3800,700,2171600,343900,--,Unknown,--
+BE,Belgium,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,3800,300,750100,62900,--,Unknown,--
+BE,Belgium,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,3800,700,1264700,197500,--,Unknown,--
+BE,Belgium,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,3600,1800,9531000,2986500,--,Unknown,--
+BE,Belgium,2967,orbyd GmbH,"all",any_status,platform,appnexus,false,3500,600,1517000,208900,--,Unknown,--
+BE,Belgium,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,3400,300,22300800,414400,--,Unknown,--
+BE,Belgium,946,Advertise.com,"all",any_status,platform,appnexus,false,3300,100,1096500,221100,--,Unknown,--
+BE,Belgium,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,3300,500,8293600,244900,--,Unknown,--
+BE,Belgium,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,3000,900,2649700,627500,--,Unknown,--
+BE,Belgium,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,2900,900,1058100,325200,--,Unknown,--
+BE,Belgium,2568,Engage:BDR,"all",any_status,platform,appnexus,false,2700,200,13185900,896900,--,Unknown,--
+BE,Belgium,2914,Solocal Xchange,"all",any_status,platform,appnexus,false,2600,800,2109100,469100,--,Unknown,--
+BE,Belgium,3203,evania GmbH,"all",any_status,platform,appnexus,false,2600,600,432900,83400,--,Unknown,--
+BE,Belgium,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,2500,600,2499600,401500,--,Unknown,--
+BE,Belgium,3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,2500,300,4446200,410600,--,Unknown,--
+BE,Belgium,3442,Ampliffy,"all",any_status,platform,appnexus,false,2400,400,4220500,316000,--,Unknown,--
+BE,Belgium,3074,VICE Media,"all",any_status,platform,appnexus,false,2300,300,976900,165800,--,Unknown,--
+BE,Belgium,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,2300,2200,341724700,17293700,--,Unknown,--
+BE,Belgium,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,2200,1000,23964200,1700200,--,Unknown,--
+BE,Belgium,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,2200,700,3517900,639700,--,Unknown,--
+BE,Belgium,1643,Fidelity Media,"all",any_status,platform,appnexus,false,2100,500,2190000,227800,--,Unknown,--
+BE,Belgium,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,2100,700,2787500,599200,--,Unknown,--
+BE,Belgium,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,2100,500,3114300,586100,--,Unknown,--
+BE,Belgium,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,2000,400,947400,114800,--,Unknown,--
+BE,Belgium,3265,BRATECH SA,"all",any_status,platform,appnexus,false,2000,500,8702600,2447900,--,Unknown,--
+BE,Belgium,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,1900,500,6463900,834200,--,Unknown,--
+BE,Belgium,2732,Matchflow Media,"all",any_status,platform,appnexus,false,1900,900,7335600,1014400,--,Unknown,--
+BE,Belgium,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,1900,1200,185500,117600,--,Unknown,--
+BE,Belgium,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,1900,600,199900,84500,--,Unknown,--
+BE,Belgium,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,1800,300,3984400,147800,--,Unknown,--
+BE,Belgium,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,1800,500,41510700,443300,--,Unknown,--
+BE,Belgium,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,1700,300,3489700,554200,--,Unknown,--
+BE,Belgium,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,1600,1000,315600,247600,--,Unknown,--
+BE,Belgium,859,Adlantic Online Advertising B.V.,"all",any_status,platform,appnexus,false,1600,600,36700,10400,--,Unknown,--
+BE,Belgium,2007,Affinity.com,"all",any_status,platform,appnexus,false,1500,600,2962400,795400,--,Unknown,--
+BE,Belgium,1656,Media White,"all",any_status,platform,appnexus,false,1400,300,865800,70500,--,Unknown,--
+BE,Belgium,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,1300,300,1126400,108700,--,Unknown,--
+BE,Belgium,311,Collective Exchange,"all",any_status,platform,appnexus,false,1300,500,119214800,7487900,--,Unknown,--
+BE,Belgium,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,1300,300,26716100,1171300,--,Unknown,--
+BE,Belgium,2419,Adaptive Media (Tailwind),"all",any_status,platform,appnexus,false,1300,500,449900,139600,--,Unknown,--
+BE,Belgium,2833,DigitalMarCom,"all",any_status,platform,appnexus,false,1300,400,367500,22200,--,Unknown,--
+BE,Belgium,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,1200,400,2652700,523300,--,Unknown,--
+BE,Belgium,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,1100,700,551600,295300,--,Unknown,--
+BE,Belgium,88,Kitara Media,"all",any_status,platform,appnexus,false,1100,200,57400,8500,--,Unknown,--
+BE,Belgium,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,1100,200,467900,96400,--,Unknown,--
+BE,Belgium,2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,1000,500,5539200,537800,--,Unknown,--
+BE,Belgium,597,Dedicated Media,"all",any_status,platform,appnexus,false,1000,300,127700,48200,--,Unknown,--
+BE,Belgium,3174,Yelp,"all",any_status,platform,appnexus,false,900,300,91900,28500,--,Unknown,--
+BE,Belgium,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,900,800,1374400,477700,--,Unknown,--
+BE,Belgium,1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,900,300,647800,93700,--,Unknown,--
+BE,Belgium,2583,NakkoMedia,"all",any_status,platform,appnexus,false,900,200,100500,11400,--,Unknown,--
+BE,Belgium,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,900,400,16758500,1276400,--,Unknown,--
+BE,Belgium,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,800,200,1000700,224100,--,Unknown,--
+BE,Belgium,1362,IMS Connect,"all",any_status,platform,appnexus,false,800,300,678700,80800,--,Unknown,--
+BE,Belgium,3246,DailyMail,"all",any_status,platform,appnexus,false,800,100,57336600,3466300,--,Unknown,--
+BE,Belgium,1655,Travel Reservations SRL,"all",any_status,platform,appnexus,false,700,200,99200,39100,--,Unknown,--
+BE,Belgium,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,700,600,626600,300300,--,Unknown,--
+BE,Belgium,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,700,300,1458900,286800,--,Unknown,--
+BE,Belgium,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,700,200,619100,145100,--,Unknown,--
+BE,Belgium,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,700,300,2063700,326000,--,Unknown,--
+BE,Belgium,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,600,200,1364000,118300,--,Unknown,--
+BE,Belgium,2234,Undertone Networks,"all",any_status,platform,appnexus,false,600,100,8413400,2046600,--,Unknown,--
+BE,Belgium,2219,Intag DW LLC,"all",any_status,platform,appnexus,false,600,200,739500,87800,--,Unknown,--
+BE,Belgium,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,600,200,1057900,230700,--,Unknown,--
+BE,Belgium,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,600,400,9379600,2540100,--,Unknown,--
+BE,Belgium,1224,Antevenio S.A.,"all",any_status,platform,appnexus,false,600,300,423500,102800,--,Unknown,--
+BE,Belgium,1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,600,300,11602500,1302100,--,Unknown,--
+BE,Belgium,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,500,300,3313700,736000,--,Unknown,--
+BE,Belgium,319,Ybrant Digital,"all",any_status,platform,appnexus,true,500,200,483600,153300,--,Unknown,--
+BE,Belgium,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,500,300,578500,93600,--,Unknown,--
+BE,Belgium,2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,500,200,1454200,468300,--,Unknown,--
+BE,Belgium,1945,Adperium BV - Performance,"all",any_status,platform,appnexus,false,500,200,31300,5700,--,Unknown,--
+BE,Belgium,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,500,400,383400,84200,--,Unknown,--
+BE,Belgium,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,500,200,8062800,2204700,--,Unknown,--
+BE,Belgium,1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,500,100,117625700,8331200,--,Unknown,--
+BE,Belgium,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,500,200,873600,129700,--,Unknown,--
+BE,Belgium,3361,Axel Springer Schweiz AG,"all",any_status,platform,appnexus,false,500,200,248000,37700,--,Unknown,--
+BE,Belgium,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,400,200,2805200,221700,--,Unknown,--
+BE,Belgium,1672,Hivewyre,"all",any_status,platform,appnexus,false,400,300,414600,149700,--,Unknown,--
+BE,Belgium,3411,AdinTop (Tailwind EMEA Ltd.),"all",any_status,platform,appnexus,false,400,200,218700,68400,--,Unknown,--
+BE,Belgium,2935,Suite66 Select,"all",any_status,platform,appnexus,false,400,200,2782400,514400,--,Unknown,--
+BE,Belgium,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,400,200,1489800,468100,--,Unknown,--
+BE,Belgium,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,400,100,2564700,153400,--,Unknown,--
+BE,Belgium,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,400,100,165800,23500,--,Unknown,--
+BE,Belgium,2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,300,200,249500,86400,--,Unknown,--
+BE,Belgium,3113,Hypercentage Ltd.,"all",any_status,platform,appnexus,false,300,100,53400,21900,--,Unknown,--
+BE,Belgium,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,300,100,111900,100,--,Unknown,--
+BE,Belgium,2011,Apex,"all",any_status,platform,appnexus,false,300,200,923200,342300,--,Unknown,--
+BE,Belgium,2733,Prodege LLC,"all",any_status,platform,appnexus,false,300,200,838500,350400,--,Unknown,--
+BE,Belgium,568,Httpool,"all",any_status,platform,appnexus,false,300,200,4528700,487200,--,Unknown,--
+BE,Belgium,3097,Digital Space,"all",any_status,platform,appnexus,false,300,100,1268300,217200,--,Unknown,--
+BE,Belgium,2455,Mango Media,"all",any_status,platform,appnexus,false,300,200,137500,57800,--,Unknown,--
+BE,Belgium,3255,Olihargon LLC,"all",any_status,platform,appnexus,false,200,200,472300,53100,--,Unknown,--
+BE,Belgium,3263,Daily Engage Media Group LLC,"all",any_status,platform,appnexus,false,200,100,24900,5700,--,Unknown,--
+BE,Belgium,1963,Crucial Interactive Inc.,"all",any_status,platform,appnexus,false,200,100,1711700,257200,--,Unknown,--
+BE,Belgium,2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,200,100,450000,159700,--,Unknown,--
+BE,Belgium,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,200,100,102300,68100,--,Unknown,--
+BE,Belgium,2654,Profound,"all",any_status,platform,appnexus,false,200,100,278400,54700,--,Unknown,--
+BE,Belgium,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,200,200,1044100,362500,--,Unknown,--
+BE,Belgium,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,200,200,2540800,448900,--,Unknown,--
+BE,Belgium,1373,Hitch Digital Media (Pty) Ltd.,"all",any_status,platform,appnexus,false,200,200,14100,8500,--,Unknown,--
+BE,Belgium,2398,Hashtag Labs,"all",any_status,platform,appnexus,false,200,100,3400,1100,--,Unknown,--
+BE,Belgium,2562,N&S Plus,"all",any_status,platform,appnexus,false,200,200,764400,200900,--,Unknown,--
+BE,Belgium,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,200,200,64800,29000,--,Unknown,--
+BE,Belgium,1956,"Travel Spike, LLC","all",any_status,platform,appnexus,false,200,200,101600,6400,--,Unknown,--
+BE,Belgium,2312,IncreaseOnline B.V.,"all",any_status,platform,appnexus,false,200,200,25700,10600,--,Unknown,--
+BE,Belgium,3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,200,200,358200,177500,--,Unknown,--
+BE,Belgium,1364,Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,200,100,187600,80500,--,Unknown,--
+BE,Belgium,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,200,100,54100,26800,--,Unknown,--
+BE,Belgium,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,200,200,79200,37100,--,Unknown,--
+BE,Belgium,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,200,100,28000,13100,--,Unknown,--
+BE,Belgium,3080,Local World Limited,"all",any_status,platform,appnexus,false,200,100,1474200,464200,--,Unknown,--
+BE,Belgium,3025,J Carter Marketing Inc,"all",any_status,platform,appnexus,false,100,100,403300,213700,--,Unknown,--
+BE,Belgium,3287,"RTK.io (Phaedrus Media, LLC)","all",any_status,platform,appnexus,false,100,100,4137900,236900,--,Unknown,--
+BE,Belgium,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,100,100,172400,72600,--,Unknown,--
+BE,Belgium,3050,Traffiq Exchange Performance,"all",any_status,platform,appnexus,false,100,100,6400,2100,--,Unknown,--
+BE,Belgium,2576,MauDau Ltd.,"all",any_status,platform,appnexus,false,100,100,4800,1800,--,Unknown,--
+BE,Belgium,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,100,200,64300,24700,--,Unknown,--
+BE,Belgium,876,Blue Mango,"all",any_status,platform,appnexus,false,100,100,6600,100,--,Unknown,--
+BE,Belgium,1522,Adnomia,"all",any_status,platform,appnexus,false,100,100,73200,35300,--,Unknown,--
+BE,Belgium,2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,100,100,259800,190000,--,Unknown,--
+BE,Belgium,848,AdExtent,"all",any_status,platform,appnexus,false,100,100,9700,4000,--,Unknown,--
+BE,Belgium,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,100,100,1875200,314600,--,Unknown,--
+BE,Belgium,3206,Automated Publisher Platform,"all",any_status,platform,appnexus,false,100,100,155200,30300,--,Unknown,--
+BE,Belgium,1768,Ideon Media,"all",any_status,platform,appnexus,false,100,100,132300,17300,--,Unknown,--
+BE,Belgium,362,Accordant Media,"all",any_status,platform,appnexus,false,100,100,10400,100,--,Unknown,--
+BE,Belgium,2066,Millennial Media Exchange,"all",any_status,platform,appnexus,false,100,100,11200,7000,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:36:20
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

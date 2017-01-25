@@ -1,0 +1,238 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+BA,Bosnia and Herzegovina,181,Google AdExchange,"all",any_status,external,appnexus,false,32905800,984800,28233867400,959451500,--,Unknown,--
+BA,Bosnia and Herzegovina,459,Rubicon,"all",any_status,external,appnexus,false,10078100,440500,5398288100,219468400,--,Unknown,--
+BA,Bosnia and Herzegovina,357,OpenX,"all",any_status,external,appnexus,false,9820600,308200,5480947400,127566900,--,Unknown,--
+BA,Bosnia and Herzegovina,1548,Criteo,"all",any_status,external,appnexus,false,2457900,245500,342165000,40879100,--,Unknown,--
+BA,Bosnia and Herzegovina,74,PubMatic,"all",any_status,external,appnexus,false,785400,31500,1408932400,73943500,--,Unknown,--
+BA,Bosnia and Herzegovina,1475,Lifestreet,"all",any_status,platform,appnexus,false,577300,16800,242585900,5057200,--,Unknown,--
+BA,Bosnia and Herzegovina,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,564800,17800,1206552000,52265100,--,Unknown,--
+BA,Bosnia and Herzegovina,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,557100,83400,1866171500,134504500,--,Unknown,--
+BA,Bosnia and Herzegovina,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,521700,8100,2174215700,44278600,--,Unknown,--
+BA,Bosnia and Herzegovina,2850,MobFox,"all",any_status,platform,appnexus,false,348400,18400,617754000,33916100,--,Unknown,--
+BA,Bosnia and Herzegovina,1356,bRealTime (select),"all",any_status,platform,appnexus,false,228400,22900,327708200,26451300,--,Unknown,--
+BA,Bosnia and Herzegovina,1360,Sovrn,"all",any_status,platform,appnexus,false,182200,10300,400642400,23323000,--,Unknown,--
+BA,Bosnia and Herzegovina,1354,Improve Digital,"all",any_status,platform,appnexus,false,181500,4700,617249300,18935700,--,Unknown,--
+BA,Bosnia and Herzegovina,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,173500,10500,166429900,7648600,--,Unknown,--
+BA,Bosnia and Herzegovina,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,103200,2000,76563700,1162600,--,Unknown,--
+BA,Bosnia and Herzegovina,1908,District M,"all",any_status,platform,appnexus,false,99600,3400,85430500,9861500,--,Unknown,--
+BA,Bosnia and Herzegovina,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,98800,10200,190575900,16112500,--,Unknown,--
+BA,Bosnia and Herzegovina,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,94900,30100,3313700,736000,--,Unknown,--
+BA,Bosnia and Herzegovina,882,AN Talent,"all",any_status,platform,appnexus,false,81400,29800,50438600,13544900,--,Unknown,--
+BA,Bosnia and Herzegovina,541,CPXInteractive,"all",any_status,platform,appnexus,false,75700,11900,38468600,5292100,--,Unknown,--
+BA,Bosnia and Herzegovina,1081,Sonobi,"all",any_status,platform,appnexus,false,70700,14900,41318500,4009000,--,Unknown,--
+BA,Bosnia and Herzegovina,310,Technorati Media,"all",any_status,platform,appnexus,false,43000,4800,64536800,6342900,--,Unknown,--
+BA,Bosnia and Herzegovina,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,34500,3000,51953900,4345700,--,Unknown,--
+BA,Bosnia and Herzegovina,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,29700,2700,27850600,5122800,--,Unknown,--
+BA,Bosnia and Herzegovina,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,29400,2400,37441400,3708500,--,Unknown,--
+BA,Bosnia and Herzegovina,928,Suite66,"all",any_status,platform,appnexus,false,28300,2200,4874500,704400,--,Unknown,--
+BA,Bosnia and Herzegovina,1613,Defy Media,"all",any_status,platform,appnexus,false,27600,2500,73239200,4465300,--,Unknown,--
+BA,Bosnia and Herzegovina,3204,Purch,"all",any_status,platform,appnexus,false,26200,3500,33563400,4355800,--,Unknown,--
+BA,Bosnia and Herzegovina,2721,Kiosked,"all",any_status,platform,appnexus,false,25900,3600,84569700,10245200,--,Unknown,--
+BA,Bosnia and Herzegovina,1942,Floor6,"all",any_status,platform,appnexus,false,23700,2900,41027600,5864100,--,Unknown,--
+BA,Bosnia and Herzegovina,3020,Mojiva II,"all",any_status,platform,appnexus,false,23200,1400,130720700,11697300,--,Unknown,--
+BA,Bosnia and Herzegovina,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,23000,700,6341900,228700,--,Unknown,--
+BA,Bosnia and Herzegovina,3074,VICE Media,"all",any_status,platform,appnexus,false,23000,200,976900,165800,--,Unknown,--
+BA,Bosnia and Herzegovina,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,22800,6200,60998700,8550900,--,Unknown,--
+BA,Bosnia and Herzegovina,1939,152 Media LLC,"all",any_status,platform,appnexus,false,22400,3900,10516600,1985700,--,Unknown,--
+BA,Bosnia and Herzegovina,568,Httpool,"all",any_status,platform,appnexus,false,21700,2000,4528700,487200,--,Unknown,--
+BA,Bosnia and Herzegovina,956,Zodiak Active,"all",any_status,platform,appnexus,false,21100,2900,42149500,4493100,--,Unknown,--
+BA,Bosnia and Herzegovina,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,19000,12500,2121409200,520131400,--,Unknown,--
+BA,Bosnia and Herzegovina,1357,bRealTime,"all",any_status,platform,appnexus,false,19000,3300,12048300,1469800,--,Unknown,--
+BA,Bosnia and Herzegovina,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,17900,1500,19222500,1853100,--,Unknown,--
+BA,Bosnia and Herzegovina,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,17600,2000,93859100,18219400,--,Unknown,--
+BA,Bosnia and Herzegovina,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,14900,600,46631800,2549100,--,Unknown,--
+BA,Bosnia and Herzegovina,3153,152 Media Select,"all",any_status,platform,appnexus,false,13700,300,2747300,124000,--,Unknown,--
+BA,Bosnia and Herzegovina,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,13500,2500,50860000,7782600,--,Unknown,--
+BA,Bosnia and Herzegovina,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,13200,1900,103106400,11015600,--,Unknown,--
+BA,Bosnia and Herzegovina,1405,Adscale GmbH,"all",any_status,external,appnexus,false,12900,1100,24769000,2453000,--,Unknown,--
+BA,Bosnia and Herzegovina,1643,Fidelity Media,"all",any_status,platform,appnexus,false,12200,300,2190000,227800,--,Unknown,--
+BA,Bosnia and Herzegovina,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,12200,1100,2358300,245600,--,Unknown,--
+BA,Bosnia and Herzegovina,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,11900,700,35500900,5026100,--,Unknown,--
+BA,Bosnia and Herzegovina,1226,AOL Marketplace,"all",any_status,external,appnexus,false,11300,700,239525900,16680800,--,Unknown,--
+BA,Bosnia and Herzegovina,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,11000,200,286290200,3534600,--,Unknown,--
+BA,Bosnia and Herzegovina,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,10900,5000,8000000,1228100,--,Unknown,--
+BA,Bosnia and Herzegovina,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,10400,5000,18452300,6512900,--,Unknown,--
+BA,Bosnia and Herzegovina,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,8500,1900,68302300,5161300,--,Unknown,--
+BA,Bosnia and Herzegovina,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,8100,1200,19737800,1365600,--,Unknown,--
+BA,Bosnia and Herzegovina,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,7300,200,3984400,147800,--,Unknown,--
+BA,Bosnia and Herzegovina,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,7200,3500,11679100,3946900,--,Unknown,--
+BA,Bosnia and Herzegovina,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,7000,500,3860700,298100,--,Unknown,--
+BA,Bosnia and Herzegovina,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,6900,2000,7319800,1991600,--,Unknown,--
+BA,Bosnia and Herzegovina,3192,RTB Media,"all",any_status,platform,appnexus,false,6300,2400,9047300,2346100,--,Unknown,--
+BA,Bosnia and Herzegovina,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,5900,600,3909100,819600,--,Unknown,--
+BA,Bosnia and Herzegovina,3006,CodeFuel,"all",any_status,platform,appnexus,false,5500,2100,754300,274900,--,Unknown,--
+BA,Bosnia and Herzegovina,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,5100,400,18055600,4241400,--,Unknown,--
+BA,Bosnia and Herzegovina,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,4500,200,4756100,537900,--,Unknown,--
+BA,Bosnia and Herzegovina,806,Venatus Media,"all",any_status,platform,appnexus,false,4500,500,5557600,602200,--,Unknown,--
+BA,Bosnia and Herzegovina,946,Advertise.com,"all",any_status,platform,appnexus,false,4400,400,1096500,221100,--,Unknown,--
+BA,Bosnia and Herzegovina,2688,Metric Science,"all",any_status,platform,appnexus,false,4100,1000,9565700,2018900,--,Unknown,--
+BA,Bosnia and Herzegovina,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,3800,800,50498400,3809900,--,Unknown,--
+BA,Bosnia and Herzegovina,3265,BRATECH SA,"all",any_status,platform,appnexus,false,3700,1000,8702600,2447900,--,Unknown,--
+BA,Bosnia and Herzegovina,1656,Media White,"all",any_status,platform,appnexus,false,3700,500,865800,70500,--,Unknown,--
+BA,Bosnia and Herzegovina,86,Photobucket,"all",any_status,external,appnexus,false,3700,500,10687900,596400,--,Unknown,--
+BA,Bosnia and Herzegovina,2945,Adhood,"all",any_status,platform,appnexus,false,3500,400,1202300,111400,--,Unknown,--
+BA,Bosnia and Herzegovina,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,3400,100,6022900,193200,--,Unknown,--
+BA,Bosnia and Herzegovina,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,3200,500,8096600,1668000,--,Unknown,--
+BA,Bosnia and Herzegovina,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,3000,200,24284900,766700,--,Unknown,--
+BA,Bosnia and Herzegovina,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,3000,500,16374000,2597100,--,Unknown,--
+BA,Bosnia and Herzegovina,3098,WEBEDIA,"all",any_status,platform,appnexus,false,2900,200,23991600,2742200,--,Unknown,--
+BA,Bosnia and Herzegovina,1882,TapTica LTD,"all",any_status,platform,appnexus,false,2900,1100,87218100,23348500,--,Unknown,--
+BA,Bosnia and Herzegovina,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,2900,300,3647300,408900,--,Unknown,--
+BA,Bosnia and Herzegovina,3264,Accvee Premium,"all",any_status,platform,appnexus,false,2700,300,2386500,486600,--,Unknown,--
+BA,Bosnia and Herzegovina,2251,Waypoint Media,"all",any_status,platform,appnexus,false,2600,600,3297000,184900,--,Unknown,--
+BA,Bosnia and Herzegovina,2967,orbyd GmbH,"all",any_status,platform,appnexus,false,2600,300,1517000,208900,--,Unknown,--
+BA,Bosnia and Herzegovina,1619,ReklamStore,"all",any_status,platform,appnexus,false,2500,700,32005800,4616300,--,Unknown,--
+BA,Bosnia and Herzegovina,1756,Adversal.com,"all",any_status,platform,appnexus,false,2400,400,14173900,1426500,--,Unknown,--
+BA,Bosnia and Herzegovina,1906,Velis Media,"all",any_status,platform,appnexus,false,2400,400,1743200,404400,--,Unknown,--
+BA,Bosnia and Herzegovina,3135,33Across Real Display,"all",any_status,platform,appnexus,false,2100,400,4519500,1104400,--,Unknown,--
+BA,Bosnia and Herzegovina,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,2100,700,67112200,3425500,--,Unknown,--
+BA,Bosnia and Herzegovina,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,2000,600,21596300,4597200,--,Unknown,--
+BA,Bosnia and Herzegovina,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,2000,300,16758500,1276400,--,Unknown,--
+BA,Bosnia and Herzegovina,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,2000,300,15959100,5178000,--,Unknown,--
+BA,Bosnia and Herzegovina,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,2000,400,8224700,1803300,--,Unknown,--
+BA,Bosnia and Herzegovina,884,Hi-Media,"all",any_status,platform,appnexus,false,1900,300,78818800,7489400,--,Unknown,--
+BA,Bosnia and Herzegovina,1413,DTCN,"all",any_status,platform,appnexus,false,1900,300,3607300,146200,--,Unknown,--
+BA,Bosnia and Herzegovina,2854,The Blogger Network,"all",any_status,platform,appnexus,false,1900,300,8885000,1294800,--,Unknown,--
+BA,Bosnia and Herzegovina,2026,Tailwind 1,"all",any_status,platform,appnexus,false,1800,100,7959300,783700,--,Unknown,--
+BA,Bosnia and Herzegovina,740,NetSeer Inc,"all",any_status,platform,appnexus,false,1800,200,7306400,1136500,--,Unknown,--
+BA,Bosnia and Herzegovina,3366,AerServ LLC,"all",any_status,platform,appnexus,false,1800,200,96664800,5504300,--,Unknown,--
+BA,Bosnia and Herzegovina,2804,Adshoard,"all",any_status,platform,appnexus,false,1600,300,15208300,1517700,--,Unknown,--
+BA,Bosnia and Herzegovina,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,1600,500,6251600,665800,--,Unknown,--
+BA,Bosnia and Herzegovina,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,1500,600,3379300,1153500,--,Unknown,--
+BA,Bosnia and Herzegovina,2767,Premio,"all",any_status,platform,appnexus,false,1400,300,13425800,1568700,--,Unknown,--
+BA,Bosnia and Herzegovina,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,1400,200,4430900,730200,--,Unknown,--
+BA,Bosnia and Herzegovina,3450,Northern & Shell,"all",any_status,platform,appnexus,false,1400,200,2119900,290900,--,Unknown,--
+BA,Bosnia and Herzegovina,3329,AdRaiden,"all",any_status,platform,appnexus,false,1300,300,59013500,8240600,--,Unknown,--
+BA,Bosnia and Herzegovina,2568,Engage:BDR,"all",any_status,platform,appnexus,false,1300,100,13185900,896900,--,Unknown,--
+BA,Bosnia and Herzegovina,3208,Lyfe Media,"all",any_status,platform,appnexus,false,1300,200,3124700,202300,--,Unknown,--
+BA,Bosnia and Herzegovina,620,Mediafem LLC,"all",any_status,platform,appnexus,false,1300,200,4461200,553100,--,Unknown,--
+BA,Bosnia and Herzegovina,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,1300,400,30389900,1033700,--,Unknown,--
+BA,Bosnia and Herzegovina,542,Up-value GmbH,"all",any_status,platform,appnexus,false,1200,200,1613200,434700,--,Unknown,--
+BA,Bosnia and Herzegovina,2732,Matchflow Media,"all",any_status,platform,appnexus,false,1200,500,7335600,1014400,--,Unknown,--
+BA,Bosnia and Herzegovina,2669,Brightcom Media,"all",any_status,platform,appnexus,false,1200,400,6016600,1760400,--,Unknown,--
+BA,Bosnia and Herzegovina,1362,IMS Connect,"all",any_status,platform,appnexus,false,1200,200,678700,80800,--,Unknown,--
+BA,Bosnia and Herzegovina,3456,A Plus,"all",any_status,platform,appnexus,false,1100,500,1593200,492300,--,Unknown,--
+BA,Bosnia and Herzegovina,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,1100,200,1264700,197500,--,Unknown,--
+BA,Bosnia and Herzegovina,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,1100,200,22350500,1529000,--,Unknown,--
+BA,Bosnia and Herzegovina,1608,Audience Square,"all",any_status,platform,appnexus,false,1100,200,105327200,8530300,--,Unknown,--
+BA,Bosnia and Herzegovina,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,1000,200,947400,114800,--,Unknown,--
+BA,Bosnia and Herzegovina,1749,W M Web Media,"all",any_status,platform,appnexus,false,1000,300,16480000,3492000,--,Unknown,--
+BA,Bosnia and Herzegovina,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,1000,500,1747100,91500,--,Unknown,--
+BA,Bosnia and Herzegovina,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,1000,300,3915900,451600,--,Unknown,--
+BA,Bosnia and Herzegovina,1672,Hivewyre,"all",any_status,platform,appnexus,false,1000,200,414600,149700,--,Unknown,--
+BA,Bosnia and Herzegovina,994,WebAds NL,"all",any_status,platform,appnexus,false,900,200,4383900,537800,--,Unknown,--
+BA,Bosnia and Herzegovina,3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,900,100,4446200,410600,--,Unknown,--
+BA,Bosnia and Herzegovina,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,800,200,3869600,726200,--,Unknown,--
+BA,Bosnia and Herzegovina,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,800,300,4063700,606100,--,Unknown,--
+BA,Bosnia and Herzegovina,1449,Adtegrity,"all",any_status,platform,appnexus,false,800,600,30828900,3626800,--,Unknown,--
+BA,Bosnia and Herzegovina,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,800,100,6143900,144300,--,Unknown,--
+BA,Bosnia and Herzegovina,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,800,300,1058100,325200,--,Unknown,--
+BA,Bosnia and Herzegovina,1611,Headway Digital,"all",any_status,platform,appnexus,false,800,300,14236300,1268000,--,Unknown,--
+BA,Bosnia and Herzegovina,311,Collective Exchange,"all",any_status,platform,appnexus,false,700,100,119214800,7487900,--,Unknown,--
+BA,Bosnia and Herzegovina,406,CPM Only,"all",any_status,platform,appnexus,false,700,300,22587800,1241100,--,Unknown,--
+BA,Bosnia and Herzegovina,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,700,300,5027900,2395500,--,Unknown,--
+BA,Bosnia and Herzegovina,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,700,300,467900,96400,--,Unknown,--
+BA,Bosnia and Herzegovina,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,700,400,969700,491000,--,Unknown,--
+BA,Bosnia and Herzegovina,2252,One Advertising AG,"all",any_status,platform,appnexus,false,600,200,7386500,732100,--,Unknown,--
+BA,Bosnia and Herzegovina,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,600,200,873600,129700,--,Unknown,--
+BA,Bosnia and Herzegovina,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,600,100,7192100,699100,--,Unknown,--
+BA,Bosnia and Herzegovina,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,600,200,383400,84200,--,Unknown,--
+BA,Bosnia and Herzegovina,1530,AdPrudence,"all",any_status,platform,appnexus,false,600,400,7290300,3996400,--,Unknown,--
+BA,Bosnia and Herzegovina,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,600,400,5545300,875700,--,Unknown,--
+BA,Bosnia and Herzegovina,2007,Affinity.com,"all",any_status,platform,appnexus,false,600,200,2962400,795400,--,Unknown,--
+BA,Bosnia and Herzegovina,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,600,200,120590500,5347900,--,Unknown,--
+BA,Bosnia and Herzegovina,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,600,200,2652700,523300,--,Unknown,--
+BA,Bosnia and Herzegovina,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,600,200,64800,29000,--,Unknown,--
+BA,Bosnia and Herzegovina,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,600,200,3517900,639700,--,Unknown,--
+BA,Bosnia and Herzegovina,1755,Digital Throttle,"all",any_status,platform,appnexus,false,600,200,3712700,358400,--,Unknown,--
+BA,Bosnia and Herzegovina,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,600,300,1126400,108700,--,Unknown,--
+BA,Bosnia and Herzegovina,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,500,100,28000,13100,--,Unknown,--
+BA,Bosnia and Herzegovina,3224,Playtem,"all",any_status,platform,appnexus,false,500,300,254000,63400,--,Unknown,--
+BA,Bosnia and Herzegovina,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,500,100,6463900,834200,--,Unknown,--
+BA,Bosnia and Herzegovina,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,500,100,165800,23500,--,Unknown,--
+BA,Bosnia and Herzegovina,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,500,200,405800,85600,--,Unknown,--
+BA,Bosnia and Herzegovina,2837,Mannenmedia,"all",any_status,platform,appnexus,false,500,100,180000,59500,--,Unknown,--
+BA,Bosnia and Herzegovina,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,500,200,54100,26800,--,Unknown,--
+BA,Bosnia and Herzegovina,3203,evania GmbH,"all",any_status,platform,appnexus,false,500,200,432900,83400,--,Unknown,--
+BA,Bosnia and Herzegovina,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,400,100,8293600,244900,--,Unknown,--
+BA,Bosnia and Herzegovina,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,400,100,22300800,414400,--,Unknown,--
+BA,Bosnia and Herzegovina,2562,N&S Plus,"all",any_status,platform,appnexus,false,400,200,764400,200900,--,Unknown,--
+BA,Bosnia and Herzegovina,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,400,300,2063700,326000,--,Unknown,--
+BA,Bosnia and Herzegovina,1393,ReactX,"all",any_status,platform,appnexus,false,400,400,4958500,1271600,--,Unknown,--
+BA,Bosnia and Herzegovina,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,400,300,315600,247600,--,Unknown,--
+BA,Bosnia and Herzegovina,2654,Profound,"all",any_status,platform,appnexus,false,400,100,278400,54700,--,Unknown,--
+BA,Bosnia and Herzegovina,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,400,300,2649700,627500,--,Unknown,--
+BA,Bosnia and Herzegovina,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,400,200,23964200,1700200,--,Unknown,--
+BA,Bosnia and Herzegovina,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,400,200,4293200,550100,--,Unknown,--
+BA,Bosnia and Herzegovina,855,Adadyn Premium,"all",any_status,platform,appnexus,false,400,100,4408100,1285700,--,Unknown,--
+BA,Bosnia and Herzegovina,3361,Axel Springer Schweiz AG,"all",any_status,platform,appnexus,false,400,200,248000,37700,--,Unknown,--
+BA,Bosnia and Herzegovina,3113,Hypercentage Ltd.,"all",any_status,platform,appnexus,false,300,100,53400,21900,--,Unknown,--
+BA,Bosnia and Herzegovina,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,300,200,987200,136500,--,Unknown,--
+BA,Bosnia and Herzegovina,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,300,200,2540800,448900,--,Unknown,--
+BA,Bosnia and Herzegovina,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,300,100,730200,148700,--,Unknown,--
+BA,Bosnia and Herzegovina,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,300,300,185500,117600,--,Unknown,--
+BA,Bosnia and Herzegovina,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,300,100,2805200,221700,--,Unknown,--
+BA,Bosnia and Herzegovina,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,300,100,12509900,1152200,--,Unknown,--
+BA,Bosnia and Herzegovina,2564,24/7 Media France,"all",any_status,platform,appnexus,false,300,200,10662500,1376600,--,Unknown,--
+BA,Bosnia and Herzegovina,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,300,100,2294000,382300,--,Unknown,--
+BA,Bosnia and Herzegovina,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,300,200,341724700,17293700,--,Unknown,--
+BA,Bosnia and Herzegovina,3255,Olihargon LLC,"all",any_status,platform,appnexus,false,300,100,472300,53100,--,Unknown,--
+BA,Bosnia and Herzegovina,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,300,300,1374400,477700,--,Unknown,--
+BA,Bosnia and Herzegovina,996,WebAds IT,"all",any_status,platform,appnexus,false,300,100,11291200,463000,--,Unknown,--
+BA,Bosnia and Herzegovina,2365,SouthernX,"all",any_status,platform,appnexus,false,300,100,9032200,796600,--,Unknown,--
+BA,Bosnia and Herzegovina,3106,Adrun,"all",any_status,platform,appnexus,false,300,200,689500,290300,--,Unknown,--
+BA,Bosnia and Herzegovina,2420,TailWind 3,"all",any_status,platform,appnexus,false,300,200,10261300,2274800,--,Unknown,--
+BA,Bosnia and Herzegovina,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,300,100,2787500,599200,--,Unknown,--
+BA,Bosnia and Herzegovina,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,200,200,3496400,1744800,--,Unknown,--
+BA,Bosnia and Herzegovina,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,200,200,551600,295300,--,Unknown,--
+BA,Bosnia and Herzegovina,3057,Adverline SAS,"all",any_status,platform,appnexus,false,200,100,5049300,558800,--,Unknown,--
+BA,Bosnia and Herzegovina,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,200,100,4710700,1329700,--,Unknown,--
+BA,Bosnia and Herzegovina,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,200,100,199900,84500,--,Unknown,--
+BA,Bosnia and Herzegovina,2579,Quantum,"all",any_status,platform,appnexus,false,200,200,13214100,4152100,--,Unknown,--
+BA,Bosnia and Herzegovina,848,AdExtent,"all",any_status,platform,appnexus,false,200,300,9700,4000,--,Unknown,--
+BA,Bosnia and Herzegovina,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,200,200,2171600,343900,--,Unknown,--
+BA,Bosnia and Herzegovina,927,Adgorithms,"all",any_status,platform,appnexus,false,200,200,6947600,360600,--,Unknown,--
+BA,Bosnia and Herzegovina,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,200,200,5286600,1498600,--,Unknown,--
+BA,Bosnia and Herzegovina,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,200,100,102300,68100,--,Unknown,--
+BA,Bosnia and Herzegovina,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,200,100,3003300,282300,--,Unknown,--
+BA,Bosnia and Herzegovina,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,200,100,41510700,443300,--,Unknown,--
+BA,Bosnia and Herzegovina,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,200,100,1364000,118300,--,Unknown,--
+BA,Bosnia and Herzegovina,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,200,200,626600,300300,--,Unknown,--
+BA,Bosnia and Herzegovina,329,Bannerconnect,"all",any_status,platform,appnexus,true,200,100,334500,108700,--,Unknown,--
+BA,Bosnia and Herzegovina,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,200,100,750100,62900,--,Unknown,--
+BA,Bosnia and Herzegovina,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,200,100,7914300,319800,--,Unknown,--
+BA,Bosnia and Herzegovina,1507,Zynga,"all",any_status,platform,appnexus,false,200,100,5930500,1179400,--,Unknown,--
+BA,Bosnia and Herzegovina,1847,Xaxis - Belgium,"all",any_status,platform,appnexus,false,200,100,1829200,145700,--,Unknown,--
+BA,Bosnia and Herzegovina,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,200,200,9531000,2986500,--,Unknown,--
+BA,Bosnia and Herzegovina,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,200,100,172400,72600,--,Unknown,--
+BA,Bosnia and Herzegovina,2064,AdSeven,"all",any_status,platform,appnexus,false,200,100,449600,54600,--,Unknown,--
+BA,Bosnia and Herzegovina,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,200,100,5798700,760300,--,Unknown,--
+BA,Bosnia and Herzegovina,3273,Figaromedias,"all",any_status,platform,appnexus,false,100,100,8751600,818700,--,Unknown,--
+BA,Bosnia and Herzegovina,1583,Admeta AB,"all",any_status,platform,appnexus,false,100,100,14256000,1033900,--,Unknown,--
+BA,Bosnia and Herzegovina,1021,Advance Internet,"all",any_status,platform,appnexus,false,100,100,470200,115500,--,Unknown,--
+BA,Bosnia and Herzegovina,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,100,100,1044100,362500,--,Unknown,--
+BA,Bosnia and Herzegovina,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,100,100,8062800,2204700,--,Unknown,--
+BA,Bosnia and Herzegovina,3289,NRC,"all",any_status,platform,appnexus,false,100,100,228200,67500,--,Unknown,--
+BA,Bosnia and Herzegovina,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,100,100,9379600,2540100,--,Unknown,--
+BA,Bosnia and Herzegovina,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,100,100,79200,37100,--,Unknown,--
+BA,Bosnia and Herzegovina,3097,Digital Space,"all",any_status,platform,appnexus,false,100,100,1268300,217200,--,Unknown,--
+BA,Bosnia and Herzegovina,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,100,100,26716100,1171300,--,Unknown,--
+BA,Bosnia and Herzegovina,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,100,100,51037100,391400,--,Unknown,--
+BA,Bosnia and Herzegovina,2733,Prodege LLC,"all",any_status,platform,appnexus,false,100,100,838500,350400,--,Unknown,--
+BA,Bosnia and Herzegovina,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,100,100,271311100,17933900,--,Unknown,--
+BA,Bosnia and Herzegovina,3194,Optima Network SL,"all",any_status,platform,appnexus,false,100,100,2356900,625700,--,Unknown,--
+BA,Bosnia and Herzegovina,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,100,100,111900,100,--,Unknown,--
+BA,Bosnia and Herzegovina,2011,Apex,"all",any_status,platform,appnexus,false,100,100,923200,342300,--,Unknown,--
+BA,Bosnia and Herzegovina,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,100,100,1458900,286800,--,Unknown,--
+BA,Bosnia and Herzegovina,1789,GroupM Sp.z.o.o.,"all",any_status,platform,appnexus,false,100,100,40500,100,--,Unknown,--
+BA,Bosnia and Herzegovina,2076,FemmeFab,"all",any_status,platform,appnexus,false,100,100,915800,127700,--,Unknown,--
+BA,Bosnia and Herzegovina,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,100,100,64300,24700,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:49:08
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

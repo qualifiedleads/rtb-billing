@@ -1,0 +1,176 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+MN,Mongolia,181,Google AdExchange,"all",any_status,external,appnexus,false,6276700,232400,28233867400,959451500,--,Unknown,--
+MN,Mongolia,357,OpenX,"all",any_status,external,appnexus,false,1127100,16800,5480947400,127566900,--,Unknown,--
+MN,Mongolia,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,1026100,22100,2174215700,44278600,--,Unknown,--
+MN,Mongolia,2850,MobFox,"all",any_status,platform,appnexus,false,760300,23600,617754000,33916100,--,Unknown,--
+MN,Mongolia,459,Rubicon,"all",any_status,external,appnexus,false,680900,26300,5398288100,219468400,--,Unknown,--
+MN,Mongolia,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,397000,25400,1206552000,52265100,--,Unknown,--
+MN,Mongolia,1475,Lifestreet,"all",any_status,platform,appnexus,false,222600,3900,242585900,5057200,--,Unknown,--
+MN,Mongolia,74,PubMatic,"all",any_status,external,appnexus,false,200900,5100,1408932400,73943500,--,Unknown,--
+MN,Mongolia,1356,bRealTime (select),"all",any_status,platform,appnexus,false,121100,7800,327708200,26451300,--,Unknown,--
+MN,Mongolia,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,59400,12500,1866171500,134504500,--,Unknown,--
+MN,Mongolia,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,44300,2500,190575900,16112500,--,Unknown,--
+MN,Mongolia,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,37200,900,76563700,1162600,--,Unknown,--
+MN,Mongolia,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,35200,9700,27850600,5122800,--,Unknown,--
+MN,Mongolia,1360,Sovrn,"all",any_status,platform,appnexus,false,30800,4100,400642400,23323000,--,Unknown,--
+MN,Mongolia,1619,ReklamStore,"all",any_status,platform,appnexus,false,25100,11000,32005800,4616300,--,Unknown,--
+MN,Mongolia,541,CPXInteractive,"all",any_status,platform,appnexus,false,23900,2500,38468600,5292100,--,Unknown,--
+MN,Mongolia,3204,Purch,"all",any_status,platform,appnexus,false,12300,1500,33563400,4355800,--,Unknown,--
+MN,Mongolia,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,10800,1100,103106400,11015600,--,Unknown,--
+MN,Mongolia,1939,152 Media LLC,"all",any_status,platform,appnexus,false,10700,2600,10516600,1985700,--,Unknown,--
+MN,Mongolia,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,10200,900,93859100,18219400,--,Unknown,--
+MN,Mongolia,310,Technorati Media,"all",any_status,platform,appnexus,false,9200,1100,64536800,6342900,--,Unknown,--
+MN,Mongolia,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,7100,800,35500900,5026100,--,Unknown,--
+MN,Mongolia,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,7000,5500,2121409200,520131400,--,Unknown,--
+MN,Mongolia,2721,Kiosked,"all",any_status,platform,appnexus,false,6600,1200,84569700,10245200,--,Unknown,--
+MN,Mongolia,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,6300,1700,60998700,8550900,--,Unknown,--
+MN,Mongolia,1643,Fidelity Media,"all",any_status,platform,appnexus,false,5700,200,2190000,227800,--,Unknown,--
+MN,Mongolia,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,5300,1000,50860000,7782600,--,Unknown,--
+MN,Mongolia,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,5200,500,166429900,7648600,--,Unknown,--
+MN,Mongolia,1908,District M,"all",any_status,platform,appnexus,false,4800,800,85430500,9861500,--,Unknown,--
+MN,Mongolia,3192,RTB Media,"all",any_status,platform,appnexus,false,4100,2100,9047300,2346100,--,Unknown,--
+MN,Mongolia,1942,Floor6,"all",any_status,platform,appnexus,false,4000,700,41027600,5864100,--,Unknown,--
+MN,Mongolia,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,3900,200,3984400,147800,--,Unknown,--
+MN,Mongolia,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,3800,200,286290200,3534600,--,Unknown,--
+MN,Mongolia,1882,TapTica LTD,"all",any_status,platform,appnexus,false,3700,1300,87218100,23348500,--,Unknown,--
+MN,Mongolia,882,AN Talent,"all",any_status,platform,appnexus,false,3500,900,50438600,13544900,--,Unknown,--
+MN,Mongolia,1357,bRealTime,"all",any_status,platform,appnexus,false,3500,800,12048300,1469800,--,Unknown,--
+MN,Mongolia,1613,Defy Media,"all",any_status,platform,appnexus,false,3500,700,73239200,4465300,--,Unknown,--
+MN,Mongolia,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,3500,600,8000000,1228100,--,Unknown,--
+MN,Mongolia,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,3400,300,6341900,228700,--,Unknown,--
+MN,Mongolia,3265,BRATECH SA,"all",any_status,platform,appnexus,false,3300,300,8702600,2447900,--,Unknown,--
+MN,Mongolia,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,3200,200,50498400,3809900,--,Unknown,--
+MN,Mongolia,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,3200,200,41510700,443300,--,Unknown,--
+MN,Mongolia,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,3000,200,66270000,5213700,--,Unknown,--
+MN,Mongolia,86,Photobucket,"all",any_status,external,appnexus,false,3000,200,10687900,596400,--,Unknown,--
+MN,Mongolia,3006,CodeFuel,"all",any_status,platform,appnexus,false,2900,1000,754300,274900,--,Unknown,--
+MN,Mongolia,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,2900,200,18055600,4241400,--,Unknown,--
+MN,Mongolia,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,2700,300,19737800,1365600,--,Unknown,--
+MN,Mongolia,1081,Sonobi,"all",any_status,platform,appnexus,false,2600,600,41318500,4009000,--,Unknown,--
+MN,Mongolia,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,2500,400,37441400,3708500,--,Unknown,--
+MN,Mongolia,2654,Profound,"all",any_status,platform,appnexus,false,2400,100,278400,54700,--,Unknown,--
+MN,Mongolia,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,2300,1000,11679100,3946900,--,Unknown,--
+MN,Mongolia,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,1900,300,6251600,665800,--,Unknown,--
+MN,Mongolia,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,1900,200,16758500,1276400,--,Unknown,--
+MN,Mongolia,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,1900,300,16374000,2597100,--,Unknown,--
+MN,Mongolia,1756,Adversal.com,"all",any_status,platform,appnexus,false,1700,300,14173900,1426500,--,Unknown,--
+MN,Mongolia,3020,Mojiva II,"all",any_status,platform,appnexus,false,1700,300,130720700,11697300,--,Unknown,--
+MN,Mongolia,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,1600,200,430811700,17143500,--,Unknown,--
+MN,Mongolia,3264,Accvee Premium,"all",any_status,platform,appnexus,false,1600,200,2386500,486600,--,Unknown,--
+MN,Mongolia,928,Suite66,"all",any_status,platform,appnexus,false,1600,700,4874500,704400,--,Unknown,--
+MN,Mongolia,2804,Adshoard,"all",any_status,platform,appnexus,false,1500,100,15208300,1517700,--,Unknown,--
+MN,Mongolia,1755,Digital Throttle,"all",any_status,platform,appnexus,false,1400,200,3712700,358400,--,Unknown,--
+MN,Mongolia,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,1200,600,7319800,1991600,--,Unknown,--
+MN,Mongolia,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,1200,200,5027900,2395500,--,Unknown,--
+MN,Mongolia,2251,Waypoint Media,"all",any_status,platform,appnexus,false,1100,300,3297000,184900,--,Unknown,--
+MN,Mongolia,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,1000,100,8293600,244900,--,Unknown,--
+MN,Mongolia,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,1000,600,18452300,6512900,--,Unknown,--
+MN,Mongolia,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,1000,200,24284900,766700,--,Unknown,--
+MN,Mongolia,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,900,100,23964200,1700200,--,Unknown,--
+MN,Mongolia,927,Adgorithms,"all",any_status,platform,appnexus,false,900,100,6947600,360600,--,Unknown,--
+MN,Mongolia,1608,Audience Square,"all",any_status,platform,appnexus,false,900,200,105327200,8530300,--,Unknown,--
+MN,Mongolia,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,800,200,4430900,730200,--,Unknown,--
+MN,Mongolia,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,800,300,19222500,1853100,--,Unknown,--
+MN,Mongolia,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,800,300,67112200,3425500,--,Unknown,--
+MN,Mongolia,3135,33Across Real Display,"all",any_status,platform,appnexus,false,700,300,4519500,1104400,--,Unknown,--
+MN,Mongolia,2688,Metric Science,"all",any_status,platform,appnexus,false,700,200,9565700,2018900,--,Unknown,--
+MN,Mongolia,2854,The Blogger Network,"all",any_status,platform,appnexus,false,700,200,8885000,1294800,--,Unknown,--
+MN,Mongolia,2252,One Advertising AG,"all",any_status,platform,appnexus,false,700,200,7386500,732100,--,Unknown,--
+MN,Mongolia,3074,VICE Media,"all",any_status,platform,appnexus,false,700,100,976900,165800,--,Unknown,--
+MN,Mongolia,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,700,300,3909100,819600,--,Unknown,--
+MN,Mongolia,1226,AOL Marketplace,"all",any_status,external,appnexus,false,700,200,239525900,16680800,--,Unknown,--
+MN,Mongolia,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,600,200,8224700,1803300,--,Unknown,--
+MN,Mongolia,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,600,200,1747100,91500,--,Unknown,--
+MN,Mongolia,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,600,200,46631800,2549100,--,Unknown,--
+MN,Mongolia,1611,Headway Digital,"all",any_status,platform,appnexus,false,600,400,14236300,1268000,--,Unknown,--
+MN,Mongolia,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,600,200,1058100,325200,--,Unknown,--
+MN,Mongolia,740,NetSeer Inc,"all",any_status,platform,appnexus,false,600,100,7306400,1136500,--,Unknown,--
+MN,Mongolia,2075,Gamehouse,"all",any_status,platform,appnexus,false,600,100,37900,17200,--,Unknown,--
+MN,Mongolia,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,600,100,9531000,2986500,--,Unknown,--
+MN,Mongolia,2945,Adhood,"all",any_status,platform,appnexus,false,600,200,1202300,111400,--,Unknown,--
+MN,Mongolia,1449,Adtegrity,"all",any_status,platform,appnexus,false,500,300,30828900,3626800,--,Unknown,--
+MN,Mongolia,3208,Lyfe Media,"all",any_status,platform,appnexus,false,500,200,3124700,202300,--,Unknown,--
+MN,Mongolia,1405,Adscale GmbH,"all",any_status,external,appnexus,false,500,100,24769000,2453000,--,Unknown,--
+MN,Mongolia,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,500,200,4063700,606100,--,Unknown,--
+MN,Mongolia,2669,Brightcom Media,"all",any_status,platform,appnexus,false,500,200,6016600,1760400,--,Unknown,--
+MN,Mongolia,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,500,100,873600,129700,--,Unknown,--
+MN,Mongolia,620,Mediafem LLC,"all",any_status,platform,appnexus,false,500,100,4461200,553100,--,Unknown,--
+MN,Mongolia,1906,Velis Media,"all",any_status,platform,appnexus,false,500,200,1743200,404400,--,Unknown,--
+MN,Mongolia,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,500,100,4293200,550100,--,Unknown,--
+MN,Mongolia,3098,WEBEDIA,"all",any_status,platform,appnexus,false,500,100,23991600,2742200,--,Unknown,--
+MN,Mongolia,3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,500,100,75439200,1675200,--,Unknown,--
+MN,Mongolia,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,500,100,6143900,144300,--,Unknown,--
+MN,Mongolia,1413,DTCN,"all",any_status,platform,appnexus,false,500,200,3607300,146200,--,Unknown,--
+MN,Mongolia,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,400,300,969700,491000,--,Unknown,--
+MN,Mongolia,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,400,200,21596300,4597200,--,Unknown,--
+MN,Mongolia,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,400,300,3379300,1153500,--,Unknown,--
+MN,Mongolia,956,Zodiak Active,"all",any_status,platform,appnexus,false,400,200,42149500,4493100,--,Unknown,--
+MN,Mongolia,806,Venatus Media,"all",any_status,platform,appnexus,false,400,200,5557600,602200,--,Unknown,--
+MN,Mongolia,1548,Criteo,"all",any_status,external,appnexus,false,400,300,342165000,40879100,--,Unknown,--
+MN,Mongolia,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,400,200,8096600,1668000,--,Unknown,--
+MN,Mongolia,3153,152 Media Select,"all",any_status,platform,appnexus,false,400,200,2747300,124000,--,Unknown,--
+MN,Mongolia,311,Collective Exchange,"all",any_status,platform,appnexus,false,300,200,119214800,7487900,--,Unknown,--
+MN,Mongolia,3224,Playtem,"all",any_status,platform,appnexus,false,300,100,254000,63400,--,Unknown,--
+MN,Mongolia,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,300,200,7192100,699100,--,Unknown,--
+MN,Mongolia,406,CPM Only,"all",any_status,platform,appnexus,false,300,100,22587800,1241100,--,Unknown,--
+MN,Mongolia,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,300,100,467900,96400,--,Unknown,--
+MN,Mongolia,2660,DMG Mobile,"all",any_status,platform,appnexus,false,300,100,2127700,100,--,Unknown,--
+MN,Mongolia,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,300,100,172400,72600,--,Unknown,--
+MN,Mongolia,3066,To Media Group BV,"all",any_status,platform,appnexus,false,300,100,1241400,150900,--,Unknown,--
+MN,Mongolia,1749,W M Web Media,"all",any_status,platform,appnexus,false,300,200,16480000,3492000,--,Unknown,--
+MN,Mongolia,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,300,200,54100,26800,--,Unknown,--
+MN,Mongolia,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,300,100,578500,93600,--,Unknown,--
+MN,Mongolia,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,300,100,5545300,875700,--,Unknown,--
+MN,Mongolia,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,300,200,987200,136500,--,Unknown,--
+MN,Mongolia,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,300,100,2564700,153400,--,Unknown,--
+MN,Mongolia,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,200,100,2787500,599200,--,Unknown,--
+MN,Mongolia,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,200,200,315600,247600,--,Unknown,--
+MN,Mongolia,3203,evania GmbH,"all",any_status,platform,appnexus,false,200,100,432900,83400,--,Unknown,--
+MN,Mongolia,884,Hi-Media,"all",any_status,platform,appnexus,false,200,100,78818800,7489400,--,Unknown,--
+MN,Mongolia,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,200,100,1264700,197500,--,Unknown,--
+MN,Mongolia,3500,ASQ Brand,"all",any_status,platform,appnexus,false,200,100,30855200,1884800,--,Unknown,--
+MN,Mongolia,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,200,100,383400,84200,--,Unknown,--
+MN,Mongolia,1393,ReactX,"all",any_status,platform,appnexus,false,200,200,4958500,1271600,--,Unknown,--
+MN,Mongolia,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,200,100,102300,68100,--,Unknown,--
+MN,Mongolia,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,200,100,30389900,1033700,--,Unknown,--
+MN,Mongolia,818,MediaShakers,"all",any_status,platform,appnexus,false,200,200,9935200,1579700,--,Unknown,--
+MN,Mongolia,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,200,200,2649700,627500,--,Unknown,--
+MN,Mongolia,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,200,100,6463900,834200,--,Unknown,--
+MN,Mongolia,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,200,100,3647300,408900,--,Unknown,--
+MN,Mongolia,3456,A Plus,"all",any_status,platform,appnexus,false,200,100,1593200,492300,--,Unknown,--
+MN,Mongolia,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,200,100,341724700,17293700,--,Unknown,--
+MN,Mongolia,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,100,100,7914300,319800,--,Unknown,--
+MN,Mongolia,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,100,100,3869600,726200,--,Unknown,--
+MN,Mongolia,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,100,100,626600,300300,--,Unknown,--
+MN,Mongolia,2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,100,100,249500,86400,--,Unknown,--
+MN,Mongolia,1583,Admeta AB,"all",any_status,platform,appnexus,false,100,100,14256000,1033900,--,Unknown,--
+MN,Mongolia,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,100,100,1057900,230700,--,Unknown,--
+MN,Mongolia,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,100,100,1364000,118300,--,Unknown,--
+MN,Mongolia,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,100,100,79200,37100,--,Unknown,--
+MN,Mongolia,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,100,100,22300800,414400,--,Unknown,--
+MN,Mongolia,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,100,100,1374400,477700,--,Unknown,--
+MN,Mongolia,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,100,100,2652700,523300,--,Unknown,--
+MN,Mongolia,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,100,100,5798700,760300,--,Unknown,--
+MN,Mongolia,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,100,100,1000700,224100,--,Unknown,--
+MN,Mongolia,1362,IMS Connect,"all",any_status,platform,appnexus,false,100,100,678700,80800,--,Unknown,--
+MN,Mongolia,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,100,100,1875200,314600,--,Unknown,--
+MN,Mongolia,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,100,100,1489800,468100,--,Unknown,--
+MN,Mongolia,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,100,100,120590500,5347900,--,Unknown,--
+MN,Mongolia,1656,Media White,"all",any_status,platform,appnexus,false,100,100,865800,70500,--,Unknown,--
+MN,Mongolia,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,100,100,199900,84500,--,Unknown,--
+MN,Mongolia,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,100,100,3003300,282300,--,Unknown,--
+MN,Mongolia,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,100,100,2540800,448900,--,Unknown,--
+MN,Mongolia,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,100,100,68302300,5161300,--,Unknown,--
+MN,Mongolia,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,100,100,26716100,1171300,--,Unknown,--
+MN,Mongolia,2733,Prodege LLC,"all",any_status,platform,appnexus,false,100,100,838500,350400,--,Unknown,--
+MN,Mongolia,3329,AdRaiden,"all",any_status,platform,appnexus,false,100,100,59013500,8240600,--,Unknown,--
+MN,Mongolia,1530,AdPrudence,"all",any_status,platform,appnexus,false,100,100,7290300,3996400,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 16:01:11
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

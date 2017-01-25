@@ -1,0 +1,319 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+CH,Switzerland,181,Google AdExchange,"all",any_status,external,appnexus,false,63179500,3007300,28233867400,959451500,--,Unknown,--
+CH,Switzerland,1354,Improve Digital,"all",any_status,platform,appnexus,false,35924100,724000,617249300,18935700,--,Unknown,--
+CH,Switzerland,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,26869300,447900,2174215700,44278600,--,Unknown,--
+CH,Switzerland,459,Rubicon,"all",any_status,external,appnexus,false,21106800,963700,5398288100,219468400,--,Unknown,--
+CH,Switzerland,74,PubMatic,"all",any_status,external,appnexus,false,12221100,531000,1408932400,73943500,--,Unknown,--
+CH,Switzerland,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,11596700,832200,1866171500,134504500,--,Unknown,--
+CH,Switzerland,357,OpenX,"all",any_status,external,appnexus,false,8846300,314200,5480947400,127566900,--,Unknown,--
+CH,Switzerland,2850,MobFox,"all",any_status,platform,appnexus,false,7428300,197200,617754000,33916100,--,Unknown,--
+CH,Switzerland,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,3212900,579100,3517900,639700,--,Unknown,--
+CH,Switzerland,1548,Criteo,"all",any_status,external,appnexus,false,2262100,255500,342165000,40879100,--,Unknown,--
+CH,Switzerland,1608,Audience Square,"all",any_status,platform,appnexus,false,1239100,107200,105327200,8530300,--,Unknown,--
+CH,Switzerland,1405,Adscale GmbH,"all",any_status,external,appnexus,false,844100,69800,24769000,2453000,--,Unknown,--
+CH,Switzerland,2252,One Advertising AG,"all",any_status,platform,appnexus,false,775600,83900,7386500,732100,--,Unknown,--
+CH,Switzerland,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,739000,8700,286290200,3534600,--,Unknown,--
+CH,Switzerland,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,661300,5300,51037100,391400,--,Unknown,--
+CH,Switzerland,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,659400,92100,50860000,7782600,--,Unknown,--
+CH,Switzerland,1908,District M,"all",any_status,platform,appnexus,false,548400,29600,85430500,9861500,--,Unknown,--
+CH,Switzerland,1356,bRealTime (select),"all",any_status,platform,appnexus,false,540100,42100,327708200,26451300,--,Unknown,--
+CH,Switzerland,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,532600,17000,3915900,451600,--,Unknown,--
+CH,Switzerland,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,520900,26100,430811700,17143500,--,Unknown,--
+CH,Switzerland,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,519600,27800,1206552000,52265100,--,Unknown,--
+CH,Switzerland,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,510000,50900,190575900,16112500,--,Unknown,--
+CH,Switzerland,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,486700,28100,271311100,17933900,--,Unknown,--
+CH,Switzerland,884,Hi-Media,"all",any_status,platform,appnexus,false,481800,48600,78818800,7489400,--,Unknown,--
+CH,Switzerland,1360,Sovrn,"all",any_status,platform,appnexus,false,475400,32400,400642400,23323000,--,Unknown,--
+CH,Switzerland,3500,ASQ Brand,"all",any_status,platform,appnexus,false,417200,24100,30855200,1884800,--,Unknown,--
+CH,Switzerland,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,376200,76300,68302300,5161300,--,Unknown,--
+CH,Switzerland,3098,WEBEDIA,"all",any_status,platform,appnexus,false,351300,38500,23991600,2742200,--,Unknown,--
+CH,Switzerland,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,309400,18100,166429900,7648600,--,Unknown,--
+CH,Switzerland,1475,Lifestreet,"all",any_status,platform,appnexus,false,269900,6300,242585900,5057200,--,Unknown,--
+CH,Switzerland,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,258000,9800,22350500,1529000,--,Unknown,--
+CH,Switzerland,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,232800,13000,120590500,5347900,--,Unknown,--
+CH,Switzerland,1882,TapTica LTD,"all",any_status,platform,appnexus,false,232400,113600,87218100,23348500,--,Unknown,--
+CH,Switzerland,3361,Axel Springer Schweiz AG,"all",any_status,platform,appnexus,false,226100,32400,248000,37700,--,Unknown,--
+CH,Switzerland,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,204800,3600,76563700,1162600,--,Unknown,--
+CH,Switzerland,541,CPXInteractive,"all",any_status,platform,appnexus,false,169000,15300,38468600,5292100,--,Unknown,--
+CH,Switzerland,3273,Figaromedias,"all",any_status,platform,appnexus,false,153800,15700,8751600,818700,--,Unknown,--
+CH,Switzerland,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,141100,59800,93859100,18219400,--,Unknown,--
+CH,Switzerland,2564,24/7 Media France,"all",any_status,platform,appnexus,false,140800,7800,10662500,1376600,--,Unknown,--
+CH,Switzerland,3020,Mojiva II,"all",any_status,platform,appnexus,false,132000,6600,130720700,11697300,--,Unknown,--
+CH,Switzerland,2721,Kiosked,"all",any_status,platform,appnexus,false,127600,17300,84569700,10245200,--,Unknown,--
+CH,Switzerland,3204,Purch,"all",any_status,platform,appnexus,false,125400,17600,33563400,4355800,--,Unknown,--
+CH,Switzerland,1530,AdPrudence,"all",any_status,platform,appnexus,false,125300,114200,7290300,3996400,--,Unknown,--
+CH,Switzerland,2579,Quantum,"all",any_status,platform,appnexus,false,120300,41800,13214100,4152100,--,Unknown,--
+CH,Switzerland,1226,AOL Marketplace,"all",any_status,external,appnexus,false,119200,6500,239525900,16680800,--,Unknown,--
+CH,Switzerland,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,105300,32700,21596300,4597200,--,Unknown,--
+CH,Switzerland,956,Zodiak Active,"all",any_status,platform,appnexus,false,103000,13900,42149500,4493100,--,Unknown,--
+CH,Switzerland,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,94500,61800,15959100,5178000,--,Unknown,--
+CH,Switzerland,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,92800,20300,2294000,382300,--,Unknown,--
+CH,Switzerland,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,90500,18600,60998700,8550900,--,Unknown,--
+CH,Switzerland,2767,Premio,"all",any_status,platform,appnexus,false,90400,9400,13425800,1568700,--,Unknown,--
+CH,Switzerland,1081,Sonobi,"all",any_status,platform,appnexus,false,90300,11200,41318500,4009000,--,Unknown,--
+CH,Switzerland,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,89500,5100,19737800,1365600,--,Unknown,--
+CH,Switzerland,882,AN Talent,"all",any_status,platform,appnexus,false,86000,25100,50438600,13544900,--,Unknown,--
+CH,Switzerland,3366,AerServ LLC,"all",any_status,platform,appnexus,false,86000,2200,96664800,5504300,--,Unknown,--
+CH,Switzerland,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,79000,53900,2121409200,520131400,--,Unknown,--
+CH,Switzerland,310,Technorati Media,"all",any_status,platform,appnexus,false,76900,13200,64536800,6342900,--,Unknown,--
+CH,Switzerland,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,71500,17100,103106400,11015600,--,Unknown,--
+CH,Switzerland,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,69100,4300,67112200,3425500,--,Unknown,--
+CH,Switzerland,1611,Headway Digital,"all",any_status,platform,appnexus,false,67300,3900,14236300,1268000,--,Unknown,--
+CH,Switzerland,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,60200,7000,27850600,5122800,--,Unknown,--
+CH,Switzerland,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,55500,2300,3003300,282300,--,Unknown,--
+CH,Switzerland,3153,152 Media Select,"all",any_status,platform,appnexus,false,55200,500,2747300,124000,--,Unknown,--
+CH,Switzerland,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,53700,10300,51953900,4345700,--,Unknown,--
+CH,Switzerland,996,WebAds IT,"all",any_status,platform,appnexus,false,51800,1700,11291200,463000,--,Unknown,--
+CH,Switzerland,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,51200,3800,46631800,2549100,--,Unknown,--
+CH,Switzerland,1583,Admeta AB,"all",any_status,platform,appnexus,false,50200,2200,14256000,1033900,--,Unknown,--
+CH,Switzerland,2251,Waypoint Media,"all",any_status,platform,appnexus,false,48200,900,3297000,184900,--,Unknown,--
+CH,Switzerland,1942,Floor6,"all",any_status,platform,appnexus,false,43500,6200,41027600,5864100,--,Unknown,--
+CH,Switzerland,3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,39900,5000,2636000,329400,--,Unknown,--
+CH,Switzerland,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,39700,11200,18452300,6512900,--,Unknown,--
+CH,Switzerland,1613,Defy Media,"all",any_status,platform,appnexus,false,39500,4600,73239200,4465300,--,Unknown,--
+CH,Switzerland,1619,ReklamStore,"all",any_status,platform,appnexus,false,39200,3500,32005800,4616300,--,Unknown,--
+CH,Switzerland,994,WebAds NL,"all",any_status,platform,appnexus,false,37400,600,4383900,537800,--,Unknown,--
+CH,Switzerland,1357,bRealTime,"all",any_status,platform,appnexus,false,36200,5500,12048300,1469800,--,Unknown,--
+CH,Switzerland,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,34900,3600,50498400,3809900,--,Unknown,--
+CH,Switzerland,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,34800,2100,35500900,5026100,--,Unknown,--
+CH,Switzerland,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,33800,2600,6251600,665800,--,Unknown,--
+CH,Switzerland,3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,32300,2600,10120900,466800,--,Unknown,--
+CH,Switzerland,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,31600,11200,11679100,3946900,--,Unknown,--
+CH,Switzerland,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,29600,29300,5027900,2395500,--,Unknown,--
+CH,Switzerland,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,29000,800,6341900,228700,--,Unknown,--
+CH,Switzerland,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,27500,2400,66270000,5213700,--,Unknown,--
+CH,Switzerland,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,26500,12800,3496400,1744800,--,Unknown,--
+CH,Switzerland,2219,Intag DW LLC,"all",any_status,platform,appnexus,false,26100,6600,739500,87800,--,Unknown,--
+CH,Switzerland,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,25700,3800,37441400,3708500,--,Unknown,--
+CH,Switzerland,3329,AdRaiden,"all",any_status,platform,appnexus,false,25500,6400,59013500,8240600,--,Unknown,--
+CH,Switzerland,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,24600,19200,315600,247600,--,Unknown,--
+CH,Switzerland,1939,152 Media LLC,"all",any_status,platform,appnexus,false,23100,3100,10516600,1985700,--,Unknown,--
+CH,Switzerland,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,22500,1700,3860700,298100,--,Unknown,--
+CH,Switzerland,2688,Metric Science,"all",any_status,platform,appnexus,false,22200,5500,9565700,2018900,--,Unknown,--
+CH,Switzerland,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,21800,1100,1126400,108700,--,Unknown,--
+CH,Switzerland,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,21000,1100,12509900,1152200,--,Unknown,--
+CH,Switzerland,2804,Adshoard,"all",any_status,platform,appnexus,false,20500,1300,15208300,1517700,--,Unknown,--
+CH,Switzerland,2784,Rocoto Media,"all",any_status,platform,appnexus,false,20100,200,9851200,164600,--,Unknown,--
+CH,Switzerland,740,NetSeer Inc,"all",any_status,platform,appnexus,false,18600,5500,7306400,1136500,--,Unknown,--
+CH,Switzerland,2967,orbyd GmbH,"all",any_status,platform,appnexus,false,17800,4000,1517000,208900,--,Unknown,--
+CH,Switzerland,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,16400,800,24284900,766700,--,Unknown,--
+CH,Switzerland,1749,W M Web Media,"all",any_status,platform,appnexus,false,16200,8700,16480000,3492000,--,Unknown,--
+CH,Switzerland,3057,Adverline SAS,"all",any_status,platform,appnexus,false,16100,2600,5049300,558800,--,Unknown,--
+CH,Switzerland,806,Venatus Media,"all",any_status,platform,appnexus,false,15900,1700,5557600,602200,--,Unknown,--
+CH,Switzerland,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,15700,3700,16374000,2597100,--,Unknown,--
+CH,Switzerland,3442,Ampliffy,"all",any_status,platform,appnexus,false,15600,600,4220500,316000,--,Unknown,--
+CH,Switzerland,86,Photobucket,"all",any_status,external,appnexus,false,15300,1900,10687900,596400,--,Unknown,--
+CH,Switzerland,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,14300,4700,7319800,1991600,--,Unknown,--
+CH,Switzerland,542,Up-value GmbH,"all",any_status,platform,appnexus,false,14200,2000,1613200,434700,--,Unknown,--
+CH,Switzerland,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,13900,2000,8096600,1668000,--,Unknown,--
+CH,Switzerland,1756,Adversal.com,"all",any_status,platform,appnexus,false,13800,2400,14173900,1426500,--,Unknown,--
+CH,Switzerland,2854,The Blogger Network,"all",any_status,platform,appnexus,false,13500,1600,8885000,1294800,--,Unknown,--
+CH,Switzerland,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,13200,1600,4430900,730200,--,Unknown,--
+CH,Switzerland,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,12900,2800,8224700,1803300,--,Unknown,--
+CH,Switzerland,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,12500,1600,23964200,1700200,--,Unknown,--
+CH,Switzerland,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,12200,300,7914300,319800,--,Unknown,--
+CH,Switzerland,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,11700,1500,5798700,760300,--,Unknown,--
+CH,Switzerland,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,11500,3300,5286600,1498600,--,Unknown,--
+CH,Switzerland,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,11300,3400,9379600,2540100,--,Unknown,--
+CH,Switzerland,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,10400,900,2171600,343900,--,Unknown,--
+CH,Switzerland,2420,TailWind 3,"all",any_status,platform,appnexus,false,10100,1300,10261300,2274800,--,Unknown,--
+CH,Switzerland,2026,Tailwind 1,"all",any_status,platform,appnexus,false,9500,1100,7959300,783700,--,Unknown,--
+CH,Switzerland,1449,Adtegrity,"all",any_status,platform,appnexus,false,9300,1400,30828900,3626800,--,Unknown,--
+CH,Switzerland,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,9200,500,1747100,91500,--,Unknown,--
+CH,Switzerland,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,9100,1000,405800,85600,--,Unknown,--
+CH,Switzerland,855,Adadyn Premium,"all",any_status,platform,appnexus,false,8900,3100,4408100,1285700,--,Unknown,--
+CH,Switzerland,1783,Bandsintown Amplified,"all",any_status,platform,appnexus,false,8800,3600,1178600,523000,--,Unknown,--
+CH,Switzerland,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,8700,800,19222500,1853100,--,Unknown,--
+CH,Switzerland,818,MediaShakers,"all",any_status,platform,appnexus,false,7900,1800,9935200,1579700,--,Unknown,--
+CH,Switzerland,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,7900,1200,987200,136500,--,Unknown,--
+CH,Switzerland,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,7900,2200,3909100,819600,--,Unknown,--
+CH,Switzerland,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,7400,800,8000000,1228100,--,Unknown,--
+CH,Switzerland,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,7300,1400,4293200,550100,--,Unknown,--
+CH,Switzerland,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,7200,6500,341724700,17293700,--,Unknown,--
+CH,Switzerland,2669,Brightcom Media,"all",any_status,platform,appnexus,false,6900,1600,6016600,1760400,--,Unknown,--
+CH,Switzerland,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,6500,1500,5545300,875700,--,Unknown,--
+CH,Switzerland,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,6300,700,3647300,408900,--,Unknown,--
+CH,Switzerland,3264,Accvee Premium,"all",any_status,platform,appnexus,false,6200,2000,2386500,486600,--,Unknown,--
+CH,Switzerland,3450,Northern & Shell,"all",any_status,platform,appnexus,false,6200,500,2119900,290900,--,Unknown,--
+CH,Switzerland,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,5800,1100,2358300,245600,--,Unknown,--
+CH,Switzerland,3192,RTB Media,"all",any_status,platform,appnexus,false,5700,1500,9047300,2346100,--,Unknown,--
+CH,Switzerland,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,5700,300,8293600,244900,--,Unknown,--
+CH,Switzerland,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,5700,500,16758500,1276400,--,Unknown,--
+CH,Switzerland,3295,Adrizer LLC,"all",any_status,platform,appnexus,false,5700,200,12150400,229100,--,Unknown,--
+CH,Switzerland,2660,DMG Mobile,"all",any_status,platform,appnexus,false,5500,100,2127700,100,--,Unknown,--
+CH,Switzerland,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,5500,400,22300800,414400,--,Unknown,--
+CH,Switzerland,1393,ReactX,"all",any_status,platform,appnexus,false,5200,2900,4958500,1271600,--,Unknown,--
+CH,Switzerland,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,5000,400,6143900,144300,--,Unknown,--
+CH,Switzerland,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,5000,2200,730200,148700,--,Unknown,--
+CH,Switzerland,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,4800,400,6022900,193200,--,Unknown,--
+CH,Switzerland,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,4600,1000,3489700,554200,--,Unknown,--
+CH,Switzerland,927,Adgorithms,"all",any_status,platform,appnexus,false,4500,1200,6947600,360600,--,Unknown,--
+CH,Switzerland,3203,evania GmbH,"all",any_status,platform,appnexus,false,4400,900,432900,83400,--,Unknown,--
+CH,Switzerland,3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,4100,500,449400,40700,--,Unknown,--
+CH,Switzerland,3263,Daily Engage Media Group LLC,"all",any_status,platform,appnexus,false,4000,100,24900,5700,--,Unknown,--
+CH,Switzerland,3135,33Across Real Display,"all",any_status,platform,appnexus,false,3800,1000,4519500,1104400,--,Unknown,--
+CH,Switzerland,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,3800,1300,3379300,1153500,--,Unknown,--
+CH,Switzerland,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,3800,500,1264700,197500,--,Unknown,--
+CH,Switzerland,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,3700,1600,9531000,2986500,--,Unknown,--
+CH,Switzerland,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,3700,1000,3869600,726200,--,Unknown,--
+CH,Switzerland,2914,Solocal Xchange,"all",any_status,platform,appnexus,false,3600,900,2109100,469100,--,Unknown,--
+CH,Switzerland,928,Suite66,"all",any_status,platform,appnexus,false,3500,600,4874500,704400,--,Unknown,--
+CH,Switzerland,3456,A Plus,"all",any_status,platform,appnexus,false,3500,1000,1593200,492300,--,Unknown,--
+CH,Switzerland,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,3400,600,551600,295300,--,Unknown,--
+CH,Switzerland,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,3400,400,578500,93600,--,Unknown,--
+CH,Switzerland,1585,Horyzon Media,"all",any_status,platform,appnexus,false,3400,800,1529400,354500,--,Unknown,--
+CH,Switzerland,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,3200,300,2805200,221700,--,Unknown,--
+CH,Switzerland,2365,SouthernX,"all",any_status,platform,appnexus,false,3100,500,9032200,796600,--,Unknown,--
+CH,Switzerland,3106,Adrun,"all",any_status,platform,appnexus,false,3100,500,689500,290300,--,Unknown,--
+CH,Switzerland,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,3000,700,18055600,4241400,--,Unknown,--
+CH,Switzerland,3265,BRATECH SA,"all",any_status,platform,appnexus,false,2900,2400,8702600,2447900,--,Unknown,--
+CH,Switzerland,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,2900,1600,3313700,736000,--,Unknown,--
+CH,Switzerland,3194,Optima Network SL,"all",any_status,platform,appnexus,false,2800,700,2356900,625700,--,Unknown,--
+CH,Switzerland,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,2700,1100,4710700,1329700,--,Unknown,--
+CH,Switzerland,1643,Fidelity Media,"all",any_status,platform,appnexus,false,2700,400,2190000,227800,--,Unknown,--
+CH,Switzerland,3232,Builder Homesite Inc,"all",any_status,platform,appnexus,false,2600,100,687300,14400,--,Unknown,--
+CH,Switzerland,1755,Digital Throttle,"all",any_status,platform,appnexus,false,2600,600,3712700,358400,--,Unknown,--
+CH,Switzerland,3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,2600,600,3827100,444800,--,Unknown,--
+CH,Switzerland,2320,Adadyn (Ozone),"all",any_status,platform,appnexus,false,2500,900,3123300,806200,--,Unknown,--
+CH,Switzerland,2732,Matchflow Media,"all",any_status,platform,appnexus,false,2500,1100,7335600,1014400,--,Unknown,--
+CH,Switzerland,3206,Automated Publisher Platform,"all",any_status,platform,appnexus,false,2300,700,155200,30300,--,Unknown,--
+CH,Switzerland,620,Mediafem LLC,"all",any_status,platform,appnexus,false,2300,500,4461200,553100,--,Unknown,--
+CH,Switzerland,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,2300,500,6463900,834200,--,Unknown,--
+CH,Switzerland,3255,Olihargon LLC,"all",any_status,platform,appnexus,false,2300,400,472300,53100,--,Unknown,--
+CH,Switzerland,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,2200,1400,969700,491000,--,Unknown,--
+CH,Switzerland,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,2200,500,3114300,586100,--,Unknown,--
+CH,Switzerland,1906,Velis Media,"all",any_status,platform,appnexus,false,2100,400,1743200,404400,--,Unknown,--
+CH,Switzerland,3176,Russmedia Digital GmbH,"all",any_status,platform,appnexus,false,2100,400,40600,5800,--,Unknown,--
+CH,Switzerland,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,2100,900,4063700,606100,--,Unknown,--
+CH,Switzerland,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,1900,500,4756100,537900,--,Unknown,--
+CH,Switzerland,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,1900,600,2649700,627500,--,Unknown,--
+CH,Switzerland,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,1900,300,1364000,118300,--,Unknown,--
+CH,Switzerland,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,1800,600,1058100,325200,--,Unknown,--
+CH,Switzerland,3208,Lyfe Media,"all",any_status,platform,appnexus,false,1700,300,3124700,202300,--,Unknown,--
+CH,Switzerland,3289,NRC,"all",any_status,platform,appnexus,false,1700,500,228200,67500,--,Unknown,--
+CH,Switzerland,311,Collective Exchange,"all",any_status,platform,appnexus,false,1700,600,119214800,7487900,--,Unknown,--
+CH,Switzerland,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,1600,400,41510700,443300,--,Unknown,--
+CH,Switzerland,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,1600,300,2499600,401500,--,Unknown,--
+CH,Switzerland,3287,"RTK.io (Phaedrus Media, LLC)","all",any_status,platform,appnexus,false,1600,200,4137900,236900,--,Unknown,--
+CH,Switzerland,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,1600,300,30389900,1033700,--,Unknown,--
+CH,Switzerland,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,1600,300,8062800,2204700,--,Unknown,--
+CH,Switzerland,2945,Adhood,"all",any_status,platform,appnexus,false,1500,300,1202300,111400,--,Unknown,--
+CH,Switzerland,2075,Gamehouse,"all",any_status,platform,appnexus,false,1500,600,37900,17200,--,Unknown,--
+CH,Switzerland,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,1500,600,2787500,599200,--,Unknown,--
+CH,Switzerland,1847,Xaxis - Belgium,"all",any_status,platform,appnexus,false,1400,300,1829200,145700,--,Unknown,--
+CH,Switzerland,406,CPM Only,"all",any_status,platform,appnexus,false,1300,300,22587800,1241100,--,Unknown,--
+CH,Switzerland,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,1300,300,1057900,230700,--,Unknown,--
+CH,Switzerland,3224,Playtem,"all",any_status,platform,appnexus,false,1200,400,254000,63400,--,Unknown,--
+CH,Switzerland,3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,1200,100,4446200,410600,--,Unknown,--
+CH,Switzerland,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,1100,300,947400,114800,--,Unknown,--
+CH,Switzerland,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,1100,600,185500,117600,--,Unknown,--
+CH,Switzerland,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,1100,200,750100,62900,--,Unknown,--
+CH,Switzerland,2011,Apex,"all",any_status,platform,appnexus,false,1100,500,923200,342300,--,Unknown,--
+CH,Switzerland,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,1000,400,1875200,314600,--,Unknown,--
+CH,Switzerland,3047,Sodel Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,1000,200,1549700,205400,--,Unknown,--
+CH,Switzerland,3246,DailyMail,"all",any_status,platform,appnexus,false,1000,200,57336600,3466300,--,Unknown,--
+CH,Switzerland,1224,Antevenio S.A.,"all",any_status,platform,appnexus,false,1000,300,423500,102800,--,Unknown,--
+CH,Switzerland,3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,1000,100,75439200,1675200,--,Unknown,--
+CH,Switzerland,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,900,200,3984400,147800,--,Unknown,--
+CH,Switzerland,1768,Ideon Media,"all",any_status,platform,appnexus,false,900,100,132300,17300,--,Unknown,--
+CH,Switzerland,2419,Adaptive Media (Tailwind),"all",any_status,platform,appnexus,false,900,500,449900,139600,--,Unknown,--
+CH,Switzerland,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,900,300,873600,129700,--,Unknown,--
+CH,Switzerland,3066,To Media Group BV,"all",any_status,platform,appnexus,false,900,300,1241400,150900,--,Unknown,--
+CH,Switzerland,1362,IMS Connect,"all",any_status,platform,appnexus,false,800,200,678700,80800,--,Unknown,--
+CH,Switzerland,2583,NakkoMedia,"all",any_status,platform,appnexus,false,800,100,100500,11400,--,Unknown,--
+CH,Switzerland,3074,VICE Media,"all",any_status,platform,appnexus,false,800,300,976900,165800,--,Unknown,--
+CH,Switzerland,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,800,200,7192100,699100,--,Unknown,--
+CH,Switzerland,3159,Kickads SRL,"all",any_status,platform,appnexus,false,800,200,107300,24500,--,Unknown,--
+CH,Switzerland,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,800,200,26716100,1171300,--,Unknown,--
+CH,Switzerland,2007,Affinity.com,"all",any_status,platform,appnexus,false,800,500,2962400,795400,--,Unknown,--
+CH,Switzerland,455,Digitize,"all",any_status,platform,appnexus,true,800,100,554100,78900,--,Unknown,--
+CH,Switzerland,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,700,700,626600,300300,--,Unknown,--
+CH,Switzerland,1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,700,200,11602500,1302100,--,Unknown,--
+CH,Switzerland,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,600,500,1374400,477700,--,Unknown,--
+CH,Switzerland,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,600,300,2652700,523300,--,Unknown,--
+CH,Switzerland,3261,DMWD GmbH,"all",any_status,platform,appnexus,false,600,100,32300,5200,--,Unknown,--
+CH,Switzerland,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,600,300,383400,84200,--,Unknown,--
+CH,Switzerland,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,600,200,1458900,286800,--,Unknown,--
+CH,Switzerland,2790,"Digimosaic, Inc.","all",any_status,platform,appnexus,false,600,300,1584600,472900,--,Unknown,--
+CH,Switzerland,1130,Orange Advertising Americas,"all",any_status,platform,appnexus,false,500,100,9909700,1441700,--,Unknown,--
+CH,Switzerland,1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,500,100,117625700,8331200,--,Unknown,--
+CH,Switzerland,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,500,200,64300,24700,--,Unknown,--
+CH,Switzerland,2704,IP Adex,"all",any_status,platform,appnexus,false,500,300,1817500,242600,--,Unknown,--
+CH,Switzerland,2076,FemmeFab,"all",any_status,platform,appnexus,false,500,100,915800,127700,--,Unknown,--
+CH,Switzerland,3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,500,200,358200,177500,--,Unknown,--
+CH,Switzerland,1656,Media White,"all",any_status,platform,appnexus,false,500,200,865800,70500,--,Unknown,--
+CH,Switzerland,3113,Hypercentage Ltd.,"all",any_status,platform,appnexus,false,500,100,53400,21900,--,Unknown,--
+CH,Switzerland,1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,500,200,647800,93700,--,Unknown,--
+CH,Switzerland,3174,Yelp,"all",any_status,platform,appnexus,false,400,200,91900,28500,--,Unknown,--
+CH,Switzerland,1413,DTCN,"all",any_status,platform,appnexus,false,400,300,3607300,146200,--,Unknown,--
+CH,Switzerland,2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,400,300,5539200,537800,--,Unknown,--
+CH,Switzerland,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,400,200,199900,84500,--,Unknown,--
+CH,Switzerland,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,400,100,111900,100,--,Unknown,--
+CH,Switzerland,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,400,200,467900,96400,--,Unknown,--
+CH,Switzerland,2064,AdSeven,"all",any_status,platform,appnexus,false,400,200,449600,54600,--,Unknown,--
+CH,Switzerland,568,Httpool,"all",any_status,platform,appnexus,false,400,300,4528700,487200,--,Unknown,--
+CH,Switzerland,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,400,200,1489800,468100,--,Unknown,--
+CH,Switzerland,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,400,200,619100,145100,--,Unknown,--
+CH,Switzerland,1507,Zynga,"all",any_status,platform,appnexus,false,400,200,5930500,1179400,--,Unknown,--
+CH,Switzerland,3075,Admaru Network LLC,"all",any_status,platform,appnexus,false,400,100,198100,56300,--,Unknown,--
+CH,Switzerland,2455,Mango Media,"all",any_status,platform,appnexus,false,300,200,137500,57800,--,Unknown,--
+CH,Switzerland,2568,Engage:BDR,"all",any_status,platform,appnexus,false,300,200,13185900,896900,--,Unknown,--
+CH,Switzerland,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,300,200,1044100,362500,--,Unknown,--
+CH,Switzerland,859,Adlantic Online Advertising B.V.,"all",any_status,platform,appnexus,false,300,200,36700,10400,--,Unknown,--
+CH,Switzerland,2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,300,100,1454200,468300,--,Unknown,--
+CH,Switzerland,319,Ybrant Digital,"all",any_status,platform,appnexus,true,300,100,483600,153300,--,Unknown,--
+CH,Switzerland,3411,AdinTop (Tailwind EMEA Ltd.),"all",any_status,platform,appnexus,false,300,100,218700,68400,--,Unknown,--
+CH,Switzerland,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,300,200,28000,13100,--,Unknown,--
+CH,Switzerland,329,Bannerconnect,"all",any_status,platform,appnexus,true,300,300,334500,108700,--,Unknown,--
+CH,Switzerland,3050,Traffiq Exchange Performance,"all",any_status,platform,appnexus,false,200,200,6400,2100,--,Unknown,--
+CH,Switzerland,3080,Local World Limited,"all",any_status,platform,appnexus,false,200,100,1474200,464200,--,Unknown,--
+CH,Switzerland,1522,Adnomia,"all",any_status,platform,appnexus,false,200,200,73200,35300,--,Unknown,--
+CH,Switzerland,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,200,100,2540800,448900,--,Unknown,--
+CH,Switzerland,2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,200,200,450000,159700,--,Unknown,--
+CH,Switzerland,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,200,100,64800,29000,--,Unknown,--
+CH,Switzerland,2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,200,200,259800,190000,--,Unknown,--
+CH,Switzerland,1655,Travel Reservations SRL,"all",any_status,platform,appnexus,false,200,100,99200,39100,--,Unknown,--
+CH,Switzerland,1758,Con 4 Media GmbH & Co KG,"all",any_status,platform,appnexus,false,200,100,4700,1000,--,Unknown,--
+CH,Switzerland,1789,GroupM Sp.z.o.o.,"all",any_status,platform,appnexus,false,200,100,40500,100,--,Unknown,--
+CH,Switzerland,946,Advertise.com,"all",any_status,platform,appnexus,false,200,200,1096500,221100,--,Unknown,--
+CH,Switzerland,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,200,200,172400,72600,--,Unknown,--
+CH,Switzerland,2935,Suite66 Select,"all",any_status,platform,appnexus,false,200,100,2782400,514400,--,Unknown,--
+CH,Switzerland,3184,Hot Pink Media,"all",any_status,platform,appnexus,false,200,100,150600,47200,--,Unknown,--
+CH,Switzerland,3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,200,200,233600,89500,--,Unknown,--
+CH,Switzerland,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,200,100,165800,23500,--,Unknown,--
+CH,Switzerland,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,200,100,2564700,153400,--,Unknown,--
+CH,Switzerland,2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,200,100,249500,86400,--,Unknown,--
+CH,Switzerland,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,200,200,2063700,326000,--,Unknown,--
+CH,Switzerland,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,200,100,54100,26800,--,Unknown,--
+CH,Switzerland,2733,Prodege LLC,"all",any_status,platform,appnexus,false,200,200,838500,350400,--,Unknown,--
+CH,Switzerland,1956,"Travel Spike, LLC","all",any_status,platform,appnexus,false,200,200,101600,6400,--,Unknown,--
+CH,Switzerland,2370,Datawrkz,"all",any_status,platform,appnexus,false,200,200,2792500,374300,--,Unknown,--
+CH,Switzerland,2562,N&S Plus,"all",any_status,platform,appnexus,false,200,100,764400,200900,--,Unknown,--
+CH,Switzerland,2707,Adgorithms DSP,"all",any_status,platform,appnexus,false,200,100,3800,100,--,Unknown,--
+CH,Switzerland,2837,Mannenmedia,"all",any_status,platform,appnexus,false,200,200,180000,59500,--,Unknown,--
+CH,Switzerland,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,200,200,1000700,224100,--,Unknown,--
+CH,Switzerland,3097,Digital Space,"all",any_status,platform,appnexus,false,100,100,1268300,217200,--,Unknown,--
+CH,Switzerland,2014,"Conversant, Inc","all",any_status,platform,appnexus,false,100,100,240771800,9943500,--,Unknown,--
+CH,Switzerland,2654,Profound,"all",any_status,platform,appnexus,false,100,100,278400,54700,--,Unknown,--
+CH,Switzerland,1021,Advance Internet,"all",any_status,platform,appnexus,false,100,200,470200,115500,--,Unknown,--
+CH,Switzerland,2693,Xaxis - Romania,"all",any_status,platform,appnexus,false,100,100,600,100,--,Unknown,--
+CH,Switzerland,2833,DigitalMarCom,"all",any_status,platform,appnexus,false,100,100,367500,22200,--,Unknown,--
+CH,Switzerland,2845,Brandmatic,"all",any_status,platform,appnexus,false,100,100,2100,1800,--,Unknown,--
+CH,Switzerland,3006,CodeFuel,"all",any_status,platform,appnexus,false,100,100,754300,274900,--,Unknown,--
+CH,Switzerland,3359,Topix LLC,"all",any_status,platform,appnexus,false,100,100,721200,14700,--,Unknown,--
+CH,Switzerland,597,Dedicated Media,"all",any_status,platform,appnexus,false,100,100,127700,48200,--,Unknown,--
+CH,Switzerland,1672,Hivewyre,"all",any_status,platform,appnexus,false,100,200,414600,149700,--,Unknown,--
+CH,Switzerland,1505,AdConductor,"all",any_status,platform,appnexus,false,100,100,128000,100,--,Unknown,--
+CH,Switzerland,2760,Alveo,"all",any_status,platform,appnexus,false,100,100,9973000,477400,--,Unknown,--
+CH,Switzerland,2312,IncreaseOnline B.V.,"all",any_status,platform,appnexus,false,100,100,25700,10600,--,Unknown,--
+CH,Switzerland,876,Blue Mango,"all",any_status,platform,appnexus,false,100,100,6600,100,--,Unknown,--
+CH,Switzerland,997,WebAds SP,"all",any_status,platform,appnexus,false,100,100,11600,2600,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:40:29
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

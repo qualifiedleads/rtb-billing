@@ -1,0 +1,351 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+AU,Australia,181,Google AdExchange,"all",any_status,external,appnexus,false,391657200,13093100,28233867400,959451500,--,Unknown,--
+AU,Australia,459,Rubicon,"all",any_status,external,appnexus,false,114533600,4542900,5398288100,219468400,--,Unknown,--
+AU,Australia,357,OpenX,"all",any_status,external,appnexus,false,101924200,1887300,5480947400,127566900,--,Unknown,--
+AU,Australia,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,26672400,1290000,2174215700,44278600,--,Unknown,--
+AU,Australia,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,25204300,2056700,1866171500,134504500,--,Unknown,--
+AU,Australia,74,PubMatic,"all",any_status,external,appnexus,false,22684900,1289000,1408932400,73943500,--,Unknown,--
+AU,Australia,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,21878300,1372600,23964200,1700200,--,Unknown,--
+AU,Australia,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,18047700,458200,1206552000,52265100,--,Unknown,--
+AU,Australia,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,15612200,1156600,16758500,1276400,--,Unknown,--
+AU,Australia,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,9332900,324200,271311100,17933900,--,Unknown,--
+AU,Australia,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,7328200,296000,190575900,16112500,--,Unknown,--
+AU,Australia,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,6093300,2134400,2121409200,520131400,--,Unknown,--
+AU,Australia,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,5661400,416600,430811700,17143500,--,Unknown,--
+AU,Australia,1356,bRealTime (select),"all",any_status,platform,appnexus,false,5586200,432000,327708200,26451300,--,Unknown,--
+AU,Australia,1360,Sovrn,"all",any_status,platform,appnexus,false,5152800,378100,400642400,23323000,--,Unknown,--
+AU,Australia,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,4917600,35800,286290200,3534600,--,Unknown,--
+AU,Australia,2850,MobFox,"all",any_status,platform,appnexus,false,4743600,317300,617754000,33916100,--,Unknown,--
+AU,Australia,3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,3812700,75500,75439200,1675200,--,Unknown,--
+AU,Australia,1908,District M,"all",any_status,platform,appnexus,false,2775100,316900,85430500,9861500,--,Unknown,--
+AU,Australia,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,2341200,82000,166429900,7648600,--,Unknown,--
+AU,Australia,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,2186500,246900,341724700,17293700,--,Unknown,--
+AU,Australia,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,2103800,104400,67112200,3425500,--,Unknown,--
+AU,Australia,1475,Lifestreet,"all",any_status,platform,appnexus,false,1855600,30500,242585900,5057200,--,Unknown,--
+AU,Australia,2721,Kiosked,"all",any_status,platform,appnexus,false,1780200,288500,84569700,10245200,--,Unknown,--
+AU,Australia,818,MediaShakers,"all",any_status,platform,appnexus,false,1778300,137000,9935200,1579700,--,Unknown,--
+AU,Australia,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,1690100,26400,76563700,1162600,--,Unknown,--
+AU,Australia,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,1639000,217700,60998700,8550900,--,Unknown,--
+AU,Australia,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,1564100,168400,103106400,11015600,--,Unknown,--
+AU,Australia,1081,Sonobi,"all",any_status,platform,appnexus,false,1559000,50000,41318500,4009000,--,Unknown,--
+AU,Australia,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,1318000,205400,50860000,7782600,--,Unknown,--
+AU,Australia,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,1239400,177700,2649700,627500,--,Unknown,--
+AU,Australia,2804,Adshoard,"all",any_status,platform,appnexus,false,1159200,52900,15208300,1517700,--,Unknown,--
+AU,Australia,1613,Defy Media,"all",any_status,platform,appnexus,false,1036900,65400,73239200,4465300,--,Unknown,--
+AU,Australia,310,Technorati Media,"all",any_status,platform,appnexus,false,934800,128100,64536800,6342900,--,Unknown,--
+AU,Australia,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,932100,68900,51953900,4345700,--,Unknown,--
+AU,Australia,1942,Floor6,"all",any_status,platform,appnexus,false,930900,129700,41027600,5864100,--,Unknown,--
+AU,Australia,2011,Apex,"all",any_status,platform,appnexus,false,739700,262300,923200,342300,--,Unknown,--
+AU,Australia,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,693000,11600,30389900,1033700,--,Unknown,--
+AU,Australia,3204,Purch,"all",any_status,platform,appnexus,false,652400,105800,33563400,4355800,--,Unknown,--
+AU,Australia,1882,TapTica LTD,"all",any_status,platform,appnexus,false,646500,118000,87218100,23348500,--,Unknown,--
+AU,Australia,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,627000,40100,19737800,1365600,--,Unknown,--
+AU,Australia,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,534100,39900,35500900,5026100,--,Unknown,--
+AU,Australia,541,CPXInteractive,"all",any_status,platform,appnexus,false,518200,66500,38468600,5292100,--,Unknown,--
+AU,Australia,3156,Member 3156,"all",any_status,platform,appnexus,false,491700,94600,492800,95300,--,Unknown,--
+AU,Australia,882,AN Talent,"all",any_status,platform,appnexus,false,490200,123900,50438600,13544900,--,Unknown,--
+AU,Australia,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,478400,131800,4430900,730200,--,Unknown,--
+AU,Australia,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,445100,35000,12509900,1152200,--,Unknown,--
+AU,Australia,1611,Headway Digital,"all",any_status,platform,appnexus,false,432000,53000,14236300,1268000,--,Unknown,--
+AU,Australia,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,418700,104400,619100,145100,--,Unknown,--
+AU,Australia,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,405400,71800,93859100,18219400,--,Unknown,--
+AU,Australia,3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,393800,17000,10120900,466800,--,Unknown,--
+AU,Australia,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,390900,134200,18452300,6512900,--,Unknown,--
+AU,Australia,2014,"Conversant, Inc","all",any_status,platform,appnexus,false,383800,32300,240771800,9943500,--,Unknown,--
+AU,Australia,3329,AdRaiden,"all",any_status,platform,appnexus,false,370300,52400,59013500,8240600,--,Unknown,--
+AU,Australia,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,349700,88500,11679100,3946900,--,Unknown,--
+AU,Australia,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,327800,70400,21596300,4597200,--,Unknown,--
+AU,Australia,3020,Mojiva II,"all",any_status,platform,appnexus,false,320500,12500,130720700,11697300,--,Unknown,--
+AU,Australia,1357,bRealTime,"all",any_status,platform,appnexus,false,317400,35600,12048300,1469800,--,Unknown,--
+AU,Australia,3366,AerServ LLC,"all",any_status,platform,appnexus,false,304400,15700,96664800,5504300,--,Unknown,--
+AU,Australia,1939,152 Media LLC,"all",any_status,platform,appnexus,false,275700,45800,10516600,1985700,--,Unknown,--
+AU,Australia,2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,275400,93400,450000,159700,--,Unknown,--
+AU,Australia,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,270300,49400,27850600,5122800,--,Unknown,--
+AU,Australia,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,240800,53000,8224700,1803300,--,Unknown,--
+AU,Australia,1449,Adtegrity,"all",any_status,platform,appnexus,false,237800,27900,30828900,3626800,--,Unknown,--
+AU,Australia,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,234700,17600,19222500,1853100,--,Unknown,--
+AU,Australia,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,233000,43400,8096600,1668000,--,Unknown,--
+AU,Australia,86,Photobucket,"all",any_status,external,appnexus,false,222600,11800,10687900,596400,--,Unknown,--
+AU,Australia,3192,RTB Media,"all",any_status,platform,appnexus,false,222500,39000,9047300,2346100,--,Unknown,--
+AU,Australia,1749,W M Web Media,"all",any_status,platform,appnexus,false,216100,61700,16480000,3492000,--,Unknown,--
+AU,Australia,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,214800,11900,6251600,665800,--,Unknown,--
+AU,Australia,3277,AdsWizz Inc.,"all",any_status,platform,appnexus,false,209200,10200,1088400,90900,--,Unknown,--
+AU,Australia,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,208500,5000,6143900,144300,--,Unknown,--
+AU,Australia,2854,The Blogger Network,"all",any_status,platform,appnexus,false,200700,31400,8885000,1294800,--,Unknown,--
+AU,Australia,2760,Alveo,"all",any_status,platform,appnexus,false,200000,3200,9973000,477400,--,Unknown,--
+AU,Australia,2790,"Digimosaic, Inc.","all",any_status,platform,appnexus,false,184600,48200,1584600,472900,--,Unknown,--
+AU,Australia,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,183500,29500,3869600,726200,--,Unknown,--
+AU,Australia,3295,Adrizer LLC,"all",any_status,platform,appnexus,false,175500,2500,12150400,229100,--,Unknown,--
+AU,Australia,2784,Rocoto Media,"all",any_status,platform,appnexus,false,157500,2300,9851200,164600,--,Unknown,--
+AU,Australia,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,154800,30900,18055600,4241400,--,Unknown,--
+AU,Australia,406,CPM Only,"all",any_status,platform,appnexus,false,151700,14000,22587800,1241100,--,Unknown,--
+AU,Australia,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,147100,15800,8000000,1228100,--,Unknown,--
+AU,Australia,2370,Datawrkz,"all",any_status,platform,appnexus,false,145400,11300,2792500,374300,--,Unknown,--
+AU,Australia,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,128900,2600,51037100,391400,--,Unknown,--
+AU,Australia,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,123300,4000,24284900,766700,--,Unknown,--
+AU,Australia,2688,Metric Science,"all",any_status,platform,appnexus,false,119100,53200,9565700,2018900,--,Unknown,--
+AU,Australia,2732,Matchflow Media,"all",any_status,platform,appnexus,false,117600,19600,7335600,1014400,--,Unknown,--
+AU,Australia,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,116300,19200,37441400,3708500,--,Unknown,--
+AU,Australia,1364,Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,114300,64200,187600,80500,--,Unknown,--
+AU,Australia,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,106700,2000,22300800,414400,--,Unknown,--
+AU,Australia,1226,AOL Marketplace,"all",any_status,external,appnexus,false,102200,10300,239525900,16680800,--,Unknown,--
+AU,Australia,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,100600,38500,8062800,2204700,--,Unknown,--
+AU,Australia,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,94100,19800,4063700,606100,--,Unknown,--
+AU,Australia,2251,Waypoint Media,"all",any_status,platform,appnexus,false,93700,4700,3297000,184900,--,Unknown,--
+AU,Australia,1608,Audience Square,"all",any_status,platform,appnexus,false,92700,6900,105327200,8530300,--,Unknown,--
+AU,Australia,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,92300,3700,3984400,147800,--,Unknown,--
+AU,Australia,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,89800,3200,6022900,193200,--,Unknown,--
+AU,Australia,806,Venatus Media,"all",any_status,platform,appnexus,false,86700,8600,5557600,602200,--,Unknown,--
+AU,Australia,2669,Brightcom Media,"all",any_status,platform,appnexus,false,83300,30200,6016600,1760400,--,Unknown,--
+AU,Australia,2568,Engage:BDR,"all",any_status,platform,appnexus,false,82400,25600,13185900,896900,--,Unknown,--
+AU,Australia,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,78100,9200,16374000,2597100,--,Unknown,--
+AU,Australia,2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,72300,25900,1454200,468300,--,Unknown,--
+AU,Australia,3208,Lyfe Media,"all",any_status,platform,appnexus,false,68900,4100,3124700,202300,--,Unknown,--
+AU,Australia,1756,Adversal.com,"all",any_status,platform,appnexus,false,68500,10900,14173900,1426500,--,Unknown,--
+AU,Australia,3135,33Across Real Display,"all",any_status,platform,appnexus,false,65400,20100,4519500,1104400,--,Unknown,--
+AU,Australia,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,64800,3400,6341900,228700,--,Unknown,--
+AU,Australia,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,63100,8400,3647300,408900,--,Unknown,--
+AU,Australia,3450,Northern & Shell,"all",any_status,platform,appnexus,false,63000,8900,2119900,290900,--,Unknown,--
+AU,Australia,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,62400,9500,5545300,875700,--,Unknown,--
+AU,Australia,884,Hi-Media,"all",any_status,platform,appnexus,false,62400,4200,78818800,7489400,--,Unknown,--
+AU,Australia,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,59500,19800,3379300,1153500,--,Unknown,--
+AU,Australia,1530,AdPrudence,"all",any_status,platform,appnexus,false,58700,37600,7290300,3996400,--,Unknown,--
+AU,Australia,740,NetSeer Inc,"all",any_status,platform,appnexus,false,57800,5500,7306400,1136500,--,Unknown,--
+AU,Australia,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,55700,23100,15959100,5178000,--,Unknown,--
+AU,Australia,1393,ReactX,"all",any_status,platform,appnexus,false,55600,34800,4958500,1271600,--,Unknown,--
+AU,Australia,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,54400,1600,3860700,298100,--,Unknown,--
+AU,Australia,3456,A Plus,"all",any_status,platform,appnexus,false,52000,16300,1593200,492300,--,Unknown,--
+AU,Australia,2365,SouthernX,"all",any_status,platform,appnexus,false,51700,5100,9032200,796600,--,Unknown,--
+AU,Australia,1548,Criteo,"all",any_status,external,appnexus,false,50900,9800,342165000,40879100,--,Unknown,--
+AU,Australia,1783,Bandsintown Amplified,"all",any_status,platform,appnexus,false,49100,21500,1178600,523000,--,Unknown,--
+AU,Australia,1755,Digital Throttle,"all",any_status,platform,appnexus,false,45700,7700,3712700,358400,--,Unknown,--
+AU,Australia,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,43800,1600,8293600,244900,--,Unknown,--
+AU,Australia,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,42800,10500,7319800,1991600,--,Unknown,--
+AU,Australia,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,39200,10400,2652700,523300,--,Unknown,--
+AU,Australia,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,39100,6000,3489700,554200,--,Unknown,--
+AU,Australia,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,39000,1300,1747100,91500,--,Unknown,--
+AU,Australia,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,38200,2000,41510700,443300,--,Unknown,--
+AU,Australia,1619,ReklamStore,"all",any_status,platform,appnexus,false,36000,3600,32005800,4616300,--,Unknown,--
+AU,Australia,1583,Admeta AB,"all",any_status,platform,appnexus,false,35300,5900,14256000,1033900,--,Unknown,--
+AU,Australia,3500,ASQ Brand,"all",any_status,platform,appnexus,false,34900,1700,30855200,1884800,--,Unknown,--
+AU,Australia,2660,DMG Mobile,"all",any_status,platform,appnexus,false,34000,100,2127700,100,--,Unknown,--
+AU,Australia,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,33700,800,7914300,319800,--,Unknown,--
+AU,Australia,3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,33100,6700,4446200,410600,--,Unknown,--
+AU,Australia,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,31600,4300,1264700,197500,--,Unknown,--
+AU,Australia,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,31000,3200,66270000,5213700,--,Unknown,--
+AU,Australia,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,29900,10800,3909100,819600,--,Unknown,--
+AU,Australia,3416,Core2Digital Premium,"all",any_status,platform,appnexus,false,29200,8400,1194100,449100,--,Unknown,--
+AU,Australia,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,28700,8600,2787500,599200,--,Unknown,--
+AU,Australia,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,28500,2500,50498400,3809900,--,Unknown,--
+AU,Australia,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,28200,12900,5027900,2395500,--,Unknown,--
+AU,Australia,2420,TailWind 3,"all",any_status,platform,appnexus,false,28100,3300,10261300,2274800,--,Unknown,--
+AU,Australia,3153,152 Media Select,"all",any_status,platform,appnexus,false,27400,8400,2747300,124000,--,Unknown,--
+AU,Australia,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,27300,2500,7192100,699100,--,Unknown,--
+AU,Australia,2007,Affinity.com,"all",any_status,platform,appnexus,false,25400,8200,2962400,795400,--,Unknown,--
+AU,Australia,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,24700,6500,2171600,343900,--,Unknown,--
+AU,Australia,3264,Accvee Premium,"all",any_status,platform,appnexus,false,24700,4600,2386500,486600,--,Unknown,--
+AU,Australia,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,24200,3600,1875200,314600,--,Unknown,--
+AU,Australia,620,Mediafem LLC,"all",any_status,platform,appnexus,false,23800,3000,4461200,553100,--,Unknown,--
+AU,Australia,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,23800,4900,405800,85600,--,Unknown,--
+AU,Australia,1413,DTCN,"all",any_status,platform,appnexus,false,23800,1900,3607300,146200,--,Unknown,--
+AU,Australia,3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,23000,2700,449400,40700,--,Unknown,--
+AU,Australia,568,Httpool,"all",any_status,platform,appnexus,false,22900,2600,4528700,487200,--,Unknown,--
+AU,Australia,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,22400,10500,9531000,2986500,--,Unknown,--
+AU,Australia,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,21900,9500,28000,13100,--,Unknown,--
+AU,Australia,3265,BRATECH SA,"all",any_status,platform,appnexus,false,21800,6700,8702600,2447900,--,Unknown,--
+AU,Australia,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,20300,1700,26716100,1171300,--,Unknown,--
+AU,Australia,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,20000,6600,1058100,325200,--,Unknown,--
+AU,Australia,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,19700,1100,2805200,221700,--,Unknown,--
+AU,Australia,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,18900,2800,1458900,286800,--,Unknown,--
+AU,Australia,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,18800,3600,987200,136500,--,Unknown,--
+AU,Australia,956,Zodiak Active,"all",any_status,platform,appnexus,false,17700,3700,42149500,4493100,--,Unknown,--
+AU,Australia,855,Adadyn Premium,"all",any_status,platform,appnexus,false,17500,2100,4408100,1285700,--,Unknown,--
+AU,Australia,3098,WEBEDIA,"all",any_status,platform,appnexus,false,17100,1900,23991600,2742200,--,Unknown,--
+AU,Australia,928,Suite66,"all",any_status,platform,appnexus,false,16600,1700,4874500,704400,--,Unknown,--
+AU,Australia,927,Adgorithms,"all",any_status,platform,appnexus,false,15600,3000,6947600,360600,--,Unknown,--
+AU,Australia,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,15100,2600,68302300,5161300,--,Unknown,--
+AU,Australia,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,14800,9100,9379600,2540100,--,Unknown,--
+AU,Australia,2579,Quantum,"all",any_status,platform,appnexus,false,14700,2400,13214100,4152100,--,Unknown,--
+AU,Australia,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,14300,7900,969700,491000,--,Unknown,--
+AU,Australia,311,Collective Exchange,"all",any_status,platform,appnexus,false,14100,2900,119214800,7487900,--,Unknown,--
+AU,Australia,2252,One Advertising AG,"all",any_status,platform,appnexus,false,13800,2300,7386500,732100,--,Unknown,--
+AU,Australia,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,13500,1400,4293200,550100,--,Unknown,--
+AU,Australia,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,13200,1100,1126400,108700,--,Unknown,--
+AU,Australia,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,13100,3400,2499600,401500,--,Unknown,--
+AU,Australia,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,13000,1100,120590500,5347900,--,Unknown,--
+AU,Australia,2810,ClearPier,"all",any_status,platform,appnexus,false,12300,1000,354300,72500,--,Unknown,--
+AU,Australia,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,12200,1300,750100,62900,--,Unknown,--
+AU,Australia,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,12100,7100,1000700,224100,--,Unknown,--
+AU,Australia,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,12100,1700,730200,148700,--,Unknown,--
+AU,Australia,1643,Fidelity Media,"all",any_status,platform,appnexus,false,11700,1800,2190000,227800,--,Unknown,--
+AU,Australia,1906,Velis Media,"all",any_status,platform,appnexus,false,11600,2900,1743200,404400,--,Unknown,--
+AU,Australia,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,11100,5300,2063700,326000,--,Unknown,--
+AU,Australia,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,10800,4700,551600,295300,--,Unknown,--
+AU,Australia,1610,UnderDog Media,"all",any_status,platform,appnexus,false,10300,3500,1641000,436900,--,Unknown,--
+AU,Australia,3097,Digital Space,"all",any_status,platform,appnexus,false,9500,2300,1268300,217200,--,Unknown,--
+AU,Australia,2733,Prodege LLC,"all",any_status,platform,appnexus,false,9500,1500,838500,350400,--,Unknown,--
+AU,Australia,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,9300,4200,64800,29000,--,Unknown,--
+AU,Australia,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,9000,2600,1489800,468100,--,Unknown,--
+AU,Australia,3273,Figaromedias,"all",any_status,platform,appnexus,false,8400,1000,8751600,818700,--,Unknown,--
+AU,Australia,1405,Adscale GmbH,"all",any_status,external,appnexus,false,8200,800,24769000,2453000,--,Unknown,--
+AU,Australia,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,7900,2000,383400,84200,--,Unknown,--
+AU,Australia,2967,orbyd GmbH,"all",any_status,platform,appnexus,false,7800,200,1517000,208900,--,Unknown,--
+AU,Australia,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,6900,4700,3496400,1744800,--,Unknown,--
+AU,Australia,2945,Adhood,"all",any_status,platform,appnexus,false,6900,900,1202300,111400,--,Unknown,--
+AU,Australia,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,6900,2100,3003300,282300,--,Unknown,--
+AU,Australia,3203,evania GmbH,"all",any_status,platform,appnexus,false,6500,1200,432900,83400,--,Unknown,--
+AU,Australia,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,5600,1300,467900,96400,--,Unknown,--
+AU,Australia,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,5400,3100,185500,117600,--,Unknown,--
+AU,Australia,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,5300,1400,1057900,230700,--,Unknown,--
+AU,Australia,2026,Tailwind 1,"all",any_status,platform,appnexus,false,5300,600,7959300,783700,--,Unknown,--
+AU,Australia,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,5000,1900,5286600,1498600,--,Unknown,--
+AU,Australia,1354,Improve Digital,"all",any_status,platform,appnexus,false,4700,600,617249300,18935700,--,Unknown,--
+AU,Australia,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,4700,400,22350500,1529000,--,Unknown,--
+AU,Australia,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,4500,1400,3114300,586100,--,Unknown,--
+AU,Australia,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,4200,3000,626600,300300,--,Unknown,--
+AU,Australia,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,4100,1400,2294000,382300,--,Unknown,--
+AU,Australia,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,4100,1400,3915900,451600,--,Unknown,--
+AU,Australia,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,3900,1500,873600,129700,--,Unknown,--
+AU,Australia,3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,3600,1900,358200,177500,--,Unknown,--
+AU,Australia,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,3600,900,2358300,245600,--,Unknown,--
+AU,Australia,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,3600,600,578500,93600,--,Unknown,--
+AU,Australia,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,3500,400,165800,23500,--,Unknown,--
+AU,Australia,1956,"Travel Spike, LLC","all",any_status,platform,appnexus,false,3500,600,101600,6400,--,Unknown,--
+AU,Australia,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,3500,600,3517900,639700,--,Unknown,--
+AU,Australia,3477,Unlockd Media Pty Ltd,"all",any_status,platform,appnexus,false,3500,100,3600,100,--,Unknown,--
+AU,Australia,994,WebAds NL,"all",any_status,platform,appnexus,false,3500,300,4383900,537800,--,Unknown,--
+AU,Australia,3263,Daily Engage Media Group LLC,"all",any_status,platform,appnexus,false,3400,300,24900,5700,--,Unknown,--
+AU,Australia,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,3400,600,6463900,834200,--,Unknown,--
+AU,Australia,2735,Adhub Limited,"all",any_status,platform,appnexus,false,3300,700,68500,11100,--,Unknown,--
+AU,Australia,2767,Premio,"all",any_status,platform,appnexus,false,3200,700,13425800,1568700,--,Unknown,--
+AU,Australia,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,3100,1600,79200,37100,--,Unknown,--
+AU,Australia,3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,2800,300,2636000,329400,--,Unknown,--
+AU,Australia,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,2800,700,947400,114800,--,Unknown,--
+AU,Australia,3246,DailyMail,"all",any_status,platform,appnexus,false,2800,300,57336600,3466300,--,Unknown,--
+AU,Australia,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,2700,800,4710700,1329700,--,Unknown,--
+AU,Australia,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,2700,700,199900,84500,--,Unknown,--
+AU,Australia,1362,IMS Connect,"all",any_status,platform,appnexus,false,2500,500,678700,80800,--,Unknown,--
+AU,Australia,946,Advertise.com,"all",any_status,platform,appnexus,false,2500,300,1096500,221100,--,Unknown,--
+AU,Australia,2745,Ripamedia Inc,"all",any_status,platform,appnexus,false,2300,700,102500,27700,--,Unknown,--
+AU,Australia,3057,Adverline SAS,"all",any_status,platform,appnexus,false,2200,300,5049300,558800,--,Unknown,--
+AU,Australia,3287,"RTK.io (Phaedrus Media, LLC)","all",any_status,platform,appnexus,false,2000,700,4137900,236900,--,Unknown,--
+AU,Australia,2564,24/7 Media France,"all",any_status,platform,appnexus,false,2000,600,10662500,1376600,--,Unknown,--
+AU,Australia,1656,Media White,"all",any_status,platform,appnexus,false,2000,300,865800,70500,--,Unknown,--
+AU,Australia,3194,Optima Network SL,"all",any_status,platform,appnexus,false,1800,1000,2356900,625700,--,Unknown,--
+AU,Australia,2935,Suite66 Select,"all",any_status,platform,appnexus,false,1700,700,2782400,514400,--,Unknown,--
+AU,Australia,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,1700,600,3313700,736000,--,Unknown,--
+AU,Australia,3106,Adrun,"all",any_status,platform,appnexus,false,1600,300,689500,290300,--,Unknown,--
+AU,Australia,1899,Zedo,"all",any_status,platform,appnexus,false,1600,700,1456100,259700,--,Unknown,--
+AU,Australia,2320,Adadyn (Ozone),"all",any_status,platform,appnexus,false,1500,600,3123300,806200,--,Unknown,--
+AU,Australia,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,1400,700,54100,26800,--,Unknown,--
+AU,Australia,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,1300,700,64300,24700,--,Unknown,--
+AU,Australia,1672,Hivewyre,"all",any_status,platform,appnexus,false,1300,600,414600,149700,--,Unknown,--
+AU,Australia,3184,Hot Pink Media,"all",any_status,platform,appnexus,false,1300,200,150600,47200,--,Unknown,--
+AU,Australia,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,1200,200,46631800,2549100,--,Unknown,--
+AU,Australia,455,Digitize,"all",any_status,platform,appnexus,true,1200,100,554100,78900,--,Unknown,--
+AU,Australia,1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,1100,300,647800,93700,--,Unknown,--
+AU,Australia,3224,Playtem,"all",any_status,platform,appnexus,false,1100,500,254000,63400,--,Unknown,--
+AU,Australia,3047,Sodel Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,1100,200,1549700,205400,--,Unknown,--
+AU,Australia,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,1000,500,1044100,362500,--,Unknown,--
+AU,Australia,3522,Grandex Inc,"all",any_status,platform,appnexus,false,1000,300,282100,25000,--,Unknown,--
+AU,Australia,542,Up-value GmbH,"all",any_status,platform,appnexus,false,1000,400,1613200,434700,--,Unknown,--
+AU,Australia,2562,N&S Plus,"all",any_status,platform,appnexus,false,900,500,764400,200900,--,Unknown,--
+AU,Australia,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,900,100,111900,100,--,Unknown,--
+AU,Australia,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,800,500,1374400,477700,--,Unknown,--
+AU,Australia,3074,VICE Media,"all",any_status,platform,appnexus,false,800,400,976900,165800,--,Unknown,--
+AU,Australia,1768,Ideon Media,"all",any_status,platform,appnexus,false,800,400,132300,17300,--,Unknown,--
+AU,Australia,3359,Topix LLC,"all",any_status,platform,appnexus,false,800,200,721200,14700,--,Unknown,--
+AU,Australia,1585,Horyzon Media,"all",any_status,platform,appnexus,false,800,300,1529400,354500,--,Unknown,--
+AU,Australia,1507,Zynga,"all",any_status,platform,appnexus,false,800,400,5930500,1179400,--,Unknown,--
+AU,Australia,1021,Advance Internet,"all",any_status,platform,appnexus,false,700,500,470200,115500,--,Unknown,--
+AU,Australia,1945,Adperium BV - Performance,"all",any_status,platform,appnexus,false,700,300,31300,5700,--,Unknown,--
+AU,Australia,3058,Innity Corporation Berhad,"all",any_status,platform,appnexus,false,700,600,3433900,1945100,--,Unknown,--
+AU,Australia,2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,700,200,5539200,537800,--,Unknown,--
+AU,Australia,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,700,300,4756100,537900,--,Unknown,--
+AU,Australia,3139,Big Scale Media,"all",any_status,platform,appnexus,false,700,100,42500,2300,--,Unknown,--
+AU,Australia,3025,J Carter Marketing Inc,"all",any_status,platform,appnexus,false,600,400,403300,213700,--,Unknown,--
+AU,Australia,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,600,300,2564700,153400,--,Unknown,--
+AU,Australia,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,600,300,5798700,760300,--,Unknown,--
+AU,Australia,3113,Hypercentage Ltd.,"all",any_status,platform,appnexus,false,600,200,53400,21900,--,Unknown,--
+AU,Australia,2084,"Ad.net, Inc.","all",any_status,platform,appnexus,false,600,200,4470400,260900,--,Unknown,--
+AU,Australia,2064,AdSeven,"all",any_status,platform,appnexus,false,600,100,449600,54600,--,Unknown,--
+AU,Australia,2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,600,300,249500,86400,--,Unknown,--
+AU,Australia,2076,FemmeFab,"all",any_status,platform,appnexus,false,500,200,915800,127700,--,Unknown,--
+AU,Australia,2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,500,300,259800,190000,--,Unknown,--
+AU,Australia,2219,Intag DW LLC,"all",any_status,platform,appnexus,false,500,300,739500,87800,--,Unknown,--
+AU,Australia,3375,Switchers LTD,"all",any_status,platform,appnexus,false,400,200,8300,1900,--,Unknown,--
+AU,Australia,3255,Olihargon LLC,"all",any_status,platform,appnexus,false,400,200,472300,53100,--,Unknown,--
+AU,Australia,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,400,400,2540800,448900,--,Unknown,--
+AU,Australia,2576,MauDau Ltd.,"all",any_status,platform,appnexus,false,400,300,4800,1800,--,Unknown,--
+AU,Australia,2654,Profound,"all",any_status,platform,appnexus,false,400,200,278400,54700,--,Unknown,--
+AU,Australia,2398,Hashtag Labs,"all",any_status,platform,appnexus,false,400,200,3400,1100,--,Unknown,--
+AU,Australia,1568,iMediaSalesTeam,"all",any_status,platform,appnexus,false,400,300,80900,62300,--,Unknown,--
+AU,Australia,996,WebAds IT,"all",any_status,platform,appnexus,false,400,300,11291200,463000,--,Unknown,--
+AU,Australia,2075,Gamehouse,"all",any_status,platform,appnexus,false,400,200,37900,17200,--,Unknown,--
+AU,Australia,3232,Builder Homesite Inc,"all",any_status,platform,appnexus,false,400,200,687300,14400,--,Unknown,--
+AU,Australia,1963,Crucial Interactive Inc.,"all",any_status,platform,appnexus,false,400,200,1711700,257200,--,Unknown,--
+AU,Australia,1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,400,200,117625700,8331200,--,Unknown,--
+AU,Australia,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,400,300,172400,72600,--,Unknown,--
+AU,Australia,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,400,400,315600,247600,--,Unknown,--
+AU,Australia,3116,AndBeyond.Media,"all",any_status,platform,appnexus,false,300,200,95600,38600,--,Unknown,--
+AU,Australia,3411,AdinTop (Tailwind EMEA Ltd.),"all",any_status,platform,appnexus,false,300,200,218700,68400,--,Unknown,--
+AU,Australia,3442,Ampliffy,"all",any_status,platform,appnexus,false,300,200,4220500,316000,--,Unknown,--
+AU,Australia,3361,Axel Springer Schweiz AG,"all",any_status,platform,appnexus,false,300,200,248000,37700,--,Unknown,--
+AU,Australia,3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,300,200,3827100,444800,--,Unknown,--
+AU,Australia,2914,Solocal Xchange,"all",any_status,platform,appnexus,false,300,100,2109100,469100,--,Unknown,--
+AU,Australia,319,Ybrant Digital,"all",any_status,platform,appnexus,true,300,200,483600,153300,--,Unknown,--
+AU,Australia,329,Bannerconnect,"all",any_status,platform,appnexus,true,300,200,334500,108700,--,Unknown,--
+AU,Australia,2419,Adaptive Media (Tailwind),"all",any_status,platform,appnexus,false,300,200,449900,139600,--,Unknown,--
+AU,Australia,1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,300,200,11602500,1302100,--,Unknown,--
+AU,Australia,3006,CodeFuel,"all",any_status,platform,appnexus,false,300,200,754300,274900,--,Unknown,--
+AU,Australia,3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,200,200,233600,89500,--,Unknown,--
+AU,Australia,1505,AdConductor,"all",any_status,platform,appnexus,false,200,100,128000,100,--,Unknown,--
+AU,Australia,1847,Xaxis - Belgium,"all",any_status,platform,appnexus,false,200,100,1829200,145700,--,Unknown,--
+AU,Australia,1895,Branovate Ltd,"all",any_status,platform,appnexus,false,200,100,15700,100,--,Unknown,--
+AU,Australia,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,200,200,102300,68100,--,Unknown,--
+AU,Australia,1224,Antevenio S.A.,"all",any_status,platform,appnexus,false,200,200,423500,102800,--,Unknown,--
+AU,Australia,3553,Elbrit - Premium,"all",any_status,platform,appnexus,false,200,200,17600,11200,--,Unknown,--
+AU,Australia,1002,CrimTan,"all",any_status,platform,appnexus,false,200,100,1700,800,--,Unknown,--
+AU,Australia,859,Adlantic Online Advertising B.V.,"all",any_status,platform,appnexus,false,200,200,36700,10400,--,Unknown,--
+AU,Australia,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,200,100,1364000,118300,--,Unknown,--
+AU,Australia,1862,ACC Ventures LLC,"all",any_status,platform,appnexus,false,200,200,4300,3300,--,Unknown,--
+AU,Australia,3289,NRC,"all",any_status,platform,appnexus,false,200,300,228200,67500,--,Unknown,--
+AU,Australia,597,Dedicated Media,"all",any_status,platform,appnexus,false,200,200,127700,48200,--,Unknown,--
+AU,Australia,3050,Traffiq Exchange Performance,"all",any_status,platform,appnexus,false,200,200,6400,2100,--,Unknown,--
+AU,Australia,3066,To Media Group BV,"all",any_status,platform,appnexus,false,200,200,1241400,150900,--,Unknown,--
+AU,Australia,2800,"A1 Platform Co, Ltd","all",any_status,platform,appnexus,false,100,100,841400,43800,--,Unknown,--
+AU,Australia,3120,Capslock Digital Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,100,100,6000,800,--,Unknown,--
+AU,Australia,2234,Undertone Networks,"all",any_status,platform,appnexus,false,100,100,8413400,2046600,--,Unknown,--
+AU,Australia,2455,Mango Media,"all",any_status,platform,appnexus,false,100,100,137500,57800,--,Unknown,--
+AU,Australia,2837,Mannenmedia,"all",any_status,platform,appnexus,false,100,100,180000,59500,--,Unknown,--
+AU,Australia,3075,Admaru Network LLC,"all",any_status,platform,appnexus,false,100,100,198100,56300,--,Unknown,--
+AU,Australia,2533,Yep Media B.V.,"all",any_status,platform,appnexus,false,100,100,1000,300,--,Unknown,--
+AU,Australia,88,Kitara Media,"all",any_status,platform,appnexus,false,100,100,57400,8500,--,Unknown,--
+AU,Australia,2400,Kumma DP LTD,"all",any_status,platform,appnexus,false,100,100,12200,100,--,Unknown,--
+AU,Australia,2583,NakkoMedia,"all",any_status,platform,appnexus,false,100,100,100500,11400,--,Unknown,--
+AU,Australia,2744,rtbdemand.com,"all",any_status,platform,appnexus,false,100,100,1300,200,--,Unknown,--
+AU,Australia,576,Nextperience,"all",any_status,platform,appnexus,false,100,100,9400,100,--,Unknown,--
+AU,Australia,2972,S&W Ltd.,"all",any_status,platform,appnexus,false,100,100,400,100,--,Unknown,--
+AU,Australia,1789,GroupM Sp.z.o.o.,"all",any_status,platform,appnexus,false,100,100,40500,100,--,Unknown,--
+AU,Australia,2896,TOTL Media Inc.,"all",any_status,platform,appnexus,false,100,100,1600,800,--,Unknown,--
+AU,Australia,1509,Anonymous member 1509,"all",any_status,platform,appnexus,false,100,100,3500,100,--,Unknown,--
+AU,Australia,848,AdExtent,"all",any_status,platform,appnexus,false,100,100,9700,4000,--,Unknown,--
+AU,Australia,3159,Kickads SRL,"all",any_status,platform,appnexus,false,100,100,107300,24500,--,Unknown,--
+AU,Australia,2707,Adgorithms DSP,"all",any_status,platform,appnexus,false,100,100,3800,100,--,Unknown,--
+AU,Australia,3206,Automated Publisher Platform,"all",any_status,platform,appnexus,false,100,100,155200,30300,--,Unknown,--
+AU,Australia,1886,Acsencion LLC,"all",any_status,platform,appnexus,false,100,100,2000,200,--,Unknown,--
+AU,Australia,2044,Marimedia - Product,"all",any_status,platform,appnexus,false,100,100,58100,25000,--,Unknown,--
+AU,Australia,1130,Orange Advertising Americas,"all",any_status,platform,appnexus,false,100,100,9909700,1441700,--,Unknown,--
+AU,Australia,1979,Stampede Media Corporation,"all",any_status,platform,appnexus,false,100,100,236200,35700,--,Unknown,--
+AU,Australia,3070,Optimal Fusion,"all",any_status,platform,appnexus,false,100,100,9200,2100,--,Unknown,--
+AU,Australia,3137,Wilcom LLC,"all",any_status,platform,appnexus,false,100,100,4200,1900,--,Unknown,--
+AU,Australia,2907,Zedo Inc.,"all",any_status,platform,appnexus,false,100,100,327800,293700,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:52:21
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

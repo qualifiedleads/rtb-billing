@@ -1,0 +1,303 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+NO,Norway,181,Google AdExchange,"all",any_status,external,appnexus,false,103738800,2985700,28233867400,959451500,--,Unknown,--
+NO,Norway,1354,Improve Digital,"all",any_status,platform,appnexus,false,64986600,921500,617249300,18935700,--,Unknown,--
+NO,Norway,459,Rubicon,"all",any_status,external,appnexus,false,31416700,1073100,5398288100,219468400,--,Unknown,--
+NO,Norway,280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,11477800,739000,1866171500,134504500,--,Unknown,--
+NO,Norway,357,OpenX,"all",any_status,external,appnexus,false,8227600,177100,5480947400,127566900,--,Unknown,--
+NO,Norway,74,PubMatic,"all",any_status,external,appnexus,false,4416400,195500,1408932400,73943500,--,Unknown,--
+NO,Norway,1752,Smaato Inc.,"all",any_status,platform,appnexus,false,4134900,106900,2174215700,44278600,--,Unknown,--
+NO,Norway,1548,Criteo,"all",any_status,external,appnexus,false,1540700,179500,342165000,40879100,--,Unknown,--
+NO,Norway,1868,Nexage Inc.,"all",any_status,platform,appnexus,false,1406300,85300,1206552000,52265100,--,Unknown,--
+NO,Norway,1356,bRealTime (select),"all",any_status,platform,appnexus,false,1404700,90300,327708200,26451300,--,Unknown,--
+NO,Norway,3104,SpotXchange Inc.,"all",any_status,platform,appnexus,false,1194200,51800,271311100,17933900,--,Unknown,--
+NO,Norway,1360,Sovrn,"all",any_status,platform,appnexus,false,1120200,59200,400642400,23323000,--,Unknown,--
+NO,Norway,2850,MobFox,"all",any_status,platform,appnexus,false,1079800,66400,617754000,33916100,--,Unknown,--
+NO,Norway,1226,AOL Marketplace,"all",any_status,external,appnexus,false,1019500,99100,239525900,16680800,--,Unknown,--
+NO,Norway,3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,947100,38300,190575900,16112500,--,Unknown,--
+NO,Norway,1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,844800,27200,166429900,7648600,--,Unknown,--
+NO,Norway,1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,763400,24800,103106400,11015600,--,Unknown,--
+NO,Norway,310,Technorati Media,"all",any_status,platform,appnexus,false,656600,30900,64536800,6342900,--,Unknown,--
+NO,Norway,2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,624500,34800,430811700,17143500,--,Unknown,--
+NO,Norway,1882,TapTica LTD,"all",any_status,platform,appnexus,false,594800,100200,87218100,23348500,--,Unknown,--
+NO,Norway,1475,Lifestreet,"all",any_status,platform,appnexus,false,542300,13100,242585900,5057200,--,Unknown,--
+NO,Norway,1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,500600,41300,50498400,3809900,--,Unknown,--
+NO,Norway,2732,Matchflow Media,"all",any_status,platform,appnexus,false,479900,2800,7335600,1014400,--,Unknown,--
+NO,Norway,1583,Admeta AB,"all",any_status,platform,appnexus,false,433900,99700,14256000,1033900,--,Unknown,--
+NO,Norway,2721,Kiosked,"all",any_status,platform,appnexus,false,311900,26700,84569700,10245200,--,Unknown,--
+NO,Norway,1613,Defy Media,"all",any_status,platform,appnexus,false,261800,10700,73239200,4465300,--,Unknown,--
+NO,Norway,2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,232000,11800,19737800,1365600,--,Unknown,--
+NO,Norway,1908,District M,"all",any_status,platform,appnexus,false,172800,21000,85430500,9861500,--,Unknown,--
+NO,Norway,3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,166600,4000,76563700,1162600,--,Unknown,--
+NO,Norway,1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,164600,94300,2121409200,520131400,--,Unknown,--
+NO,Norway,2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,156700,23800,50860000,7782600,--,Unknown,--
+NO,Norway,3204,Purch,"all",any_status,platform,appnexus,false,153100,22900,33563400,4355800,--,Unknown,--
+NO,Norway,541,CPXInteractive,"all",any_status,platform,appnexus,false,152300,26000,38468600,5292100,--,Unknown,--
+NO,Norway,2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,151700,30600,93859100,18219400,--,Unknown,--
+NO,Norway,1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,140500,29700,60998700,8550900,--,Unknown,--
+NO,Norway,2365,SouthernX,"all",any_status,platform,appnexus,false,126100,20800,9032200,796600,--,Unknown,--
+NO,Norway,1611,Headway Digital,"all",any_status,platform,appnexus,false,99500,2600,14236300,1268000,--,Unknown,--
+NO,Norway,95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,95000,9500,27850600,5122800,--,Unknown,--
+NO,Norway,3020,Mojiva II,"all",any_status,platform,appnexus,false,84100,3100,130720700,11697300,--,Unknown,--
+NO,Norway,2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,81900,4400,16374000,2597100,--,Unknown,--
+NO,Norway,1608,Audience Square,"all",any_status,platform,appnexus,false,76900,9000,105327200,8530300,--,Unknown,--
+NO,Norway,1507,Zynga,"all",any_status,platform,appnexus,false,69800,4700,5930500,1179400,--,Unknown,--
+NO,Norway,818,MediaShakers,"all",any_status,platform,appnexus,false,69500,10400,9935200,1579700,--,Unknown,--
+NO,Norway,1001,33Across Real Impact,"all",any_status,platform,appnexus,false,66900,15400,18452300,6512900,--,Unknown,--
+NO,Norway,1081,Sonobi,"all",any_status,platform,appnexus,false,66700,6900,41318500,4009000,--,Unknown,--
+NO,Norway,1942,Floor6,"all",any_status,platform,appnexus,false,60200,8300,41027600,5864100,--,Unknown,--
+NO,Norway,3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,59100,21600,11679100,3946900,--,Unknown,--
+NO,Norway,3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,56600,40900,15959100,5178000,--,Unknown,--
+NO,Norway,882,AN Talent,"all",any_status,platform,appnexus,false,55300,15600,50438600,13544900,--,Unknown,--
+NO,Norway,2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,53300,6700,35500900,5026100,--,Unknown,--
+NO,Norway,3508,Proper Media LLC,"all",any_status,platform,appnexus,false,52000,900,6143900,144300,--,Unknown,--
+NO,Norway,2420,TailWind 3,"all",any_status,platform,appnexus,false,47200,9900,10261300,2274800,--,Unknown,--
+NO,Norway,3032,Youla Media LLP,"all",any_status,platform,appnexus,false,45600,14600,7319800,1991600,--,Unknown,--
+NO,Norway,2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,44700,7000,67112200,3425500,--,Unknown,--
+NO,Norway,1749,W M Web Media,"all",any_status,platform,appnexus,false,44200,9600,16480000,3492000,--,Unknown,--
+NO,Norway,1530,AdPrudence,"all",any_status,platform,appnexus,false,44100,22600,7290300,3996400,--,Unknown,--
+NO,Norway,1357,bRealTime,"all",any_status,platform,appnexus,false,42600,5200,12048300,1469800,--,Unknown,--
+NO,Norway,806,Venatus Media,"all",any_status,platform,appnexus,false,38800,5500,5557600,602200,--,Unknown,--
+NO,Norway,2688,Metric Science,"all",any_status,platform,appnexus,false,37300,13200,9565700,2018900,--,Unknown,--
+NO,Norway,3192,RTB Media,"all",any_status,platform,appnexus,false,37200,5900,9047300,2346100,--,Unknown,--
+NO,Norway,1019,OnScroll Limited,"all",any_status,platform,appnexus,false,36600,3400,6251600,665800,--,Unknown,--
+NO,Norway,86,Photobucket,"all",any_status,external,appnexus,false,36200,2000,10687900,596400,--,Unknown,--
+NO,Norway,2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,34000,2500,37441400,3708500,--,Unknown,--
+NO,Norway,2637,Matomy Content Network,"all",any_status,platform,appnexus,false,33300,4200,18055600,4241400,--,Unknown,--
+NO,Norway,620,Mediafem LLC,"all",any_status,platform,appnexus,false,32600,1000,4461200,553100,--,Unknown,--
+NO,Norway,1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,29900,4800,8096600,1668000,--,Unknown,--
+NO,Norway,3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,29300,2600,10120900,466800,--,Unknown,--
+NO,Norway,2723,Riot New Media Group,"all",any_status,platform,appnexus,false,25700,1100,3984400,147800,--,Unknown,--
+NO,Norway,3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,25400,700,22350500,1529000,--,Unknown,--
+NO,Norway,2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,25400,7400,2787500,599200,--,Unknown,--
+NO,Norway,3458,SpinMedia Group,"all",any_status,platform,appnexus,false,25000,2500,3647300,408900,--,Unknown,--
+NO,Norway,2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,25000,2600,12509900,1152200,--,Unknown,--
+NO,Norway,884,Hi-Media,"all",any_status,platform,appnexus,false,24900,3700,78818800,7489400,--,Unknown,--
+NO,Norway,3366,AerServ LLC,"all",any_status,platform,appnexus,false,24600,900,96664800,5504300,--,Unknown,--
+NO,Norway,2401,Wise Ad Media,"all",any_status,platform,appnexus,false,23500,1400,8000000,1228100,--,Unknown,--
+NO,Norway,3457,Grupa Wirtualna Polska S.A.,"all",any_status,platform,appnexus,false,23100,8000,4710700,1329700,--,Unknown,--
+NO,Norway,2251,Waypoint Media,"all",any_status,platform,appnexus,false,22800,1200,3297000,184900,--,Unknown,--
+NO,Norway,2549,Uber AdMedia,"all",any_status,platform,appnexus,false,22600,3600,21596300,4597200,--,Unknown,--
+NO,Norway,2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,22100,1500,4430900,730200,--,Unknown,--
+NO,Norway,1756,Adversal.com,"all",any_status,platform,appnexus,false,20700,4400,14173900,1426500,--,Unknown,--
+NO,Norway,3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,20600,500,286290200,3534600,--,Unknown,--
+NO,Norway,1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,20000,19600,5027900,2395500,--,Unknown,--
+NO,Norway,1643,Fidelity Media,"all",any_status,platform,appnexus,false,18900,1200,2190000,227800,--,Unknown,--
+NO,Norway,1939,152 Media LLC,"all",any_status,platform,appnexus,false,18600,5400,10516600,1985700,--,Unknown,--
+NO,Norway,2662,Aim4Media BV,"all",any_status,platform,appnexus,false,18200,2100,3003300,282300,--,Unknown,--
+NO,Norway,1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,18200,2400,68302300,5161300,--,Unknown,--
+NO,Norway,2669,Brightcom Media,"all",any_status,platform,appnexus,false,18100,3200,6016600,1760400,--,Unknown,--
+NO,Norway,2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,17800,1000,46631800,2549100,--,Unknown,--
+NO,Norway,1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,17800,900,16758500,1276400,--,Unknown,--
+NO,Norway,3500,ASQ Brand,"all",any_status,platform,appnexus,false,17800,3100,30855200,1884800,--,Unknown,--
+NO,Norway,3450,Northern & Shell,"all",any_status,platform,appnexus,false,17400,1500,2119900,290900,--,Unknown,--
+NO,Norway,2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,16500,900,6341900,228700,--,Unknown,--
+NO,Norway,956,Zodiak Active,"all",any_status,platform,appnexus,false,15500,2500,42149500,4493100,--,Unknown,--
+NO,Norway,928,Suite66,"all",any_status,platform,appnexus,false,15200,1300,4874500,704400,--,Unknown,--
+NO,Norway,2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,15100,5300,4063700,606100,--,Unknown,--
+NO,Norway,1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,14000,3100,8224700,1803300,--,Unknown,--
+NO,Norway,1783,Bandsintown Amplified,"all",any_status,platform,appnexus,false,14000,5100,1178600,523000,--,Unknown,--
+NO,Norway,3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,13000,1900,3915900,451600,--,Unknown,--
+NO,Norway,2579,Quantum,"all",any_status,platform,appnexus,false,13000,4700,13214100,4152100,--,Unknown,--
+NO,Norway,3273,Figaromedias,"all",any_status,platform,appnexus,false,12700,900,8751600,818700,--,Unknown,--
+NO,Norway,1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,12700,1100,120590500,5347900,--,Unknown,--
+NO,Norway,3264,Accvee Premium,"all",any_status,platform,appnexus,false,12500,2900,2386500,486600,--,Unknown,--
+NO,Norway,3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,12200,700,8293600,244900,--,Unknown,--
+NO,Norway,3098,WEBEDIA,"all",any_status,platform,appnexus,false,11800,2300,23991600,2742200,--,Unknown,--
+NO,Norway,1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,11600,2800,3909100,819600,--,Unknown,--
+NO,Norway,1405,Adscale GmbH,"all",any_status,external,appnexus,false,11500,1700,24769000,2453000,--,Unknown,--
+NO,Norway,2804,Adshoard,"all",any_status,platform,appnexus,false,11300,1100,15208300,1517700,--,Unknown,--
+NO,Norway,1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,11000,1500,5545300,875700,--,Unknown,--
+NO,Norway,2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,10900,400,7914300,319800,--,Unknown,--
+NO,Norway,3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,10300,600,6022900,193200,--,Unknown,--
+NO,Norway,3329,AdRaiden,"all",any_status,platform,appnexus,false,10000,1600,59013500,8240600,--,Unknown,--
+NO,Norway,855,Adadyn Premium,"all",any_status,platform,appnexus,false,9900,3600,4408100,1285700,--,Unknown,--
+NO,Norway,3456,A Plus,"all",any_status,platform,appnexus,false,9600,3200,1593200,492300,--,Unknown,--
+NO,Norway,3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,9600,700,19222500,1853100,--,Unknown,--
+NO,Norway,2668,MonPar B.V.,"all",any_status,platform,appnexus,false,9600,1600,4293200,550100,--,Unknown,--
+NO,Norway,2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,9200,3100,5286600,1498600,--,Unknown,--
+NO,Norway,3153,152 Media Select,"all",any_status,platform,appnexus,false,9100,500,2747300,124000,--,Unknown,--
+NO,Norway,2252,One Advertising AG,"all",any_status,platform,appnexus,false,9100,900,7386500,732100,--,Unknown,--
+NO,Norway,3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,8600,1800,947400,114800,--,Unknown,--
+NO,Norway,2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,8500,800,3860700,298100,--,Unknown,--
+NO,Norway,2011,Apex,"all",any_status,platform,appnexus,false,8500,800,923200,342300,--,Unknown,--
+NO,Norway,1619,ReklamStore,"all",any_status,platform,appnexus,false,8300,2100,32005800,4616300,--,Unknown,--
+NO,Norway,2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,8300,1000,66270000,5213700,--,Unknown,--
+NO,Norway,2025,Fairfax Digital,"all",any_status,platform,appnexus,false,8200,1800,23964200,1700200,--,Unknown,--
+NO,Norway,3325,Stream Media Inc,"all",any_status,platform,appnexus,false,8100,1400,3869600,726200,--,Unknown,--
+NO,Norway,1449,Adtegrity,"all",any_status,platform,appnexus,false,8100,3100,30828900,3626800,--,Unknown,--
+NO,Norway,3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,8000,1300,1458900,286800,--,Unknown,--
+NO,Norway,1906,Velis Media,"all",any_status,platform,appnexus,false,7900,2000,1743200,404400,--,Unknown,--
+NO,Norway,1413,DTCN,"all",any_status,platform,appnexus,false,7700,600,3607300,146200,--,Unknown,--
+NO,Norway,2047,Inneractive LTD,"all",any_status,platform,appnexus,false,7400,1400,341724700,17293700,--,Unknown,--
+NO,Norway,3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,7300,1900,3114300,586100,--,Unknown,--
+NO,Norway,3492,StudyBreak Media,"all",any_status,platform,appnexus,false,6900,300,22300800,414400,--,Unknown,--
+NO,Norway,1755,Digital Throttle,"all",any_status,platform,appnexus,false,6800,1100,3712700,358400,--,Unknown,--
+NO,Norway,2854,The Blogger Network,"all",any_status,platform,appnexus,false,6700,1200,8885000,1294800,--,Unknown,--
+NO,Norway,3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,6400,800,24284900,766700,--,Unknown,--
+NO,Norway,406,CPM Only,"all",any_status,platform,appnexus,false,6400,300,22587800,1241100,--,Unknown,--
+NO,Norway,2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,6400,700,405800,85600,--,Unknown,--
+NO,Norway,3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,6000,1600,3313700,736000,--,Unknown,--
+NO,Norway,2320,Adadyn (Ozone),"all",any_status,platform,appnexus,false,5900,2200,3123300,806200,--,Unknown,--
+NO,Norway,3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,5800,500,51037100,391400,--,Unknown,--
+NO,Norway,2026,Tailwind 1,"all",any_status,platform,appnexus,false,5500,1000,7959300,783700,--,Unknown,--
+NO,Norway,740,NetSeer Inc,"all",any_status,platform,appnexus,false,5400,800,7306400,1136500,--,Unknown,--
+NO,Norway,3411,AdinTop (Tailwind EMEA Ltd.),"all",any_status,platform,appnexus,false,5200,1200,218700,68400,--,Unknown,--
+NO,Norway,1393,ReactX,"all",any_status,platform,appnexus,false,5100,3800,4958500,1271600,--,Unknown,--
+NO,Norway,2599,Adadyn Audience,"all",any_status,platform,appnexus,false,4900,800,3489700,554200,--,Unknown,--
+NO,Norway,2797,Disqus Inc.,"all",any_status,platform,appnexus,false,4900,2000,969700,491000,--,Unknown,--
+NO,Norway,3331,"1World Online, Inc","all",any_status,platform,appnexus,false,4700,800,2499600,401500,--,Unknown,--
+NO,Norway,2064,AdSeven,"all",any_status,platform,appnexus,false,4400,200,449600,54600,--,Unknown,--
+NO,Norway,2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,4000,600,1126400,108700,--,Unknown,--
+NO,Norway,2945,Adhood,"all",any_status,platform,appnexus,false,4000,600,1202300,111400,--,Unknown,--
+NO,Norway,3246,DailyMail,"all",any_status,platform,appnexus,false,3700,1400,57336600,3466300,--,Unknown,--
+NO,Norway,3106,Adrun,"all",any_status,platform,appnexus,false,3500,400,689500,290300,--,Unknown,--
+NO,Norway,994,WebAds NL,"all",any_status,platform,appnexus,false,3500,500,4383900,537800,--,Unknown,--
+NO,Norway,1949,Protein UK Limited,"all",any_status,platform,appnexus,false,3400,700,987200,136500,--,Unknown,--
+NO,Norway,3135,33Across Real Display,"all",any_status,platform,appnexus,false,3300,1300,4519500,1104400,--,Unknown,--
+NO,Norway,1585,Horyzon Media,"all",any_status,platform,appnexus,false,3200,1400,1529400,354500,--,Unknown,--
+NO,Norway,2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,3200,1500,9531000,2986500,--,Unknown,--
+NO,Norway,648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,3100,800,2358300,245600,--,Unknown,--
+NO,Norway,3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,3100,400,3827100,444800,--,Unknown,--
+NO,Norway,3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,3000,300,7192100,699100,--,Unknown,--
+NO,Norway,2457,"Accvee, Inc","all",any_status,platform,appnexus,false,3000,400,730200,148700,--,Unknown,--
+NO,Norway,3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,2800,900,1058100,325200,--,Unknown,--
+NO,Norway,232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,2800,900,2171600,343900,--,Unknown,--
+NO,Norway,2564,24/7 Media France,"all",any_status,platform,appnexus,false,2800,700,10662500,1376600,--,Unknown,--
+NO,Norway,2737,Semilo B.V.,"all",any_status,platform,appnexus,false,2800,300,4756100,537900,--,Unknown,--
+NO,Norway,2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,2700,600,6463900,834200,--,Unknown,--
+NO,Norway,3442,Ampliffy,"all",any_status,platform,appnexus,false,2600,200,4220500,316000,--,Unknown,--
+NO,Norway,3289,NRC,"all",any_status,platform,appnexus,false,2400,300,228200,67500,--,Unknown,--
+NO,Norway,3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,2400,400,449400,40700,--,Unknown,--
+NO,Norway,927,Adgorithms,"all",any_status,platform,appnexus,false,2300,700,6947600,360600,--,Unknown,--
+NO,Norway,2219,Intag DW LLC,"all",any_status,platform,appnexus,false,2200,400,739500,87800,--,Unknown,--
+NO,Norway,2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,2100,1400,9379600,2540100,--,Unknown,--
+NO,Norway,3265,BRATECH SA,"all",any_status,platform,appnexus,false,2000,500,8702600,2447900,--,Unknown,--
+NO,Norway,2660,DMG Mobile,"all",any_status,platform,appnexus,false,2000,100,2127700,100,--,Unknown,--
+NO,Norway,2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,2000,800,2649700,627500,--,Unknown,--
+NO,Norway,1362,IMS Connect,"all",any_status,platform,appnexus,false,2000,400,678700,80800,--,Unknown,--
+NO,Norway,3194,Optima Network SL,"all",any_status,platform,appnexus,false,1800,500,2356900,625700,--,Unknown,--
+NO,Norway,1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,1800,800,3379300,1153500,--,Unknown,--
+NO,Norway,2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,1700,600,1489800,468100,--,Unknown,--
+NO,Norway,996,WebAds IT,"all",any_status,platform,appnexus,false,1700,200,11291200,463000,--,Unknown,--
+NO,Norway,3208,Lyfe Media,"all",any_status,platform,appnexus,false,1700,300,3124700,202300,--,Unknown,--
+NO,Norway,1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,1600,300,750100,62900,--,Unknown,--
+NO,Norway,2914,Solocal Xchange,"all",any_status,platform,appnexus,false,1600,200,2109100,469100,--,Unknown,--
+NO,Norway,1408,The Edge Initiative,"all",any_status,platform,appnexus,false,1600,400,2294000,382300,--,Unknown,--
+NO,Norway,2767,Premio,"all",any_status,platform,appnexus,false,1600,300,13425800,1568700,--,Unknown,--
+NO,Norway,1656,Media White,"all",any_status,platform,appnexus,false,1600,500,865800,70500,--,Unknown,--
+NO,Norway,2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,1600,500,2805200,221700,--,Unknown,--
+NO,Norway,3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,1600,300,619100,145100,--,Unknown,--
+NO,Norway,311,Collective Exchange,"all",any_status,platform,appnexus,false,1500,500,119214800,7487900,--,Unknown,--
+NO,Norway,1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,1500,200,647800,93700,--,Unknown,--
+NO,Norway,1773,Gay Ad Network,"all",any_status,platform,appnexus,false,1400,600,1264700,197500,--,Unknown,--
+NO,Norway,1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,1400,1000,185500,117600,--,Unknown,--
+NO,Norway,2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,1400,1000,3496400,1744800,--,Unknown,--
+NO,Norway,2399,Adsiduous Media,"all",any_status,platform,appnexus,false,1300,400,2652700,523300,--,Unknown,--
+NO,Norway,2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,1300,400,1057900,230700,--,Unknown,--
+NO,Norway,2568,Engage:BDR,"all",any_status,platform,appnexus,false,1300,300,13185900,896900,--,Unknown,--
+NO,Norway,2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,1300,400,383400,84200,--,Unknown,--
+NO,Norway,2007,Affinity.com,"all",any_status,platform,appnexus,false,1200,500,2962400,795400,--,Unknown,--
+NO,Norway,1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,1100,300,26716100,1171300,--,Unknown,--
+NO,Norway,3203,evania GmbH,"all",any_status,platform,appnexus,false,1000,200,432900,83400,--,Unknown,--
+NO,Norway,3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,1000,300,1875200,314600,--,Unknown,--
+NO,Norway,3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,1000,400,5798700,760300,--,Unknown,--
+NO,Norway,3105,Adshoard Premium,"all",any_status,platform,appnexus,false,1000,300,1000700,224100,--,Unknown,--
+NO,Norway,3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,900,200,358200,177500,--,Unknown,--
+NO,Norway,2790,"Digimosaic, Inc.","all",any_status,platform,appnexus,false,900,400,1584600,472900,--,Unknown,--
+NO,Norway,3057,Adverline SAS,"all",any_status,platform,appnexus,false,900,200,5049300,558800,--,Unknown,--
+NO,Norway,982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,900,200,8062800,2204700,--,Unknown,--
+NO,Norway,3522,Grandex Inc,"all",any_status,platform,appnexus,false,800,300,282100,25000,--,Unknown,--
+NO,Norway,1768,Ideon Media,"all",any_status,platform,appnexus,false,800,100,132300,17300,--,Unknown,--
+NO,Norway,1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,800,300,467900,96400,--,Unknown,--
+NO,Norway,1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,800,600,626600,300300,--,Unknown,--
+NO,Norway,319,Ybrant Digital,"all",any_status,platform,appnexus,true,700,200,483600,153300,--,Unknown,--
+NO,Norway,3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,700,400,79200,37100,--,Unknown,--
+NO,Norway,3066,To Media Group BV,"all",any_status,platform,appnexus,false,700,100,1241400,150900,--,Unknown,--
+NO,Norway,329,Bannerconnect,"all",any_status,platform,appnexus,true,700,200,334500,108700,--,Unknown,--
+NO,Norway,2419,Adaptive Media (Tailwind),"all",any_status,platform,appnexus,false,700,300,449900,139600,--,Unknown,--
+NO,Norway,3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,700,400,2063700,326000,--,Unknown,--
+NO,Norway,455,Digitize,"all",any_status,platform,appnexus,true,700,100,554100,78900,--,Unknown,--
+NO,Norway,2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,600,200,873600,129700,--,Unknown,--
+NO,Norway,1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,600,300,1747100,91500,--,Unknown,--
+NO,Norway,2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,600,200,249500,86400,--,Unknown,--
+NO,Norway,946,Advertise.com,"all",any_status,platform,appnexus,false,600,100,1096500,221100,--,Unknown,--
+NO,Norway,2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,600,500,551600,295300,--,Unknown,--
+NO,Norway,3361,Axel Springer Schweiz AG,"all",any_status,platform,appnexus,false,600,100,248000,37700,--,Unknown,--
+NO,Norway,3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,600,400,315600,247600,--,Unknown,--
+NO,Norway,1130,Orange Advertising Americas,"all",any_status,platform,appnexus,false,500,200,9909700,1441700,--,Unknown,--
+NO,Norway,1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,500,300,11602500,1302100,--,Unknown,--
+NO,Norway,2455,Mango Media,"all",any_status,platform,appnexus,false,500,200,137500,57800,--,Unknown,--
+NO,Norway,2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,500,200,199900,84500,--,Unknown,--
+NO,Norway,2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,500,200,450000,159700,--,Unknown,--
+NO,Norway,2967,orbyd GmbH,"all",any_status,platform,appnexus,false,500,200,1517000,208900,--,Unknown,--
+NO,Norway,3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,500,400,2636000,329400,--,Unknown,--
+NO,Norway,3113,Hypercentage Ltd.,"all",any_status,platform,appnexus,false,500,200,53400,21900,--,Unknown,--
+NO,Norway,3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,500,200,41510700,443300,--,Unknown,--
+NO,Norway,3074,VICE Media,"all",any_status,platform,appnexus,false,500,200,976900,165800,--,Unknown,--
+NO,Norway,2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,500,300,1454200,468300,--,Unknown,--
+NO,Norway,2935,Suite66 Select,"all",any_status,platform,appnexus,false,500,200,2782400,514400,--,Unknown,--
+NO,Norway,542,Up-value GmbH,"all",any_status,platform,appnexus,false,400,300,1613200,434700,--,Unknown,--
+NO,Norway,2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,400,400,1374400,477700,--,Unknown,--
+NO,Norway,1504,Stailamedia AG,"all",any_status,platform,appnexus,false,400,200,3517900,639700,--,Unknown,--
+NO,Norway,2076,FemmeFab,"all",any_status,platform,appnexus,false,400,200,915800,127700,--,Unknown,--
+NO,Norway,2654,Profound,"all",any_status,platform,appnexus,false,400,100,278400,54700,--,Unknown,--
+NO,Norway,3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,400,100,111900,100,--,Unknown,--
+NO,Norway,1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,400,200,2564700,153400,--,Unknown,--
+NO,Norway,2562,N&S Plus,"all",any_status,platform,appnexus,false,400,200,764400,200900,--,Unknown,--
+NO,Norway,2733,Prodege LLC,"all",any_status,platform,appnexus,false,400,200,838500,350400,--,Unknown,--
+NO,Norway,2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,400,200,172400,72600,--,Unknown,--
+NO,Norway,2837,Mannenmedia,"all",any_status,platform,appnexus,false,400,100,180000,59500,--,Unknown,--
+NO,Norway,3287,"RTK.io (Phaedrus Media, LLC)","all",any_status,platform,appnexus,false,300,100,4137900,236900,--,Unknown,--
+NO,Norway,1364,Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,300,200,187600,80500,--,Unknown,--
+NO,Norway,2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,300,200,102300,68100,--,Unknown,--
+NO,Norway,2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,300,100,5539200,537800,--,Unknown,--
+NO,Norway,568,Httpool,"all",any_status,platform,appnexus,false,300,200,4528700,487200,--,Unknown,--
+NO,Norway,718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,300,200,30389900,1033700,--,Unknown,--
+NO,Norway,3184,Hot Pink Media,"all",any_status,platform,appnexus,false,300,200,150600,47200,--,Unknown,--
+NO,Norway,1224,Antevenio S.A.,"all",any_status,platform,appnexus,false,300,200,423500,102800,--,Unknown,--
+NO,Norway,2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,300,100,578500,93600,--,Unknown,--
+NO,Norway,3097,Digital Space,"all",any_status,platform,appnexus,false,300,100,1268300,217200,--,Unknown,--
+NO,Norway,1672,Hivewyre,"all",any_status,platform,appnexus,false,300,200,414600,149700,--,Unknown,--
+NO,Norway,1002,CrimTan,"all",any_status,platform,appnexus,false,300,200,1700,800,--,Unknown,--
+NO,Norway,3553,Elbrit - Premium,"all",any_status,platform,appnexus,false,200,200,17600,11200,--,Unknown,--
+NO,Norway,1373,Hitch Digital Media (Pty) Ltd.,"all",any_status,platform,appnexus,false,200,300,14100,8500,--,Unknown,--
+NO,Norway,2583,NakkoMedia,"all",any_status,platform,appnexus,false,200,100,100500,11400,--,Unknown,--
+NO,Norway,2833,DigitalMarCom,"all",any_status,platform,appnexus,false,200,200,367500,22200,--,Unknown,--
+NO,Norway,2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,200,100,259800,190000,--,Unknown,--
+NO,Norway,3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,200,100,64300,24700,--,Unknown,--
+NO,Norway,1263,"PulsePoint, Inc.","all",any_status,platform,appnexus,false,200,200,51953900,4345700,--,Unknown,--
+NO,Norway,1945,Adperium BV - Performance,"all",any_status,platform,appnexus,false,200,100,31300,5700,--,Unknown,--
+NO,Norway,3080,Local World Limited,"all",any_status,platform,appnexus,false,200,100,1474200,464200,--,Unknown,--
+NO,Norway,2075,Gamehouse,"all",any_status,platform,appnexus,false,200,100,37900,17200,--,Unknown,--
+NO,Norway,859,Adlantic Online Advertising B.V.,"all",any_status,platform,appnexus,false,200,100,36700,10400,--,Unknown,--
+NO,Norway,3224,Playtem,"all",any_status,platform,appnexus,false,200,100,254000,63400,--,Unknown,--
+NO,Norway,1886,Acsencion LLC,"all",any_status,platform,appnexus,false,200,100,2000,200,--,Unknown,--
+NO,Norway,3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,200,100,54100,26800,--,Unknown,--
+NO,Norway,1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,200,200,2540800,448900,--,Unknown,--
+NO,Norway,2485,Automotive Exchange Pty Ltd,"all",any_status,platform,appnexus,false,200,100,28000,13100,--,Unknown,--
+NO,Norway,3232,Builder Homesite Inc,"all",any_status,platform,appnexus,false,100,100,687300,14400,--,Unknown,--
+NO,Norway,3070,Optimal Fusion,"all",any_status,platform,appnexus,false,100,100,9200,2100,--,Unknown,--
+NO,Norway,3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,100,100,165800,23500,--,Unknown,--
+NO,Norway,3359,Topix LLC,"all",any_status,platform,appnexus,false,100,100,721200,14700,--,Unknown,--
+NO,Norway,3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,100,100,1364000,118300,--,Unknown,--
+NO,Norway,2312,IncreaseOnline B.V.,"all",any_status,platform,appnexus,false,100,100,25700,10600,--,Unknown,--
+NO,Norway,1199,"Impresiones Web, SL","all",any_status,platform,appnexus,false,100,100,21800,7300,--,Unknown,--
+NO,Norway,1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,100,100,117625700,8331200,--,Unknown,--
+NO,Norway,362,Accordant Media,"all",any_status,platform,appnexus,false,100,100,10400,100,--,Unknown,--
+NO,Norway,2704,IP Adex,"all",any_status,platform,appnexus,false,100,100,1817500,242600,--,Unknown,--
+NO,Norway,1789,GroupM Sp.z.o.o.,"all",any_status,platform,appnexus,false,100,100,40500,100,--,Unknown,--
+NO,Norway,3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,100,100,233600,89500,--,Unknown,--
+NO,Norway,1862,ACC Ventures LLC,"all",any_status,platform,appnexus,false,100,100,4300,3300,--,Unknown,--
+NO,Norway,564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,100,100,1044100,362500,--,Unknown,--
+NO,Norway,2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,100,100,64800,29000,--,Unknown,--
+NO,Norway,3075,Admaru Network LLC,"all",any_status,platform,appnexus,false,100,100,198100,56300,--,Unknown,--
+NO,Norway,3174,Yelp,"all",any_status,platform,appnexus,false,100,100,91900,28500,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/09/2015 15:43:56
+Start date: 11/02/2015 00:00:00
+End date: 11/09/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)

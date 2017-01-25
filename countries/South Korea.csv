@@ -1,0 +1,286 @@
+geo_country,geo_country_name,seller_member_id,seller_member_name,size,audit_type,seller_type,inventory_trust,iash,filtered_imps,filtered_uniques,total_imps,total_uniques,supply_type,device_type,os_family_id
+KR,"South Korea",181,Google AdExchange,"all",any_status,external,appnexus,false,474899700,18557700,28133831500,956832100,--,Unknown,--
+KR,"South Korea",459,Rubicon,"all",any_status,external,appnexus,false,46509900,1240500,5432623200,220214700,--,Unknown,--
+KR,"South Korea",1752,Smaato Inc.,"all",any_status,platform,appnexus,false,20991000,355100,2135642300,44171400,--,Unknown,--
+KR,"South Korea",357,OpenX,"all",any_status,external,appnexus,false,17030400,523900,5442603200,127936800,--,Unknown,--
+KR,"South Korea",1548,Criteo,"all",any_status,external,appnexus,false,16022300,2287200,341691000,40870200,--,Unknown,--
+KR,"South Korea",280,Microsoft Advertising Exchange,"all",any_status,platform,appnexus,false,11529800,1172100,1852965100,133776400,--,Unknown,--
+KR,"South Korea",1868,Nexage Inc.,"all",any_status,platform,appnexus,false,8028700,460400,1213298700,52107200,--,Unknown,--
+KR,"South Korea",74,PubMatic,"all",any_status,external,appnexus,false,7569600,172700,1423565100,75329600,--,Unknown,--
+KR,"South Korea",2850,MobFox,"all",any_status,platform,appnexus,false,4607000,285200,605292500,32717700,--,Unknown,--
+KR,"South Korea",3020,Mojiva II,"all",any_status,platform,appnexus,false,3847200,112300,137981800,12619400,--,Unknown,--
+KR,"South Korea",2047,Inneractive LTD,"all",any_status,platform,appnexus,false,1495000,206400,340480700,17137400,--,Unknown,--
+KR,"South Korea",1360,Sovrn,"all",any_status,platform,appnexus,false,908400,69000,392809500,23110100,--,Unknown,--
+KR,"South Korea",2800,"A1 Platform Co, Ltd","all",any_status,platform,appnexus,false,838700,43500,860800,44600,--,Unknown,--
+KR,"South Korea",1356,bRealTime (select),"all",any_status,platform,appnexus,false,818600,70400,321695800,26129500,--,Unknown,--
+KR,"South Korea",2718,"Vertoz, Inc","all",any_status,platform,appnexus,false,641400,147100,97623900,18941200,--,Unknown,--
+KR,"South Korea",3265,BRATECH SA,"all",any_status,platform,appnexus,false,627100,175100,9774900,2537800,--,Unknown,--
+KR,"South Korea",3053,Sticky Ads TV S.A.,"all",any_status,platform,appnexus,false,483300,10700,204431900,17086200,--,Unknown,--
+KR,"South Korea",2305,ADGOG UK LIMITED,"all",any_status,platform,appnexus,false,475300,86000,17299100,2599700,--,Unknown,--
+KR,"South Korea",620,Mediafem LLC,"all",any_status,platform,appnexus,false,451600,5400,4292600,557800,--,Unknown,--
+KR,"South Korea",1063,Cox Digital Solutions LLC,"all",any_status,platform,appnexus,false,348800,134100,2086327100,511925000,--,Unknown,--
+KR,"South Korea",1908,District M,"all",any_status,platform,appnexus,false,319300,17500,85922400,9750900,--,Unknown,--
+KR,"South Korea",3032,Youla Media LLP,"all",any_status,platform,appnexus,false,288600,23100,7419900,2004300,--,Unknown,--
+KR,"South Korea",95,X.M. Performing Media Ltd.,"all",any_status,platform,appnexus,false,211600,22600,27761000,5035100,--,Unknown,--
+KR,"South Korea",2578,"Geniee, Inc.","all",any_status,platform,appnexus,false,211500,45400,35045500,4982300,--,Unknown,--
+KR,"South Korea",1612,5 Media Group PLC,"all",any_status,platform,appnexus,false,177200,47300,5235700,2388400,--,Unknown,--
+KR,"South Korea",2721,Kiosked,"all",any_status,platform,appnexus,false,156400,22100,84808100,10246900,--,Unknown,--
+KR,"South Korea",541,CPXInteractive,"all",any_status,platform,appnexus,false,136700,22900,39299200,5445400,--,Unknown,--
+KR,"South Korea",1117,Switch Concepts Limited,"all",any_status,platform,appnexus,false,125000,9300,173038100,7915100,--,Unknown,--
+KR,"South Korea",3204,Purch,"all",any_status,platform,appnexus,false,123500,15700,33417000,4334800,--,Unknown,--
+KR,"South Korea",2306,Shazam Entertainment Limited,"all",any_status,platform,appnexus,false,115100,14000,50904000,7773300,--,Unknown,--
+KR,"South Korea",1583,Admeta AB,"all",any_status,platform,appnexus,false,114100,15500,14691100,1026700,--,Unknown,--
+KR,"South Korea",3366,AerServ LLC,"all",any_status,platform,appnexus,false,107600,26800,99772900,5582900,--,Unknown,--
+KR,"South Korea",310,Technorati Media,"all",any_status,platform,appnexus,false,107400,18900,64085300,6263800,--,Unknown,--
+KR,"South Korea",1357,bRealTime,"all",any_status,platform,appnexus,false,106800,5800,11646600,1412800,--,Unknown,--
+KR,"South Korea",1872,Media.Net Ltd,"all",any_status,platform,appnexus,false,104600,17900,60954200,8615700,--,Unknown,--
+KR,"South Korea",3192,RTB Media,"all",any_status,platform,appnexus,false,87000,30500,10160500,2328300,--,Unknown,--
+KR,"South Korea",1613,Defy Media,"all",any_status,platform,appnexus,false,76800,14200,74125700,4525300,--,Unknown,--
+KR,"South Korea",1882,TapTica LTD,"all",any_status,platform,appnexus,false,76700,9000,86357400,24093400,--,Unknown,--
+KR,"South Korea",1223,Q1Media Inc.,"all",any_status,platform,appnexus,false,74600,12300,103939900,11212800,--,Unknown,--
+KR,"South Korea",2444,Social Reality Inc.,"all",any_status,platform,appnexus,false,72000,11000,61709300,3290300,--,Unknown,--
+KR,"South Korea",1900,Exent Technologies Ltd.,"all",any_status,platform,appnexus,false,69800,400,1747000,89200,--,Unknown,--
+KR,"South Korea",1475,Lifestreet,"all",any_status,platform,appnexus,false,69600,3500,240667900,4987100,--,Unknown,--
+KR,"South Korea",2139,"Generation Premium, Inc.","all",any_status,platform,appnexus,false,68600,4700,19955800,1373000,--,Unknown,--
+KR,"South Korea",1906,Velis Media,"all",any_status,platform,appnexus,false,62400,15200,1767000,424400,--,Unknown,--
+KR,"South Korea",2401,Wise Ad Media,"all",any_status,platform,appnexus,false,59400,5200,7714500,1212200,--,Unknown,--
+KR,"South Korea",2549,Uber AdMedia,"all",any_status,platform,appnexus,false,52200,12500,21531100,4520100,--,Unknown,--
+KR,"South Korea",1611,Headway Digital,"all",any_status,platform,appnexus,false,51200,35100,15076100,1267600,--,Unknown,--
+KR,"South Korea",3329,AdRaiden,"all",any_status,platform,appnexus,false,49800,7400,62659400,8591100,--,Unknown,--
+KR,"South Korea",1942,Floor6,"all",any_status,platform,appnexus,false,49700,6800,40905500,5902800,--,Unknown,--
+KR,"South Korea",928,Suite66,"all",any_status,platform,appnexus,false,48200,6000,4775200,682800,--,Unknown,--
+KR,"South Korea",1836,Xaxis - Philippines,"all",any_status,platform,appnexus,false,45100,9900,8769100,1773800,--,Unknown,--
+KR,"South Korea",3277,AdsWizz Inc.,"all",any_status,platform,appnexus,false,41500,2700,1149300,64300,--,Unknown,--
+KR,"South Korea",2804,Adshoard,"all",any_status,platform,appnexus,false,41100,3700,16813800,1615600,--,Unknown,--
+KR,"South Korea",1226,AOL Marketplace,"all",any_status,external,appnexus,false,39800,6000,235871300,16692000,--,Unknown,--
+KR,"South Korea",1749,W M Web Media,"all",any_status,platform,appnexus,false,38200,25700,13260700,2910500,--,Unknown,--
+KR,"South Korea",2962,Auto Trader Limited,"all",any_status,platform,appnexus,false,37000,300,7642100,314800,--,Unknown,--
+KR,"South Korea",1608,Audience Square,"all",any_status,platform,appnexus,false,36200,2100,105438100,8520500,--,Unknown,--
+KR,"South Korea",1081,Sonobi,"all",any_status,platform,appnexus,false,35500,8200,42990300,4194800,--,Unknown,--
+KR,"South Korea",3251,"Infolinks, Inc.","all",any_status,platform,appnexus,false,35200,14300,12856900,4200800,--,Unknown,--
+KR,"South Korea",1449,Adtegrity,"all",any_status,platform,appnexus,false,34300,17100,30439500,3514500,--,Unknown,--
+KR,"South Korea",3492,StudyBreak Media,"all",any_status,platform,appnexus,false,32300,700,22529300,420600,--,Unknown,--
+KR,"South Korea",3294,7Seas Entertainment Limited,"all",any_status,platform,appnexus,false,31700,6100,16076400,5089100,--,Unknown,--
+KR,"South Korea",882,AN Talent,"all",any_status,platform,appnexus,false,31200,9100,50919300,13681900,--,Unknown,--
+KR,"South Korea",1949,Protein UK Limited,"all",any_status,platform,appnexus,false,30500,1900,975600,135500,--,Unknown,--
+KR,"South Korea",3098,WEBEDIA,"all",any_status,platform,appnexus,false,30000,5400,24378100,2766800,--,Unknown,--
+KR,"South Korea",2877,"Amobee, Inc.","all",any_status,platform,appnexus,false,28900,3400,36369000,3619800,--,Unknown,--
+KR,"South Korea",3427,Ziff Davis Inc.,"all",any_status,platform,appnexus,false,26800,1600,76600600,1156400,--,Unknown,--
+KR,"South Korea",1001,33Across Real Impact,"all",any_status,platform,appnexus,false,24900,11300,18859100,6600800,--,Unknown,--
+KR,"South Korea",2654,Profound,"all",any_status,platform,appnexus,false,23400,100,276200,54800,--,Unknown,--
+KR,"South Korea",1756,Adversal.com,"all",any_status,platform,appnexus,false,23400,7700,14605800,1435800,--,Unknown,--
+KR,"South Korea",1888,"Chitika, Inc.","all",any_status,platform,appnexus,false,22900,5400,3948200,830800,--,Unknown,--
+KR,"South Korea",1939,152 Media LLC,"all",any_status,platform,appnexus,false,21900,4700,10192000,1859100,--,Unknown,--
+KR,"South Korea",2974,Edge Media Group (The Edge Initiative),"all",any_status,platform,appnexus,false,21600,900,6347200,228100,--,Unknown,--
+KR,"South Korea",3470,Falk Technologies GmbH,"all",any_status,platform,appnexus,false,20900,1600,15817200,1599000,--,Unknown,--
+KR,"South Korea",1019,OnScroll Limited,"all",any_status,platform,appnexus,false,20700,2000,6624400,678300,--,Unknown,--
+KR,"South Korea",2741,DataWrkz Direct,"all",any_status,platform,appnexus,false,20200,5900,2735100,600000,--,Unknown,--
+KR,"South Korea",2688,Metric Science,"all",any_status,platform,appnexus,false,20200,3300,9603100,2033700,--,Unknown,--
+KR,"South Korea",3355,CBT Sports LLC,"all",any_status,platform,appnexus,false,20100,700,7145200,693200,--,Unknown,--
+KR,"South Korea",1558,Intermarkets Inc.,"all",any_status,platform,appnexus,false,18700,500,30382500,1177400,--,Unknown,--
+KR,"South Korea",3500,ASQ Brand,"all",any_status,platform,appnexus,false,18500,800,31317500,1935600,--,Unknown,--
+KR,"South Korea",3153,152 Media Select,"all",any_status,platform,appnexus,false,18400,400,2707800,122600,--,Unknown,--
+KR,"South Korea",1998,Vexigo Ltd,"all",any_status,platform,appnexus,false,18400,3800,3445200,1201200,--,Unknown,--
+KR,"South Korea",86,Photobucket,"all",any_status,external,appnexus,false,18000,2200,11045400,603100,--,Unknown,--
+KR,"South Korea",1530,AdPrudence,"all",any_status,platform,appnexus,false,17400,2300,7348600,3926400,--,Unknown,--
+KR,"South Korea",3356,Livingly Media Inc,"all",any_status,platform,appnexus,false,16200,400,24161000,762100,--,Unknown,--
+KR,"South Korea",3342,8Tracks Inc.,"all",any_status,platform,appnexus,false,15900,1000,430600,39600,--,Unknown,--
+KR,"South Korea",3449,"Curiosity Media, Inc.","all",any_status,platform,appnexus,false,15600,600,10356900,283500,--,Unknown,--
+KR,"South Korea",2732,Matchflow Media,"all",any_status,platform,appnexus,false,15400,1100,7167300,987300,--,Unknown,--
+KR,"South Korea",2637,Matomy Content Network,"all",any_status,platform,appnexus,false,15300,4400,18095200,4283300,--,Unknown,--
+KR,"South Korea",1413,DTCN,"all",any_status,platform,appnexus,false,13700,900,3640800,148100,--,Unknown,--
+KR,"South Korea",1705,Ninemsn Pty Limited,"all",any_status,platform,appnexus,false,13400,1200,16644700,1264500,--,Unknown,--
+KR,"South Korea",1643,Fidelity Media,"all",any_status,platform,appnexus,false,12900,3000,2384300,245800,--,Unknown,--
+KR,"South Korea",1792,Gourmet Ads Pty Limited,"all",any_status,platform,appnexus,false,12600,2900,8233900,1804300,--,Unknown,--
+KR,"South Korea",406,CPM Only,"all",any_status,platform,appnexus,false,12500,700,21834700,1228600,--,Unknown,--
+KR,"South Korea",2854,The Blogger Network,"all",any_status,platform,appnexus,false,12300,1500,8919200,1306800,--,Unknown,--
+KR,"South Korea",3202,MyLikes Inc.,"all",any_status,platform,appnexus,false,12200,300,282417300,3489900,--,Unknown,--
+KR,"South Korea",3006,CodeFuel,"all",any_status,platform,appnexus,false,12100,4600,737200,271100,--,Unknown,--
+KR,"South Korea",3295,Adrizer LLC,"all",any_status,platform,appnexus,false,12100,100,13765400,255500,--,Unknown,--
+KR,"South Korea",1405,Adscale GmbH,"all",any_status,external,appnexus,false,11800,400,24837600,2452400,--,Unknown,--
+KR,"South Korea",3508,Proper Media LLC,"all",any_status,platform,appnexus,false,10600,700,6134800,143000,--,Unknown,--
+KR,"South Korea",2025,Fairfax Digital,"all",any_status,platform,appnexus,false,9800,2000,24386900,1697200,--,Unknown,--
+KR,"South Korea",3273,Figaromedias,"all",any_status,platform,appnexus,false,9800,500,9570700,823900,--,Unknown,--
+KR,"South Korea",3136,Medialysiz Solutions Private Limited,"all",any_status,platform,appnexus,false,9800,500,79107400,1716300,--,Unknown,--
+KR,"South Korea",884,Hi-Media,"all",any_status,platform,appnexus,false,9700,1800,78342900,7448000,--,Unknown,--
+KR,"South Korea",2740,DataWrkz Premium,"all",any_status,platform,appnexus,false,8700,2300,12198700,1135400,--,Unknown,--
+KR,"South Korea",818,MediaShakers,"all",any_status,platform,appnexus,false,8600,4700,10228000,1615900,--,Unknown,--
+KR,"South Korea",1601,Orange Ad Market (France),"all",any_status,platform,appnexus,false,8500,300,122296400,5301300,--,Unknown,--
+KR,"South Korea",3135,33Across Real Display,"all",any_status,platform,appnexus,false,8400,2700,4629800,1139000,--,Unknown,--
+KR,"South Korea",2703,Adsparc - Sparc Media Pty Ltd,"all",any_status,platform,appnexus,false,8300,400,2462600,566800,--,Unknown,--
+KR,"South Korea",806,Venatus Media,"all",any_status,platform,appnexus,false,8100,1000,5662500,607700,--,Unknown,--
+KR,"South Korea",3331,"1World Online, Inc","all",any_status,platform,appnexus,false,8100,700,2200400,386800,--,Unknown,--
+KR,"South Korea",1560,OxaMedia Corporation,"all",any_status,platform,appnexus,false,8000,1000,659700,92900,--,Unknown,--
+KR,"South Korea",3450,Northern & Shell,"all",any_status,platform,appnexus,false,7800,700,2679800,348600,--,Unknown,--
+KR,"South Korea",3264,Accvee Premium,"all",any_status,platform,appnexus,false,7000,1200,2321900,475400,--,Unknown,--
+KR,"South Korea",1619,ReklamStore,"all",any_status,platform,appnexus,false,7000,1100,33992800,4954900,--,Unknown,--
+KR,"South Korea",2670,AD2ONE LTD,"all",any_status,platform,appnexus,false,6800,600,4396700,724000,--,Unknown,--
+KR,"South Korea",1932,Xaxis - APAC,"all",any_status,platform,appnexus,false,6600,2100,10100,3900,--,Unknown,--
+KR,"South Korea",1371,Interactive Media CCSP GmbH,"all",any_status,platform,appnexus,false,6400,700,67819600,5149400,--,Unknown,--
+KR,"South Korea",3415,eBay Advertising Germany,"all",any_status,platform,appnexus,false,6400,100,3914200,670100,--,Unknown,--
+KR,"South Korea",3491,StreamAMP Ltd,"all",any_status,platform,appnexus,false,6300,400,981000,118200,--,Unknown,--
+KR,"South Korea",2251,Waypoint Media,"all",any_status,platform,appnexus,false,5700,1700,3283400,186100,--,Unknown,--
+KR,"South Korea",3105,Adshoard Premium,"all",any_status,platform,appnexus,false,5400,900,977300,218900,--,Unknown,--
+KR,"South Korea",3258,The Publisher Desk LLC,"all",any_status,platform,appnexus,false,5200,1300,1045500,318200,--,Unknown,--
+KR,"South Korea",1922,Pub Ventures Media Corp,"all",any_status,platform,appnexus,false,5200,1300,5271100,816000,--,Unknown,--
+KR,"South Korea",2695,RhythmOne Owned & Operated,"all",any_status,platform,appnexus,false,5200,1000,481700,101800,--,Unknown,--
+KR,"South Korea",2797,Disqus Inc.,"all",any_status,platform,appnexus,false,5000,2700,843500,446800,--,Unknown,--
+KR,"South Korea",3208,Lyfe Media,"all",any_status,platform,appnexus,false,5000,500,3122000,202400,--,Unknown,--
+KR,"South Korea",3335,Optimatic Inc.,"all",any_status,platform,appnexus,false,4900,300,1522500,368600,--,Unknown,--
+KR,"South Korea",1393,ReactX,"all",any_status,platform,appnexus,false,4800,2400,5024300,1325500,--,Unknown,--
+KR,"South Korea",2884,Ambient Digital Pte Limited,"all",any_status,platform,appnexus,false,4700,1200,1477000,463300,--,Unknown,--
+KR,"South Korea",2532,Batanga Media Exchange,"all",any_status,platform,appnexus,false,4700,400,65736600,5238500,--,Unknown,--
+KR,"South Korea",2465,AdMetrics Media Ltd Premium Exchange,"all",any_status,platform,appnexus,false,4500,300,1091100,235300,--,Unknown,--
+KR,"South Korea",3129,Altitude Digital Select,"all",any_status,platform,appnexus,false,4500,100,140600,13100,--,Unknown,--
+KR,"South Korea",2723,Riot New Media Group,"all",any_status,platform,appnexus,false,4500,400,4076700,146500,--,Unknown,--
+KR,"South Korea",2556,CoAdvertise GmbH,"all",any_status,platform,appnexus,false,4500,400,4132800,277600,--,Unknown,--
+KR,"South Korea",2568,Engage:BDR,"all",any_status,platform,appnexus,false,4500,200,13797700,999100,--,Unknown,--
+KR,"South Korea",3050,Traffiq Exchange Performance,"all",any_status,platform,appnexus,false,4500,1700,63500,6600,--,Unknown,--
+KR,"South Korea",2420,TailWind 3,"all",any_status,platform,appnexus,false,4400,500,10334000,2292600,--,Unknown,--
+KR,"South Korea",2714,Xaxis - US Marketplace,"all",any_status,platform,appnexus,false,4200,1700,10008000,3150700,--,Unknown,--
+KR,"South Korea",3296,Leboncoin Schibsted France,"all",any_status,platform,appnexus,false,4200,200,21471700,1519500,--,Unknown,--
+KR,"South Korea",3358,"7Hops.com, Inc","all",any_status,platform,appnexus,false,3900,300,5991900,196300,--,Unknown,--
+KR,"South Korea",3339,Petilmat S.A.,"all",any_status,platform,appnexus,false,3800,400,42488800,458000,--,Unknown,--
+KR,"South Korea",2599,Adadyn Audience,"all",any_status,platform,appnexus,false,3800,600,3501500,557100,--,Unknown,--
+KR,"South Korea",311,Collective Exchange,"all",any_status,platform,appnexus,false,3500,800,118022500,7496400,--,Unknown,--
+KR,"South Korea",2669,Brightcom Media,"all",any_status,platform,appnexus,false,3500,1500,5889900,1754500,--,Unknown,--
+KR,"South Korea",232,LinkedIn Corporation,"all",any_status,platform,appnexus,false,3400,1300,2080700,334400,--,Unknown,--
+KR,"South Korea",2548,Foriatel Land S.A.,"all",any_status,platform,appnexus,false,3400,700,870100,124500,--,Unknown,--
+KR,"South Korea",3458,SpinMedia Group,"all",any_status,platform,appnexus,false,3300,600,3827600,429100,--,Unknown,--
+KR,"South Korea",2661,Meridian Tech Pte Ltd,"all",any_status,platform,appnexus,false,3300,500,732300,120300,--,Unknown,--
+KR,"South Korea",3344,Programmatic Mechanics (Select),"all",any_status,platform,appnexus,false,3200,300,181900,22700,--,Unknown,--
+KR,"South Korea",568,Httpool,"all",any_status,platform,appnexus,false,3100,800,4504500,489800,--,Unknown,--
+KR,"South Korea",2249,Komli Media Inc.,"all",any_status,platform,appnexus,false,3100,1600,3381800,351600,--,Unknown,--
+KR,"South Korea",1540,Schibsted Sweden AB,"all",any_status,platform,appnexus,false,3000,500,51435800,3832500,--,Unknown,--
+KR,"South Korea",2441,Programmatic Mechanics,"all",any_status,platform,appnexus,false,2900,1000,1519200,531600,--,Unknown,--
+KR,"South Korea",956,Zodiak Active,"all",any_status,platform,appnexus,false,2800,1700,38893500,4419300,--,Unknown,--
+KR,"South Korea",2252,One Advertising AG,"all",any_status,platform,appnexus,false,2800,400,7525500,736100,--,Unknown,--
+KR,"South Korea",2399,Adsiduous Media,"all",any_status,platform,appnexus,false,2600,600,2949200,558200,--,Unknown,--
+KR,"South Korea",2457,"Accvee, Inc","all",any_status,platform,appnexus,false,2600,800,923800,189700,--,Unknown,--
+KR,"South Korea",3282,EST Digital Ltd.,"all",any_status,platform,appnexus,false,2600,1300,47645400,428000,--,Unknown,--
+KR,"South Korea",3456,A Plus,"all",any_status,platform,appnexus,false,2400,900,1600500,491900,--,Unknown,--
+KR,"South Korea",2660,DMG Mobile,"all",any_status,platform,appnexus,false,2400,100,2146200,100,--,Unknown,--
+KR,"South Korea",3074,VICE Media,"all",any_status,platform,appnexus,false,2300,200,932000,158300,--,Unknown,--
+KR,"South Korea",2825,"Merriam-Webster, Incorporated, a Delaware Corporation","all",any_status,platform,appnexus,false,2300,500,166400,69500,--,Unknown,--
+KR,"South Korea",740,NetSeer Inc,"all",any_status,platform,appnexus,false,2300,400,7597600,1139500,--,Unknown,--
+KR,"South Korea",3071,Mamamia.com.au Pty Ltd.,"all",any_status,platform,appnexus,false,1900,300,571700,138600,--,Unknown,--
+KR,"South Korea",1354,Improve Digital,"all",any_status,platform,appnexus,false,1900,200,621245100,18956500,--,Unknown,--
+KR,"South Korea",3341,eBay Southern Europe,"all",any_status,platform,appnexus,false,1900,500,3920900,450400,--,Unknown,--
+KR,"South Korea",927,Adgorithms,"all",any_status,platform,appnexus,false,1900,500,6724900,347200,--,Unknown,--
+KR,"South Korea",2358,Ureka Media Corporation,"all",any_status,platform,appnexus,false,1800,600,274000,90900,--,Unknown,--
+KR,"South Korea",1108,"Shareaholic, Inc.","all",any_status,platform,appnexus,false,1800,1600,130400,82100,--,Unknown,--
+KR,"South Korea",2023,RedMas Argentina S.A.,"all",any_status,platform,appnexus,false,1800,400,6517100,844200,--,Unknown,--
+KR,"South Korea",2445,HitFox ad2games GmbH,"all",any_status,platform,appnexus,false,1800,900,206800,88000,--,Unknown,--
+KR,"South Korea",2291,Big Mobile Group Pty Ltd,"all",any_status,platform,appnexus,false,1800,1000,416700,148700,--,Unknown,--
+KR,"South Korea",1755,Digital Throttle,"all",any_status,platform,appnexus,false,1800,500,3701800,352900,--,Unknown,--
+KR,"South Korea",2449,MediaShakers - Select,"all",any_status,platform,appnexus,false,1700,500,4306700,683800,--,Unknown,--
+KR,"South Korea",2551,Sonobi - Premium,"all",any_status,platform,appnexus,false,1700,300,433853900,17128600,--,Unknown,--
+KR,"South Korea",2365,SouthernX,"all",any_status,platform,appnexus,false,1700,300,9346800,814900,--,Unknown,--
+KR,"South Korea",3047,Sodel Solutions Pvt. Ltd.,"all",any_status,platform,appnexus,false,1700,200,1867500,250400,--,Unknown,--
+KR,"South Korea",2007,Affinity.com,"all",any_status,platform,appnexus,false,1500,600,2889400,768700,--,Unknown,--
+KR,"South Korea",1672,Hivewyre,"all",any_status,platform,appnexus,false,1500,500,439400,154600,--,Unknown,--
+KR,"South Korea",2579,Quantum,"all",any_status,platform,appnexus,false,1500,800,13959700,4325300,--,Unknown,--
+KR,"South Korea",718,TLV Media Online Ltd,"all",any_status,platform,appnexus,false,1400,400,31807400,1070300,--,Unknown,--
+KR,"South Korea",1773,Gay Ad Network,"all",any_status,platform,appnexus,false,1300,400,1237900,187800,--,Unknown,--
+KR,"South Korea",1963,Crucial Interactive Inc.,"all",any_status,platform,appnexus,false,1300,200,1813200,266900,--,Unknown,--
+KR,"South Korea",3083,Orbits Digital LLP,"all",any_status,platform,appnexus,false,1200,400,1847300,309000,--,Unknown,--
+KR,"South Korea",2733,Prodege LLC,"all",any_status,platform,appnexus,false,1200,300,821100,340400,--,Unknown,--
+KR,"South Korea",2331,Schibsted Classifieds,"all",any_status,platform,appnexus,false,1100,200,46707200,2582600,--,Unknown,--
+KR,"South Korea",3223,AGA Ad Media LLP,"all",any_status,platform,appnexus,false,1100,100,4417400,392100,--,Unknown,--
+KR,"South Korea",1362,IMS Connect,"all",any_status,platform,appnexus,false,1000,300,679600,81800,--,Unknown,--
+KR,"South Korea",1023,"Say Media, Inc.","all",any_status,platform,appnexus,false,900,300,722500,62100,--,Unknown,--
+KR,"South Korea",3246,DailyMail,"all",any_status,platform,appnexus,false,900,200,60836200,3721800,--,Unknown,--
+KR,"South Korea",2518,PremiumCPM LLC,"all",any_status,platform,appnexus,false,900,400,1177900,117900,--,Unknown,--
+KR,"South Korea",542,Up-value GmbH,"all",any_status,platform,appnexus,false,800,400,1564800,487800,--,Unknown,--
+KR,"South Korea",3421,ZDH Consulting Inc,"all",any_status,platform,appnexus,false,800,500,78300,36800,--,Unknown,--
+KR,"South Korea",982,Altitude Digital Partners,"all",any_status,platform,appnexus,false,700,300,8178700,2302100,--,Unknown,--
+KR,"South Korea",2011,Apex,"all",any_status,platform,appnexus,false,700,500,914200,337200,--,Unknown,--
+KR,"South Korea",1285,The Globe and Mail Inc.,"all",any_status,platform,appnexus,false,700,200,2584900,458200,--,Unknown,--
+KR,"South Korea",2775,Numbate (Mozoo),"all",any_status,platform,appnexus,false,700,600,3487000,1751900,--,Unknown,--
+KR,"South Korea",996,WebAds IT,"all",any_status,platform,appnexus,false,700,200,11547600,454500,--,Unknown,--
+KR,"South Korea",1351,Spiroox Media s.l.,"all",any_status,platform,appnexus,false,700,300,2385900,157100,--,Unknown,--
+KR,"South Korea",1940,McCann Disciplines LTD.,"all",any_status,platform,appnexus,false,700,200,626600,298000,--,Unknown,--
+KR,"South Korea",2668,MonPar B.V.,"all",any_status,platform,appnexus,false,600,200,4365200,553500,--,Unknown,--
+KR,"South Korea",3075,Admaru Network LLC,"all",any_status,platform,appnexus,false,600,500,215300,58900,--,Unknown,--
+KR,"South Korea",2767,Premio,"all",any_status,platform,appnexus,false,600,100,13645000,1596900,--,Unknown,--
+KR,"South Korea",1130,Orange Advertising Americas,"all",any_status,platform,appnexus,false,600,100,10000800,1442700,--,Unknown,--
+KR,"South Korea",2562,N&S Plus,"all",any_status,platform,appnexus,false,600,100,574500,152000,--,Unknown,--
+KR,"South Korea",1656,Media White,"all",any_status,platform,appnexus,false,500,200,847800,69000,--,Unknown,--
+KR,"South Korea",2935,Suite66 Select,"all",any_status,platform,appnexus,false,500,200,2593100,504600,--,Unknown,--
+KR,"South Korea",2662,Aim4Media BV,"all",any_status,platform,appnexus,false,500,100,2838000,269800,--,Unknown,--
+KR,"South Korea",855,Adadyn Premium,"all",any_status,platform,appnexus,false,500,100,3789700,1111500,--,Unknown,--
+KR,"South Korea",3048,Internet Brands Inc.,"all",any_status,platform,appnexus,false,500,200,364400,178600,--,Unknown,--
+KR,"South Korea",3040,Bounce Exchange Inc.,"all",any_status,platform,appnexus,false,500,200,65000,25500,--,Unknown,--
+KR,"South Korea",329,Bannerconnect,"all",any_status,platform,appnexus,true,500,100,343800,107000,--,Unknown,--
+KR,"South Korea",2117,"AdKarma, LLC","all",any_status,platform,appnexus,false,500,400,90400,61700,--,Unknown,--
+KR,"South Korea",3057,Adverline SAS,"all",any_status,platform,appnexus,false,500,200,5136100,559900,--,Unknown,--
+KR,"South Korea",648,Unanimis Consulting Limited,"all",any_status,platform,appnexus,true,500,300,2278600,237600,--,Unknown,--
+KR,"South Korea",2587,Woven Digital LLC,"all",any_status,platform,appnexus,false,500,300,388600,84500,--,Unknown,--
+KR,"South Korea",2564,24/7 Media France,"all",any_status,platform,appnexus,false,500,100,10287100,1345400,--,Unknown,--
+KR,"South Korea",3325,Stream Media Inc,"all",any_status,platform,appnexus,false,500,300,3303600,660900,--,Unknown,--
+KR,"South Korea",3101,De Persgroep Publishing NV,"all",any_status,platform,appnexus,false,500,200,6325700,799500,--,Unknown,--
+KR,"South Korea",2945,Adhood,"all",any_status,platform,appnexus,false,400,200,1203200,108800,--,Unknown,--
+KR,"South Korea",3051,Mobile Network Group - MNG (M-Brand3),"all",any_status,platform,appnexus,false,400,200,2739000,328300,--,Unknown,--
+KR,"South Korea",2067,"Gorilla Nation Media, LLC","all",any_status,platform,appnexus,false,400,200,1537600,492400,--,Unknown,--
+KR,"South Korea",2725,Project Agora (Tailwind EMEA Ltd),"all",any_status,platform,appnexus,false,400,200,5407700,1540900,--,Unknown,--
+KR,"South Korea",2219,Intag DW LLC,"all",any_status,platform,appnexus,false,400,200,756200,89300,--,Unknown,--
+KR,"South Korea",1410,Index Exchange Inc,"all",any_status,platform,appnexus,false,400,100,120257700,8556000,--,Unknown,--
+KR,"South Korea",2437,Canadian Programmatic Marketplace,"all",any_status,platform,appnexus,false,400,200,5933100,560600,--,Unknown,--
+KR,"South Korea",2699,"Elite Daily, Inc","all",any_status,platform,appnexus,false,400,200,64400,30100,--,Unknown,--
+KR,"South Korea",2891,Jenjo LLC - ASI,"all",any_status,platform,appnexus,false,300,100,277900,202300,--,Unknown,--
+KR,"South Korea",3145,Mth Sense Inc,"all",any_status,platform,appnexus,false,300,100,1990900,314000,--,Unknown,--
+KR,"South Korea",3198,Clique Media FZ LLC,"all",any_status,platform,appnexus,false,300,200,3037900,583000,--,Unknown,--
+KR,"South Korea",3232,Builder Homesite Inc,"all",any_status,platform,appnexus,false,300,100,656000,14500,--,Unknown,--
+KR,"South Korea",3194,Optima Network SL,"all",any_status,platform,appnexus,false,300,200,2775100,736500,--,Unknown,--
+KR,"South Korea",3209,Tightrope Interactive,"all",any_status,platform,appnexus,false,300,200,51700,25500,--,Unknown,--
+KR,"South Korea",3368,SMARTSTREAM.TV GmbH,"all",any_status,platform,appnexus,false,300,200,1449300,121200,--,Unknown,--
+KR,"South Korea",1408,The Edge Initiative,"all",any_status,platform,appnexus,false,300,200,2415100,389800,--,Unknown,--
+KR,"South Korea",1914,"Blabwire Media, LLC","all",any_status,platform,appnexus,false,300,200,474500,97200,--,Unknown,--
+KR,"South Korea",3089,Golden State Media LLC,"all",any_status,unknown,appnexus,false,300,100,106000,100,--,Unknown,--
+KR,"South Korea",3299,"Delivery Media, S.L.","all",any_status,platform,appnexus,false,300,100,3767900,435000,--,Unknown,--
+KR,"South Korea",1568,iMediaSalesTeam,"all",any_status,platform,appnexus,false,200,100,88900,69800,--,Unknown,--
+KR,"South Korea",3416,Core2Digital Premium,"all",any_status,platform,appnexus,false,200,100,1494300,575700,--,Unknown,--
+KR,"South Korea",2737,Semilo B.V.,"all",any_status,platform,appnexus,false,200,100,4764900,541500,--,Unknown,--
+KR,"South Korea",3480,Netpoint Media GmbH,"all",any_status,platform,appnexus,false,200,200,321800,252700,--,Unknown,--
+KR,"South Korea",1768,Ideon Media,"all",any_status,platform,appnexus,false,200,200,132100,17100,--,Unknown,--
+KR,"South Korea",2992,playbuzz Ltd.,"all",any_status,platform,appnexus,false,200,200,509200,274500,--,Unknown,--
+KR,"South Korea",1997,Cubics,"all",any_status,platform,appnexus,false,200,100,300,200,--,Unknown,--
+KR,"South Korea",2064,AdSeven,"all",any_status,platform,appnexus,false,200,100,475100,60300,--,Unknown,--
+KR,"South Korea",3380,Redview Media (TailWind EMEA Ltd.),"all",any_status,platform,appnexus,false,200,100,3445400,763300,--,Unknown,--
+KR,"South Korea",3428,DeviantArt Inc,"all",any_status,platform,appnexus,false,200,100,9964500,466300,--,Unknown,--
+KR,"South Korea",2370,Datawrkz,"all",any_status,platform,appnexus,false,200,200,2211500,338100,--,Unknown,--
+KR,"South Korea",1432,Social Game Media LLC,"all",any_status,platform,appnexus,false,200,200,957900,163700,--,Unknown,--
+KR,"South Korea",597,Dedicated Media,"all",any_status,platform,appnexus,false,200,100,49900,15700,--,Unknown,--
+KR,"South Korea",2967,orbyd GmbH,"all",any_status,platform,appnexus,false,200,100,1551100,206200,--,Unknown,--
+KR,"South Korea",1585,Horyzon Media,"all",any_status,platform,appnexus,false,200,100,1553600,357900,--,Unknown,--
+KR,"South Korea",2640,Vibrant Media Inc.,"all",any_status,platform,appnexus,false,200,200,9709800,2611900,--,Unknown,--
+KR,"South Korea",2026,Tailwind 1,"all",any_status,platform,appnexus,false,200,200,7855800,769800,--,Unknown,--
+KR,"South Korea",2076,FemmeFab,"all",any_status,platform,appnexus,false,200,100,922700,128100,--,Unknown,--
+KR,"South Korea",2913,Imali - N.I. Media Ltd.,"all",any_status,platform,appnexus,false,200,100,2500,200,--,Unknown,--
+KR,"South Korea",564,Collective Exchange (UK),"all",any_status,platform,appnexus,false,100,100,1089100,374700,--,Unknown,--
+KR,"South Korea",3359,Topix LLC,"all",any_status,platform,appnexus,false,100,100,763300,14800,--,Unknown,--
+KR,"South Korea",3058,Innity Corporation Berhad,"all",any_status,platform,appnexus,false,100,100,3289300,1909200,--,Unknown,--
+KR,"South Korea",2760,Alveo,"all",any_status,platform,appnexus,false,100,100,9946100,478000,--,Unknown,--
+KR,"South Korea",3270,StreamAds B.V.,"all",any_status,platform,appnexus,false,100,100,234100,91000,--,Unknown,--
+KR,"South Korea",3203,evania GmbH,"all",any_status,platform,appnexus,false,100,100,426700,80500,--,Unknown,--
+KR,"South Korea",2735,Adhub Limited,"all",any_status,platform,appnexus,false,100,100,69800,11100,--,Unknown,--
+KR,"South Korea",2234,Undertone Networks,"all",any_status,platform,appnexus,false,100,100,8155700,2003700,--,Unknown,--
+KR,"South Korea",319,Ybrant Digital,"all",any_status,platform,appnexus,true,100,200,482500,149400,--,Unknown,--
+KR,"South Korea",1509,Anonymous member 1509,"all",any_status,platform,appnexus,false,100,100,3800,100,--,Unknown,--
+KR,"South Korea",1945,Adperium BV - Performance,"all",any_status,platform,appnexus,false,100,100,28500,5300,--,Unknown,--
+KR,"South Korea",994,WebAds NL,"all",any_status,platform,appnexus,false,100,100,4495200,548400,--,Unknown,--
+KR,"South Korea",1862,ACC Ventures LLC,"all",any_status,platform,appnexus,false,100,100,4300,3200,--,Unknown,--
+KR,"South Korea",946,Advertise.com,"all",any_status,platform,appnexus,false,100,200,1099500,223600,--,Unknown,--
+KR,"South Korea",1180,MailOnline Publisher Network,"all",any_status,platform,appnexus,false,100,100,10542300,1185000,--,Unknown,--
+KR,"South Korea",2576,MauDau Ltd.,"all",any_status,platform,appnexus,false,100,200,4400,1600,--,Unknown,--
+KR,"South Korea",3442,Ampliffy,"all",any_status,platform,appnexus,false,100,100,4078100,299600,--,Unknown,--
+KR,"South Korea",3139,Big Scale Media,"all",any_status,platform,appnexus,false,100,100,40200,2500,--,Unknown,--
+
+
+
+Report type: seller
+Run at: 11/10/2015 06:44:02
+Start date: 11/03/2015 00:00:00
+End date: 11/10/2015 00:00:00
+Timezone: UTC
+User: Cyril Andea (172047)
