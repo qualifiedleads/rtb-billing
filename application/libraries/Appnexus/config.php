@@ -16,7 +16,7 @@ $config['token_expiry'] = 7200; # 2 hrs default.
 $config['token_refresh'] = 6600; # 1.83 hrs.
 
 // Date format to use.
-$config['date_format'] = "Y-m-d H-i-s T";
+$config['date_format'] = "Y-m-d H:i:s T";
 
 // Number of login attempts to failure.
 $config['max_login_retry'] = 3;

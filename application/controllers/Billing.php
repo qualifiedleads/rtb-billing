@@ -18,6 +18,13 @@ class Billing extends CI_Controller
     public function index()
     {}
 
+    /**
+    * Gets total of single adveriser's media costs and impressions logs identified by
+    * a given Appnexus' advertiser id.
+    *
+    * @param  integer $adv_id Appnexus' advertiser id.
+    * @return string
+    */
     public function getAdvertiserCostImps($adv_id=null)
     {
         $plain_output = $this->input->get('plain');
@@ -62,11 +69,11 @@ class Billing extends CI_Controller
             else
             {
                 $report_id = $response_body['response']['report_id'];
-                $report_csv = $this->apnx->getReport($report_id);
-
-                $report_csv = $report_csv['body'];
+                $this->apnx->writeReport($report_id);
+                $report_csv = $this->apnx->readReport($report_id);
                 $report_array = explode("\n", $report_csv);
                 $header = array_shift($report_array);
+                array_pop($report_array);
 
                 $data = [
                     "google" => [
@@ -96,44 +103,59 @@ class Billing extends CI_Controller
                     "ss" => $ss
                 ];
                 
-                // Filter, group according to seller
-                foreach ($report_array as $csv)
+                if(count($report_array) > 0)
                 {
-                    $csv = trim($csv);
-                    if(!empty($csv))
+                    // Filter, group according to seller
+                    foreach ($report_array as $csv)
                     {
-                        $csv_line_pieces = str_getcsv($csv);
-                        if(count($csv_line_pieces) == 4)
+                        $csv = trim($csv);
+                        if(!empty($csv))
                         {
-                            $member_name = $csv_line_pieces[0];
-                            $member_id = $csv_line_pieces[1];
-                            $media_cost = $csv_line_pieces[2];
-                            $imps = $csv_line_pieces[3];
-
-                            // All
-                            $data['all']['media_cost'] += $media_cost;
-                            $data['all']['imps'] += $imps;
-
-                            // Google
-                            if ($member_id == 181)
+                            $csv_line_pieces = str_getcsv($csv);
+                            if(count($csv_line_pieces) == 4)
                             {
-                                $data['google']['media_cost'] += $media_cost;
-                                $data['google']['imps'] += $imps;
+                                $member_name = $csv_line_pieces[0];
+                                $member_id = $csv_line_pieces[1];
+                                $media_cost = $csv_line_pieces[2];
+                                $imps = $csv_line_pieces[3];
+
+                                // All
+                                $data['all']['media_cost'] += $media_cost;
+                                $data['all']['imps'] += $imps;
+
+                                // Google
+                                if ($member_id == 181)
+                                {
+                                    $data['google']['media_cost'] += $media_cost;
+                                    $data['google']['imps'] += $imps;
+                                }
+                                // Yahoo
+                                elseif ($member_id == 273)
+                                {
+                                    $data['yahoo']['media_cost'] += $media_cost;
+                                    $data['yahoo']['imps'] += $imps;
+                                }
+                                // Others
+                                else
+                                {
+                                    $data['others']['media_cost'] += $media_cost;
+                                    $data['others']['imps'] += $imps;
+                                }
                             }
-                            // Yahoo
-                            elseif ($member_id == 273)
-                            {
-                                $data['yahoo']['media_cost'] += $media_cost;
-                                $data['yahoo']['imps'] += $imps;
-                            }
-                            // Others
                             else
                             {
-                                $data['others']['media_cost'] += $media_cost;
-                                $data['others']['imps'] += $imps;
+                                $this->apnx->logError("Cannot read CSV stream.");
                             }
-                        } 
+                        }
+                        else
+                        {
+                            $this->apnx->logError("Cannot read CSV stream.");
+                        }
                     }
+                }
+                else
+                {
+                    $this->apnx->logError("File is empty fo report id: {$report_id}.");
                 }
 
                 $output = [
@@ -158,7 +180,17 @@ class Billing extends CI_Controller
         }
     }
 
-    public function getBuyerCostImps($user_id=null)
+    /**
+    * Gets total of all adveriser's media costs and impressions logs under single user
+    * identified by a given Appnexus' "Network Advertiser Manager" id.
+    * 
+    * If GET query paramater 'last_month' is set, it will retrieve all of last month's
+    * worth of logs.
+    *
+    * @param  integer $user_id Appnexus' "Network Advertiser Manager" id.
+    * @return string
+    */
+    public function getUserCostImps($user_id=null)
     {
         $plain_output = $this->input->get('plain');
         $range_last_month = $this->input->get('last_month');
@@ -214,9 +246,8 @@ class Billing extends CI_Controller
                 else
                 {
                     $report_id = $response_body['response']['report_id'];
-                    $report_csv = $this->apnx->getReport($report_id);
-
-                    $report_csv = $report_csv['body'];
+                    $this->apnx->writeReport($report_id);
+                    $report_csv = $this->apnx->readReport($report_id);
                     $report_array = explode("\n", $report_csv);
                     $header = array_shift($report_array);
 
@@ -484,8 +515,8 @@ class Billing extends CI_Controller
         }
     }
 
-    public function test($file=null)
+    public function test()
     {
-        echo $file;
+        file_put_contents(FCPATH.'application/logs/'.time().'.log', "test");
     }
 }
